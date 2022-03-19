@@ -1,0 +1,12512 @@
+hypos !Contain 0dieu
+hypos: 0
+hypos: 0
+hypos: 0
+hypos: 0
+hypos: 0
+hypos Contains 00000
+hypos does not match place of 00000
+hypos: a
+wonky !Contain 0dieu
+wonky: 0
+wonky: 0
+wonky: 0
+wonky: 0
+wonky: 0
+wonky Contains 00000
+wonky does not match place of 00000
+wonky: a
+gooks !Contain 0dieu
+gooks: 0
+gooks: 0
+gooks: 0
+gooks: 0
+gooks: 0
+gooks Contains 00000
+gooks does not match place of 00000
+gooks: a
+taros !Contain 0dieu
+taros: 0
+taros: 0
+taros: 0
+taros: 0
+taros: 0
+taros Contains 00000
+taros does not match place of 00000
+taros: a
+pasts !Contain 0dieu
+pasts: 0
+pasts: 0
+pasts: 0
+pasts: 0
+pasts: 0
+pasts Contains 00000
+pasts does not match place of 00000
+pasts: a
+shmoo !Contain 0dieu
+shmoo: 0
+shmoo: 0
+shmoo: 0
+shmoo: 0
+shmoo: 0
+shmoo Contains 00000
+shmoo does not match place of 00000
+shmoo: a
+zooks !Contain 0dieu
+zooks: 0
+zooks: 0
+zooks: 0
+zooks: 0
+zooks: 0
+zooks Contains 00000
+zooks does not match place of 00000
+zooks: a
+moots !Contain 0dieu
+moots: 0
+moots: 0
+moots: 0
+moots: 0
+moots: 0
+moots Contains 00000
+moots does not match place of 00000
+moots: a
+barms !Contain 0dieu
+barms: 0
+barms: 0
+barms: 0
+barms: 0
+barms: 0
+barms Contains 00000
+barms does not match place of 00000
+barms: a
+snook !Contain 0dieu
+snook: 0
+snook: 0
+snook: 0
+snook: 0
+snook: 0
+snook Contains 00000
+snook does not match place of 00000
+snook: a
+fatwa !Contain 0dieu
+fatwa: 0
+fatwa: 0
+fatwa: 0
+fatwa: 0
+fatwa: 0
+fatwa Contains 00000
+fatwa does not match place of 00000
+fatwa: a
+johns !Contain 0dieu
+johns: 0
+johns: 0
+johns: 0
+johns: 0
+johns: 0
+johns Contains 00000
+johns does not match place of 00000
+johns: a
+lycra !Contain 0dieu
+lycra: 0
+lycra: 0
+lycra: 0
+lycra: 0
+lycra: 0
+lycra Contains 00000
+lycra does not match place of 00000
+lycra: a
+amyls !Contain 0dieu
+amyls: 0
+amyls: 0
+amyls: 0
+amyls: 0
+amyls: 0
+amyls Contains 00000
+amyls does not match place of 00000
+amyls: a
+amyls: 0
+amyls: 0
+amyls: 0
+amyls: 0
+amyls Has Matched Char a0000
+amyls added to result!
+alkyl !Contain 0dieu
+alkyl: 0
+alkyl: 0
+alkyl: 0
+alkyl: 0
+alkyl: 0
+alkyl Contains 00000
+alkyl does not match place of 00000
+alkyl: a
+alkyl: 0
+alkyl: 0
+alkyl: 0
+alkyl: 0
+alkyl Has Matched Char a0000
+alkyl added to result!
+nooky !Contain 0dieu
+nooky: 0
+nooky: 0
+nooky: 0
+nooky: 0
+nooky: 0
+nooky Contains 00000
+nooky does not match place of 00000
+nooky: a
+molas !Contain 0dieu
+molas: 0
+molas: 0
+molas: 0
+molas: 0
+molas: 0
+molas Contains 00000
+molas does not match place of 00000
+molas: a
+typal !Contain 0dieu
+typal: 0
+typal: 0
+typal: 0
+typal: 0
+typal: 0
+typal Contains 00000
+typal does not match place of 00000
+typal: a
+rajas !Contain 0dieu
+rajas: 0
+rajas: 0
+rajas: 0
+rajas: 0
+rajas: 0
+rajas Contains 00000
+rajas does not match place of 00000
+rajas: a
+morph !Contain 0dieu
+morph: 0
+morph: 0
+morph: 0
+morph: 0
+morph: 0
+morph Contains 00000
+morph does not match place of 00000
+morph: a
+wazoo !Contain 0dieu
+wazoo: 0
+wazoo: 0
+wazoo: 0
+wazoo: 0
+wazoo: 0
+wazoo Contains 00000
+wazoo does not match place of 00000
+wazoo: a
+harks !Contain 0dieu
+harks: 0
+harks: 0
+harks: 0
+harks: 0
+harks: 0
+harks Contains 00000
+harks does not match place of 00000
+harks: a
+toyon !Contain 0dieu
+toyon: 0
+toyon: 0
+toyon: 0
+toyon: 0
+toyon: 0
+toyon Contains 00000
+toyon does not match place of 00000
+toyon: a
+spoor !Contain 0dieu
+spoor: 0
+spoor: 0
+spoor: 0
+spoor: 0
+spoor: 0
+spoor Contains 00000
+spoor does not match place of 00000
+spoor: a
+loggy !Contain 0dieu
+loggy: 0
+loggy: 0
+loggy: 0
+loggy: 0
+loggy: 0
+loggy Contains 00000
+loggy does not match place of 00000
+loggy: a
+gator !Contain 0dieu
+gator: 0
+gator: 0
+gator: 0
+gator: 0
+gator: 0
+gator Contains 00000
+gator does not match place of 00000
+gator: a
+abaft !Contain 0dieu
+abaft: 0
+abaft: 0
+abaft: 0
+abaft: 0
+abaft: 0
+abaft Contains 00000
+abaft does not match place of 00000
+abaft: a
+abaft: 0
+abaft: 0
+abaft: 0
+abaft: 0
+abaft Has Matched Char a0000
+abaft added to result!
+twats !Contain 0dieu
+twats: 0
+twats: 0
+twats: 0
+twats: 0
+twats: 0
+twats Contains 00000
+twats does not match place of 00000
+twats: a
+swags !Contain 0dieu
+swags: 0
+swags: 0
+swags: 0
+swags: 0
+swags: 0
+swags Contains 00000
+swags does not match place of 00000
+swags: a
+pally !Contain 0dieu
+pally: 0
+pally: 0
+pally: 0
+pally: 0
+pally: 0
+pally Contains 00000
+pally does not match place of 00000
+pally: a
+topos !Contain 0dieu
+topos: 0
+topos: 0
+topos: 0
+topos: 0
+topos: 0
+topos Contains 00000
+topos does not match place of 00000
+topos: a
+whoso !Contain 0dieu
+whoso: 0
+whoso: 0
+whoso: 0
+whoso: 0
+whoso: 0
+whoso Contains 00000
+whoso does not match place of 00000
+whoso: a
+malty !Contain 0dieu
+malty: 0
+malty: 0
+malty: 0
+malty: 0
+malty: 0
+malty Contains 00000
+malty does not match place of 00000
+malty: a
+playa !Contain 0dieu
+playa: 0
+playa: 0
+playa: 0
+playa: 0
+playa: 0
+playa Contains 00000
+playa does not match place of 00000
+playa: a
+apsos !Contain 0dieu
+apsos: 0
+apsos: 0
+apsos: 0
+apsos: 0
+apsos: 0
+apsos Contains 00000
+apsos does not match place of 00000
+apsos: a
+apsos: 0
+apsos: 0
+apsos: 0
+apsos: 0
+apsos Has Matched Char a0000
+apsos added to result!
+grook !Contain 0dieu
+grook: 0
+grook: 0
+grook: 0
+grook: 0
+grook: 0
+grook Contains 00000
+grook does not match place of 00000
+grook: a
+nonny !Contain 0dieu
+nonny: 0
+nonny: 0
+nonny: 0
+nonny: 0
+nonny: 0
+nonny Contains 00000
+nonny does not match place of 00000
+nonny: a
+mashy !Contain 0dieu
+mashy: 0
+mashy: 0
+mashy: 0
+mashy: 0
+mashy: 0
+mashy Contains 00000
+mashy does not match place of 00000
+mashy: a
+rooky !Contain 0dieu
+rooky: 0
+rooky: 0
+rooky: 0
+rooky: 0
+rooky: 0
+rooky Contains 00000
+rooky does not match place of 00000
+rooky: a
+bract !Contain 0dieu
+bract: 0
+bract: 0
+bract: 0
+bract: 0
+bract: 0
+bract Contains 00000
+bract does not match place of 00000
+bract: a
+gappy !Contain 0dieu
+gappy: 0
+gappy: 0
+gappy: 0
+gappy: 0
+gappy: 0
+gappy Contains 00000
+gappy does not match place of 00000
+gappy: a
+carpy !Contain 0dieu
+carpy: 0
+carpy: 0
+carpy: 0
+carpy: 0
+carpy: 0
+carpy Contains 00000
+carpy does not match place of 00000
+carpy: a
+soyas !Contain 0dieu
+soyas: 0
+soyas: 0
+soyas: 0
+soyas: 0
+soyas: 0
+soyas Contains 00000
+soyas does not match place of 00000
+soyas: a
+gaffs !Contain 0dieu
+gaffs: 0
+gaffs: 0
+gaffs: 0
+gaffs: 0
+gaffs: 0
+gaffs Contains 00000
+gaffs does not match place of 00000
+gaffs: a
+barky !Contain 0dieu
+barky: 0
+barky: 0
+barky: 0
+barky: 0
+barky: 0
+barky Contains 00000
+barky does not match place of 00000
+barky: a
+gloms !Contain 0dieu
+gloms: 0
+gloms: 0
+gloms: 0
+gloms: 0
+gloms: 0
+gloms Contains 00000
+gloms does not match place of 00000
+gloms: a
+worts !Contain 0dieu
+worts: 0
+worts: 0
+worts: 0
+worts: 0
+worts: 0
+worts Contains 00000
+worts does not match place of 00000
+worts: a
+poohs !Contain 0dieu
+poohs: 0
+poohs: 0
+poohs: 0
+poohs: 0
+poohs: 0
+poohs Contains 00000
+poohs does not match place of 00000
+poohs: a
+lawzy !Contain 0dieu
+lawzy: 0
+lawzy: 0
+lawzy: 0
+lawzy: 0
+lawzy: 0
+lawzy Contains 00000
+lawzy does not match place of 00000
+lawzy: a
+forky !Contain 0dieu
+forky: 0
+forky: 0
+forky: 0
+forky: 0
+forky: 0
+forky Contains 00000
+forky does not match place of 00000
+forky: a
+pomps !Contain 0dieu
+pomps: 0
+pomps: 0
+pomps: 0
+pomps: 0
+pomps: 0
+pomps Contains 00000
+pomps does not match place of 00000
+pomps: a
+snark !Contain 0dieu
+snark: 0
+snark: 0
+snark: 0
+snark: 0
+snark: 0
+snark Contains 00000
+snark does not match place of 00000
+snark: a
+rawly !Contain 0dieu
+rawly: 0
+rawly: 0
+rawly: 0
+rawly: 0
+rawly: 0
+rawly Contains 00000
+rawly does not match place of 00000
+rawly: a
+tangs !Contain 0dieu
+tangs: 0
+tangs: 0
+tangs: 0
+tangs: 0
+tangs: 0
+tangs Contains 00000
+tangs does not match place of 00000
+tangs: a
+stogy !Contain 0dieu
+stogy: 0
+stogy: 0
+stogy: 0
+stogy: 0
+stogy: 0
+stogy Contains 00000
+stogy does not match place of 00000
+stogy: a
+snarf !Contain 0dieu
+snarf: 0
+snarf: 0
+snarf: 0
+snarf: 0
+snarf: 0
+snarf Contains 00000
+snarf does not match place of 00000
+snarf: a
+whats !Contain 0dieu
+whats: 0
+whats: 0
+whats: 0
+whats: 0
+whats: 0
+whats Contains 00000
+whats does not match place of 00000
+whats: a
+pasha !Contain 0dieu
+pasha: 0
+pasha: 0
+pasha: 0
+pasha: 0
+pasha: 0
+pasha Contains 00000
+pasha does not match place of 00000
+pasha: a
+farts !Contain 0dieu
+farts: 0
+farts: 0
+farts: 0
+farts: 0
+farts: 0
+farts Contains 00000
+farts does not match place of 00000
+farts: a
+cants !Contain 0dieu
+cants: 0
+cants: 0
+cants: 0
+cants: 0
+cants: 0
+cants Contains 00000
+cants does not match place of 00000
+cants: a
+somas !Contain 0dieu
+somas: 0
+somas: 0
+somas: 0
+somas: 0
+somas: 0
+somas Contains 00000
+somas does not match place of 00000
+somas: a
+bolos !Contain 0dieu
+bolos: 0
+bolos: 0
+bolos: 0
+bolos: 0
+bolos: 0
+bolos Contains 00000
+bolos does not match place of 00000
+bolos: a
+ammos !Contain 0dieu
+ammos: 0
+ammos: 0
+ammos: 0
+ammos: 0
+ammos: 0
+ammos Contains 00000
+ammos does not match place of 00000
+ammos: a
+ammos: 0
+ammos: 0
+ammos: 0
+ammos: 0
+ammos Has Matched Char a0000
+ammos added to result!
+ahoys !Contain 0dieu
+ahoys: 0
+ahoys: 0
+ahoys: 0
+ahoys: 0
+ahoys: 0
+ahoys Contains 00000
+ahoys does not match place of 00000
+ahoys: a
+ahoys: 0
+ahoys: 0
+ahoys: 0
+ahoys: 0
+ahoys Has Matched Char a0000
+ahoys added to result!
+stoas !Contain 0dieu
+stoas: 0
+stoas: 0
+stoas: 0
+stoas: 0
+stoas: 0
+stoas Contains 00000
+stoas does not match place of 00000
+stoas: a
+bhang !Contain 0dieu
+bhang: 0
+bhang: 0
+bhang: 0
+bhang: 0
+bhang: 0
+bhang Contains 00000
+bhang does not match place of 00000
+bhang: a
+barfy !Contain 0dieu
+barfy: 0
+barfy: 0
+barfy: 0
+barfy: 0
+barfy: 0
+barfy Contains 00000
+barfy does not match place of 00000
+barfy: a
+canna !Contain 0dieu
+canna: 0
+canna: 0
+canna: 0
+canna: 0
+canna: 0
+canna Contains 00000
+canna does not match place of 00000
+canna: a
+aport !Contain 0dieu
+aport: 0
+aport: 0
+aport: 0
+aport: 0
+aport: 0
+aport Contains 00000
+aport does not match place of 00000
+aport: a
+aport: 0
+aport: 0
+aport: 0
+aport: 0
+aport Has Matched Char a0000
+aport added to result!
+zonks !Contain 0dieu
+zonks: 0
+zonks: 0
+zonks: 0
+zonks: 0
+zonks: 0
+zonks Contains 00000
+zonks does not match place of 00000
+zonks: a
+fatly !Contain 0dieu
+fatly: 0
+fatly: 0
+fatly: 0
+fatly: 0
+fatly: 0
+fatly Contains 00000
+fatly does not match place of 00000
+fatly: a
+lossy !Contain 0dieu
+lossy: 0
+lossy: 0
+lossy: 0
+lossy: 0
+lossy: 0
+lossy Contains 00000
+lossy does not match place of 00000
+lossy: a
+bahts !Contain 0dieu
+bahts: 0
+bahts: 0
+bahts: 0
+bahts: 0
+bahts: 0
+bahts Contains 00000
+bahts does not match place of 00000
+bahts: a
+prats !Contain 0dieu
+prats: 0
+prats: 0
+prats: 0
+prats: 0
+prats: 0
+prats Contains 00000
+prats does not match place of 00000
+prats: a
+attar !Contain 0dieu
+attar: 0
+attar: 0
+attar: 0
+attar: 0
+attar: 0
+attar Contains 00000
+attar does not match place of 00000
+attar: a
+attar: 0
+attar: 0
+attar: 0
+attar: 0
+attar Has Matched Char a0000
+attar added to result!
+tatty !Contain 0dieu
+tatty: 0
+tatty: 0
+tatty: 0
+tatty: 0
+tatty: 0
+tatty Contains 00000
+tatty does not match place of 00000
+tatty: a
+pawls !Contain 0dieu
+pawls: 0
+pawls: 0
+pawls: 0
+pawls: 0
+pawls: 0
+pawls Contains 00000
+pawls does not match place of 00000
+pawls: a
+booky !Contain 0dieu
+booky: 0
+booky: 0
+booky: 0
+booky: 0
+booky: 0
+booky Contains 00000
+booky does not match place of 00000
+booky: a
+goony !Contain 0dieu
+goony: 0
+goony: 0
+goony: 0
+goony: 0
+goony: 0
+goony Contains 00000
+goony does not match place of 00000
+goony: a
+bonks !Contain 0dieu
+bonks: 0
+bonks: 0
+bonks: 0
+bonks: 0
+bonks: 0
+bonks Contains 00000
+bonks does not match place of 00000
+bonks: a
+glary !Contain 0dieu
+glary: 0
+glary: 0
+glary: 0
+glary: 0
+glary: 0
+glary Contains 00000
+glary does not match place of 00000
+glary: a
+porks !Contain 0dieu
+porks: 0
+porks: 0
+porks: 0
+porks: 0
+porks: 0
+porks Contains 00000
+porks does not match place of 00000
+porks: a
+glans !Contain 0dieu
+glans: 0
+glans: 0
+glans: 0
+glans: 0
+glans: 0
+glans Contains 00000
+glans does not match place of 00000
+glans: a
+haply !Contain 0dieu
+haply: 0
+haply: 0
+haply: 0
+haply: 0
+haply: 0
+haply Contains 00000
+haply does not match place of 00000
+haply: a
+taxol !Contain 0dieu
+taxol: 0
+taxol: 0
+taxol: 0
+taxol: 0
+taxol: 0
+taxol Contains 00000
+taxol does not match place of 00000
+taxol: a
+scats !Contain 0dieu
+scats: 0
+scats: 0
+scats: 0
+scats: 0
+scats: 0
+scats Contains 00000
+scats does not match place of 00000
+scats: a
+toffy !Contain 0dieu
+toffy: 0
+toffy: 0
+toffy: 0
+toffy: 0
+toffy: 0
+toffy Contains 00000
+toffy does not match place of 00000
+toffy: a
+sprog !Contain 0dieu
+sprog: 0
+sprog: 0
+sprog: 0
+sprog: 0
+sprog: 0
+sprog Contains 00000
+sprog does not match place of 00000
+sprog: a
+goosy !Contain 0dieu
+goosy: 0
+goosy: 0
+goosy: 0
+goosy: 0
+goosy: 0
+goosy Contains 00000
+goosy does not match place of 00000
+goosy: a
+mynas !Contain 0dieu
+mynas: 0
+mynas: 0
+mynas: 0
+mynas: 0
+mynas: 0
+mynas Contains 00000
+mynas does not match place of 00000
+mynas: a
+nohow !Contain 0dieu
+nohow: 0
+nohow: 0
+nohow: 0
+nohow: 0
+nohow: 0
+nohow Contains 00000
+nohow does not match place of 00000
+nohow: a
+yahoo !Contain 0dieu
+yahoo: 0
+yahoo: 0
+yahoo: 0
+yahoo: 0
+yahoo: 0
+yahoo Contains 00000
+yahoo does not match place of 00000
+yahoo: a
+calks !Contain 0dieu
+calks: 0
+calks: 0
+calks: 0
+calks: 0
+calks: 0
+calks Contains 00000
+calks does not match place of 00000
+calks: a
+zappy !Contain 0dieu
+zappy: 0
+zappy: 0
+zappy: 0
+zappy: 0
+zappy: 0
+zappy Contains 00000
+zappy does not match place of 00000
+zappy: a
+totty !Contain 0dieu
+totty: 0
+totty: 0
+totty: 0
+totty: 0
+totty: 0
+totty Contains 00000
+totty does not match place of 00000
+totty: a
+brava !Contain 0dieu
+brava: 0
+brava: 0
+brava: 0
+brava: 0
+brava: 0
+brava Contains 00000
+brava does not match place of 00000
+brava: a
+fawny !Contain 0dieu
+fawny: 0
+fawny: 0
+fawny: 0
+fawny: 0
+fawny: 0
+fawny Contains 00000
+fawny does not match place of 00000
+fawny: a
+slomo !Contain 0dieu
+slomo: 0
+slomo: 0
+slomo: 0
+slomo: 0
+slomo: 0
+slomo Contains 00000
+slomo does not match place of 00000
+slomo: a
+asana !Contain 0dieu
+asana: 0
+asana: 0
+asana: 0
+asana: 0
+asana: 0
+asana Contains 00000
+asana does not match place of 00000
+asana: a
+asana: 0
+asana: 0
+asana: 0
+asana: 0
+asana Has Matched Char a0000
+asana added to result!
+smogs !Contain 0dieu
+smogs: 0
+smogs: 0
+smogs: 0
+smogs: 0
+smogs: 0
+smogs Contains 00000
+smogs does not match place of 00000
+smogs: a
+stagy !Contain 0dieu
+stagy: 0
+stagy: 0
+stagy: 0
+stagy: 0
+stagy: 0
+stagy Contains 00000
+stagy does not match place of 00000
+stagy: a
+porgy !Contain 0dieu
+porgy: 0
+porgy: 0
+porgy: 0
+porgy: 0
+porgy: 0
+porgy Contains 00000
+porgy does not match place of 00000
+porgy: a
+boomy !Contain 0dieu
+boomy: 0
+boomy: 0
+boomy: 0
+boomy: 0
+boomy: 0
+boomy Contains 00000
+boomy does not match place of 00000
+boomy: a
+holon !Contain 0dieu
+holon: 0
+holon: 0
+holon: 0
+holon: 0
+holon: 0
+holon Contains 00000
+holon does not match place of 00000
+holon: a
+wonks !Contain 0dieu
+wonks: 0
+wonks: 0
+wonks: 0
+wonks: 0
+wonks: 0
+wonks Contains 00000
+wonks does not match place of 00000
+wonks: a
+cocas !Contain 0dieu
+cocas: 0
+cocas: 0
+cocas: 0
+cocas: 0
+cocas: 0
+cocas Contains 00000
+cocas does not match place of 00000
+cocas: a
+gyppy !Contain 0dieu
+gyppy: 0
+gyppy: 0
+gyppy: 0
+gyppy: 0
+gyppy: 0
+gyppy Contains 00000
+gyppy does not match place of 00000
+gyppy: a
+mosts !Contain 0dieu
+mosts: 0
+mosts: 0
+mosts: 0
+mosts: 0
+mosts: 0
+mosts Contains 00000
+mosts does not match place of 00000
+mosts: a
+groks !Contain 0dieu
+groks: 0
+groks: 0
+groks: 0
+groks: 0
+groks: 0
+groks Contains 00000
+groks does not match place of 00000
+groks: a
+slaws !Contain 0dieu
+slaws: 0
+slaws: 0
+slaws: 0
+slaws: 0
+slaws: 0
+slaws Contains 00000
+slaws does not match place of 00000
+slaws: a
+plonk !Contain 0dieu
+plonk: 0
+plonk: 0
+plonk: 0
+plonk: 0
+plonk: 0
+plonk Contains 00000
+plonk does not match place of 00000
+plonk: a
+pocky !Contain 0dieu
+pocky: 0
+pocky: 0
+pocky: 0
+pocky: 0
+pocky: 0
+pocky Contains 00000
+pocky does not match place of 00000
+pocky: a
+palmy !Contain 0dieu
+palmy: 0
+palmy: 0
+palmy: 0
+palmy: 0
+palmy: 0
+palmy Contains 00000
+palmy does not match place of 00000
+palmy: a
+calla !Contain 0dieu
+calla: 0
+calla: 0
+calla: 0
+calla: 0
+calla: 0
+calla Contains 00000
+calla does not match place of 00000
+calla: a
+hanks !Contain 0dieu
+hanks: 0
+hanks: 0
+hanks: 0
+hanks: 0
+hanks: 0
+hanks Contains 00000
+hanks does not match place of 00000
+hanks: a
+okras !Contain 0dieu
+okras: 0
+okras: 0
+okras: 0
+okras: 0
+okras: 0
+okras Contains 00000
+okras does not match place of 00000
+okras: a
+flabs !Contain 0dieu
+flabs: 0
+flabs: 0
+flabs: 0
+flabs: 0
+flabs: 0
+flabs Contains 00000
+flabs does not match place of 00000
+flabs: a
+qophs !Contain 0dieu
+qophs: 0
+qophs: 0
+qophs: 0
+qophs: 0
+qophs: 0
+qophs Contains 00000
+qophs does not match place of 00000
+qophs: a
+barfs !Contain 0dieu
+barfs: 0
+barfs: 0
+barfs: 0
+barfs: 0
+barfs: 0
+barfs Contains 00000
+barfs does not match place of 00000
+barfs: a
+shnor !Contain 0dieu
+shnor: 0
+shnor: 0
+shnor: 0
+shnor: 0
+shnor: 0
+shnor Contains 00000
+shnor does not match place of 00000
+shnor: a
+lawny !Contain 0dieu
+lawny: 0
+lawny: 0
+lawny: 0
+lawny: 0
+lawny: 0
+lawny Contains 00000
+lawny does not match place of 00000
+lawny: a
+lochs !Contain 0dieu
+lochs: 0
+lochs: 0
+lochs: 0
+lochs: 0
+lochs: 0
+lochs Contains 00000
+lochs does not match place of 00000
+lochs: a
+grapy !Contain 0dieu
+grapy: 0
+grapy: 0
+grapy: 0
+grapy: 0
+grapy: 0
+grapy Contains 00000
+grapy does not match place of 00000
+grapy: a
+spang !Contain 0dieu
+spang: 0
+spang: 0
+spang: 0
+spang: 0
+spang: 0
+spang Contains 00000
+spang does not match place of 00000
+spang: a
+boffs !Contain 0dieu
+boffs: 0
+boffs: 0
+boffs: 0
+boffs: 0
+boffs: 0
+boffs Contains 00000
+boffs does not match place of 00000
+boffs: a
+trows !Contain 0dieu
+trows: 0
+trows: 0
+trows: 0
+trows: 0
+trows: 0
+trows Contains 00000
+trows does not match place of 00000
+trows: a
+vocab !Contain 0dieu
+vocab: 0
+vocab: 0
+vocab: 0
+vocab: 0
+vocab: 0
+vocab Contains 00000
+vocab does not match place of 00000
+vocab: a
+goths !Contain 0dieu
+goths: 0
+goths: 0
+goths: 0
+goths: 0
+goths: 0
+goths Contains 00000
+goths does not match place of 00000
+goths: a
+boson !Contain 0dieu
+boson: 0
+boson: 0
+boson: 0
+boson: 0
+boson: 0
+boson Contains 00000
+boson does not match place of 00000
+boson: a
+campo !Contain 0dieu
+campo: 0
+campo: 0
+campo: 0
+campo: 0
+campo: 0
+campo Contains 00000
+campo does not match place of 00000
+campo: a
+bwana !Contain 0dieu
+bwana: 0
+bwana: 0
+bwana: 0
+bwana: 0
+bwana: 0
+bwana Contains 00000
+bwana does not match place of 00000
+bwana: a
+kapok !Contain 0dieu
+kapok: 0
+kapok: 0
+kapok: 0
+kapok: 0
+kapok: 0
+kapok Contains 00000
+kapok does not match place of 00000
+kapok: a
+flaks !Contain 0dieu
+flaks: 0
+flaks: 0
+flaks: 0
+flaks: 0
+flaks: 0
+flaks Contains 00000
+flaks does not match place of 00000
+flaks: a
+washy !Contain 0dieu
+washy: 0
+washy: 0
+washy: 0
+washy: 0
+washy: 0
+washy Contains 00000
+washy does not match place of 00000
+washy: a
+pffft !Contain 0dieu
+pffft: 0
+pffft: 0
+pffft: 0
+pffft: 0
+pffft: 0
+pffft Contains 00000
+pffft does not match place of 00000
+pffft: a
+krona !Contain 0dieu
+krona: 0
+krona: 0
+krona: 0
+krona: 0
+krona: 0
+krona Contains 00000
+krona does not match place of 00000
+krona: a
+halma !Contain 0dieu
+halma: 0
+halma: 0
+halma: 0
+halma: 0
+halma: 0
+halma Contains 00000
+halma does not match place of 00000
+halma: a
+lobar !Contain 0dieu
+lobar: 0
+lobar: 0
+lobar: 0
+lobar: 0
+lobar: 0
+lobar Contains 00000
+lobar does not match place of 00000
+lobar: a
+shako !Contain 0dieu
+shako: 0
+shako: 0
+shako: 0
+shako: 0
+shako: 0
+shako Contains 00000
+shako does not match place of 00000
+shako: a
+pavan !Contain 0dieu
+pavan: 0
+pavan: 0
+pavan: 0
+pavan: 0
+pavan: 0
+pavan Contains 00000
+pavan does not match place of 00000
+pavan: a
+spazz !Contain 0dieu
+spazz: 0
+spazz: 0
+spazz: 0
+spazz: 0
+spazz: 0
+spazz Contains 00000
+spazz does not match place of 00000
+spazz: a
+schmo !Contain 0dieu
+schmo: 0
+schmo: 0
+schmo: 0
+schmo: 0
+schmo: 0
+schmo Contains 00000
+schmo does not match place of 00000
+schmo: a
+waspy !Contain 0dieu
+waspy: 0
+waspy: 0
+waspy: 0
+waspy: 0
+waspy: 0
+waspy Contains 00000
+waspy does not match place of 00000
+waspy: a
+gooky !Contain 0dieu
+gooky: 0
+gooky: 0
+gooky: 0
+gooky: 0
+gooky: 0
+gooky Contains 00000
+gooky does not match place of 00000
+gooky: a
+honky !Contain 0dieu
+honky: 0
+honky: 0
+honky: 0
+honky: 0
+honky: 0
+honky Contains 00000
+honky does not match place of 00000
+honky: a
+hafts !Contain 0dieu
+hafts: 0
+hafts: 0
+hafts: 0
+hafts: 0
+hafts: 0
+hafts Contains 00000
+hafts does not match place of 00000
+hafts: a
+japan !Contain 0dieu
+japan: 0
+japan: 0
+japan: 0
+japan: 0
+japan: 0
+japan Contains 00000
+japan does not match place of 00000
+japan: a
+wonts !Contain 0dieu
+wonts: 0
+wonts: 0
+wonts: 0
+wonts: 0
+wonts: 0
+wonts Contains 00000
+wonts does not match place of 00000
+wonts: a
+taxon !Contain 0dieu
+taxon: 0
+taxon: 0
+taxon: 0
+taxon: 0
+taxon: 0
+taxon Contains 00000
+taxon does not match place of 00000
+taxon: a
+poops !Contain 0dieu
+poops: 0
+poops: 0
+poops: 0
+poops: 0
+poops: 0
+poops Contains 00000
+poops does not match place of 00000
+poops: a
+zloty !Contain 0dieu
+zloty: 0
+zloty: 0
+zloty: 0
+zloty: 0
+zloty: 0
+zloty Contains 00000
+zloty does not match place of 00000
+zloty: a
+shoat !Contain 0dieu
+shoat: 0
+shoat: 0
+shoat: 0
+shoat: 0
+shoat: 0
+shoat Contains 00000
+shoat does not match place of 00000
+shoat: a
+shawm !Contain 0dieu
+shawm: 0
+shawm: 0
+shawm: 0
+shawm: 0
+shawm: 0
+shawm Contains 00000
+shawm does not match place of 00000
+shawm: a
+gronk !Contain 0dieu
+gronk: 0
+gronk: 0
+gronk: 0
+gronk: 0
+gronk: 0
+gronk Contains 00000
+gronk does not match place of 00000
+gronk: a
+casas !Contain 0dieu
+casas: 0
+casas: 0
+casas: 0
+casas: 0
+casas: 0
+casas Contains 00000
+casas does not match place of 00000
+casas: a
+hoppy !Contain 0dieu
+hoppy: 0
+hoppy: 0
+hoppy: 0
+hoppy: 0
+hoppy: 0
+hoppy Contains 00000
+hoppy does not match place of 00000
+hoppy: a
+jammy !Contain 0dieu
+jammy: 0
+jammy: 0
+jammy: 0
+jammy: 0
+jammy: 0
+jammy Contains 00000
+jammy does not match place of 00000
+jammy: a
+mothy !Contain 0dieu
+mothy: 0
+mothy: 0
+mothy: 0
+mothy: 0
+mothy: 0
+mothy Contains 00000
+mothy does not match place of 00000
+mothy: a
+bosky !Contain 0dieu
+bosky: 0
+bosky: 0
+bosky: 0
+bosky: 0
+bosky: 0
+bosky Contains 00000
+bosky does not match place of 00000
+bosky: a
+pocks !Contain 0dieu
+pocks: 0
+pocks: 0
+pocks: 0
+pocks: 0
+pocks: 0
+pocks Contains 00000
+pocks does not match place of 00000
+pocks: a
+torah !Contain 0dieu
+torah: 0
+torah: 0
+torah: 0
+torah: 0
+torah: 0
+torah Contains 00000
+torah does not match place of 00000
+torah: a
+stoma !Contain 0dieu
+stoma: 0
+stoma: 0
+stoma: 0
+stoma: 0
+stoma: 0
+stoma Contains 00000
+stoma does not match place of 00000
+stoma: a
+grogs !Contain 0dieu
+grogs: 0
+grogs: 0
+grogs: 0
+grogs: 0
+grogs: 0
+grogs Contains 00000
+grogs does not match place of 00000
+grogs: a
+marls !Contain 0dieu
+marls: 0
+marls: 0
+marls: 0
+marls: 0
+marls: 0
+marls Contains 00000
+marls does not match place of 00000
+marls: a
+arras !Contain 0dieu
+arras: 0
+arras: 0
+arras: 0
+arras: 0
+arras: 0
+arras Contains 00000
+arras does not match place of 00000
+arras: a
+arras: 0
+arras: 0
+arras: 0
+arras: 0
+arras Has Matched Char a0000
+arras added to result!
+gaols !Contain 0dieu
+gaols: 0
+gaols: 0
+gaols: 0
+gaols: 0
+gaols: 0
+gaols Contains 00000
+gaols does not match place of 00000
+gaols: a
+momma !Contain 0dieu
+momma: 0
+momma: 0
+momma: 0
+momma: 0
+momma: 0
+momma Contains 00000
+momma does not match place of 00000
+momma: a
+aargh !Contain 0dieu
+aargh: 0
+aargh: 0
+aargh: 0
+aargh: 0
+aargh: 0
+aargh Contains 00000
+aargh does not match place of 00000
+aargh: a
+aargh: 0
+aargh: 0
+aargh: 0
+aargh: 0
+aargh Has Matched Char a0000
+aargh added to result!
+tacts !Contain 0dieu
+tacts: 0
+tacts: 0
+tacts: 0
+tacts: 0
+tacts: 0
+tacts Contains 00000
+tacts does not match place of 00000
+tacts: a
+brant !Contain 0dieu
+brant: 0
+brant: 0
+brant: 0
+brant: 0
+brant: 0
+brant Contains 00000
+brant does not match place of 00000
+brant: a
+yolky !Contain 0dieu
+yolky: 0
+yolky: 0
+yolky: 0
+yolky: 0
+yolky: 0
+yolky Contains 00000
+yolky does not match place of 00000
+yolky: a
+whoas !Contain 0dieu
+whoas: 0
+whoas: 0
+whoas: 0
+whoas: 0
+whoas: 0
+whoas Contains 00000
+whoas does not match place of 00000
+whoas: a
+polos !Contain 0dieu
+polos: 0
+polos: 0
+polos: 0
+polos: 0
+polos: 0
+polos Contains 00000
+polos does not match place of 00000
+polos: a
+agars !Contain 0dieu
+agars: 0
+agars: 0
+agars: 0
+agars: 0
+agars: 0
+agars Contains 00000
+agars does not match place of 00000
+agars: a
+agars: 0
+agars: 0
+agars: 0
+agars: 0
+agars Has Matched Char a0000
+agars added to result!
+loppy !Contain 0dieu
+loppy: 0
+loppy: 0
+loppy: 0
+loppy: 0
+loppy: 0
+loppy Contains 00000
+loppy does not match place of 00000
+loppy: a
+softs !Contain 0dieu
+softs: 0
+softs: 0
+softs: 0
+softs: 0
+softs: 0
+softs Contains 00000
+softs does not match place of 00000
+softs: a
+saran !Contain 0dieu
+saran: 0
+saran: 0
+saran: 0
+saran: 0
+saran: 0
+saran Contains 00000
+saran does not match place of 00000
+saran: a
+bromo !Contain 0dieu
+bromo: 0
+bromo: 0
+bromo: 0
+bromo: 0
+bromo: 0
+bromo Contains 00000
+bromo does not match place of 00000
+bromo: a
+rooty !Contain 0dieu
+rooty: 0
+rooty: 0
+rooty: 0
+rooty: 0
+rooty: 0
+rooty Contains 00000
+rooty does not match place of 00000
+rooty: a
+yobbo !Contain 0dieu
+yobbo: 0
+yobbo: 0
+yobbo: 0
+yobbo: 0
+yobbo: 0
+yobbo Contains 00000
+yobbo does not match place of 00000
+yobbo: a
+plash !Contain 0dieu
+plash: 0
+plash: 0
+plash: 0
+plash: 0
+plash: 0
+plash Contains 00000
+plash does not match place of 00000
+plash: a
+bocks !Contain 0dieu
+bocks: 0
+bocks: 0
+bocks: 0
+bocks: 0
+bocks: 0
+bocks Contains 00000
+bocks does not match place of 00000
+bocks: a
+shays !Contain 0dieu
+shays: 0
+shays: 0
+shays: 0
+shays: 0
+shays: 0
+shays Contains 00000
+shays does not match place of 00000
+shays: a
+lotsa !Contain 0dieu
+lotsa: 0
+lotsa: 0
+lotsa: 0
+lotsa: 0
+lotsa: 0
+lotsa Contains 00000
+lotsa does not match place of 00000
+lotsa: a
+hoars !Contain 0dieu
+hoars: 0
+hoars: 0
+hoars: 0
+hoars: 0
+hoars: 0
+hoars Contains 00000
+hoars does not match place of 00000
+hoars: a
+syncs !Contain 0dieu
+syncs: 0
+syncs: 0
+syncs: 0
+syncs: 0
+syncs: 0
+syncs Contains 00000
+syncs does not match place of 00000
+syncs: a
+chars !Contain 0dieu
+chars: 0
+chars: 0
+chars: 0
+chars: 0
+chars: 0
+chars Contains 00000
+chars does not match place of 00000
+chars: a
+wroth !Contain 0dieu
+wroth: 0
+wroth: 0
+wroth: 0
+wroth: 0
+wroth: 0
+wroth Contains 00000
+wroth does not match place of 00000
+wroth: a
+kraal !Contain 0dieu
+kraal: 0
+kraal: 0
+kraal: 0
+kraal: 0
+kraal: 0
+kraal Contains 00000
+kraal does not match place of 00000
+kraal: a
+costa !Contain 0dieu
+costa: 0
+costa: 0
+costa: 0
+costa: 0
+costa: 0
+costa Contains 00000
+costa does not match place of 00000
+costa: a
+rowan !Contain 0dieu
+rowan: 0
+rowan: 0
+rowan: 0
+rowan: 0
+rowan: 0
+rowan Contains 00000
+rowan does not match place of 00000
+rowan: a
+knops !Contain 0dieu
+knops: 0
+knops: 0
+knops: 0
+knops: 0
+knops: 0
+knops Contains 00000
+knops does not match place of 00000
+knops: a
+foots !Contain 0dieu
+foots: 0
+foots: 0
+foots: 0
+foots: 0
+foots: 0
+foots Contains 00000
+foots does not match place of 00000
+foots: a
+brack !Contain 0dieu
+brack: 0
+brack: 0
+brack: 0
+brack: 0
+brack: 0
+brack Contains 00000
+brack does not match place of 00000
+brack: a
+pawky !Contain 0dieu
+pawky: 0
+pawky: 0
+pawky: 0
+pawky: 0
+pawky: 0
+pawky Contains 00000
+pawky does not match place of 00000
+pawky: a
+swarf !Contain 0dieu
+swarf: 0
+swarf: 0
+swarf: 0
+swarf: 0
+swarf: 0
+swarf Contains 00000
+swarf does not match place of 00000
+swarf: a
+panga !Contain 0dieu
+panga: 0
+panga: 0
+panga: 0
+panga: 0
+panga: 0
+panga Contains 00000
+panga does not match place of 00000
+panga: a
+blash !Contain 0dieu
+blash: 0
+blash: 0
+blash: 0
+blash: 0
+blash: 0
+blash Contains 00000
+blash does not match place of 00000
+blash: a
+talky !Contain 0dieu
+talky: 0
+talky: 0
+talky: 0
+talky: 0
+talky: 0
+talky Contains 00000
+talky does not match place of 00000
+talky: a
+scops !Contain 0dieu
+scops: 0
+scops: 0
+scops: 0
+scops: 0
+scops: 0
+scops Contains 00000
+scops does not match place of 00000
+scops: a
+psoas !Contain 0dieu
+psoas: 0
+psoas: 0
+psoas: 0
+psoas: 0
+psoas: 0
+psoas Contains 00000
+psoas does not match place of 00000
+psoas: a
+corms !Contain 0dieu
+corms: 0
+corms: 0
+corms: 0
+corms: 0
+corms: 0
+corms Contains 00000
+corms does not match place of 00000
+corms: a
+bhoys !Contain 0dieu
+bhoys: 0
+bhoys: 0
+bhoys: 0
+bhoys: 0
+bhoys: 0
+bhoys Contains 00000
+bhoys does not match place of 00000
+bhoys: a
+fossa !Contain 0dieu
+fossa: 0
+fossa: 0
+fossa: 0
+fossa: 0
+fossa: 0
+fossa Contains 00000
+fossa does not match place of 00000
+fossa: a
+magna !Contain 0dieu
+magna: 0
+magna: 0
+magna: 0
+magna: 0
+magna: 0
+magna Contains 00000
+magna does not match place of 00000
+magna: a
+wassa !Contain 0dieu
+wassa: 0
+wassa: 0
+wassa: 0
+wassa: 0
+wassa: 0
+wassa Contains 00000
+wassa does not match place of 00000
+wassa: a
+solon !Contain 0dieu
+solon: 0
+solon: 0
+solon: 0
+solon: 0
+solon: 0
+solon Contains 00000
+solon does not match place of 00000
+solon: a
+corky !Contain 0dieu
+corky: 0
+corky: 0
+corky: 0
+corky: 0
+corky: 0
+corky Contains 00000
+corky does not match place of 00000
+corky: a
+folky !Contain 0dieu
+folky: 0
+folky: 0
+folky: 0
+folky: 0
+folky: 0
+folky Contains 00000
+folky does not match place of 00000
+folky: a
+cooch !Contain 0dieu
+cooch: 0
+cooch: 0
+cooch: 0
+cooch: 0
+cooch: 0
+cooch Contains 00000
+cooch does not match place of 00000
+cooch: a
+ortho !Contain 0dieu
+ortho: 0
+ortho: 0
+ortho: 0
+ortho: 0
+ortho: 0
+ortho Contains 00000
+ortho does not match place of 00000
+ortho: a
+sylph !Contain 0dieu
+sylph: 0
+sylph: 0
+sylph: 0
+sylph: 0
+sylph: 0
+sylph Contains 00000
+sylph does not match place of 00000
+sylph: a
+pssst !Contain 0dieu
+pssst: 0
+pssst: 0
+pssst: 0
+pssst: 0
+pssst: 0
+pssst Contains 00000
+pssst does not match place of 00000
+pssst: a
+bazar !Contain 0dieu
+bazar: 0
+bazar: 0
+bazar: 0
+bazar: 0
+bazar: 0
+bazar Contains 00000
+bazar does not match place of 00000
+bazar: a
+largo !Contain 0dieu
+largo: 0
+largo: 0
+largo: 0
+largo: 0
+largo: 0
+largo Contains 00000
+largo does not match place of 00000
+largo: a
+yawny !Contain 0dieu
+yawny: 0
+yawny: 0
+yawny: 0
+yawny: 0
+yawny: 0
+yawny Contains 00000
+yawny does not match place of 00000
+yawny: a
+grata !Contain 0dieu
+grata: 0
+grata: 0
+grata: 0
+grata: 0
+grata: 0
+grata Contains 00000
+grata does not match place of 00000
+grata: a
+astro !Contain 0dieu
+astro: 0
+astro: 0
+astro: 0
+astro: 0
+astro: 0
+astro Contains 00000
+astro does not match place of 00000
+astro: a
+astro: 0
+astro: 0
+astro: 0
+astro: 0
+astro Has Matched Char a0000
+astro added to result!
+sabra !Contain 0dieu
+sabra: 0
+sabra: 0
+sabra: 0
+sabra: 0
+sabra: 0
+sabra Contains 00000
+sabra does not match place of 00000
+sabra: a
+whooo !Contain 0dieu
+whooo: 0
+whooo: 0
+whooo: 0
+whooo: 0
+whooo: 0
+whooo Contains 00000
+whooo does not match place of 00000
+whooo: a
+wahoo !Contain 0dieu
+wahoo: 0
+wahoo: 0
+wahoo: 0
+wahoo: 0
+wahoo: 0
+wahoo Contains 00000
+wahoo does not match place of 00000
+wahoo: a
+blowy !Contain 0dieu
+blowy: 0
+blowy: 0
+blowy: 0
+blowy: 0
+blowy: 0
+blowy Contains 00000
+blowy does not match place of 00000
+blowy: a
+amahs !Contain 0dieu
+amahs: 0
+amahs: 0
+amahs: 0
+amahs: 0
+amahs: 0
+amahs Contains 00000
+amahs does not match place of 00000
+amahs: a
+amahs: 0
+amahs: 0
+amahs: 0
+amahs: 0
+amahs Has Matched Char a0000
+amahs added to result!
+sprat !Contain 0dieu
+sprat: 0
+sprat: 0
+sprat: 0
+sprat: 0
+sprat: 0
+sprat Contains 00000
+sprat does not match place of 00000
+sprat: a
+watsa !Contain 0dieu
+watsa: 0
+watsa: 0
+watsa: 0
+watsa: 0
+watsa: 0
+watsa Contains 00000
+watsa does not match place of 00000
+watsa: a
+plats !Contain 0dieu
+plats: 0
+plats: 0
+plats: 0
+plats: 0
+plats: 0
+plats Contains 00000
+plats does not match place of 00000
+plats: a
+yawps !Contain 0dieu
+yawps: 0
+yawps: 0
+yawps: 0
+yawps: 0
+yawps: 0
+yawps Contains 00000
+yawps does not match place of 00000
+yawps: a
+pshaw !Contain 0dieu
+pshaw: 0
+pshaw: 0
+pshaw: 0
+pshaw: 0
+pshaw: 0
+pshaw Contains 00000
+pshaw does not match place of 00000
+pshaw: a
+thanx !Contain 0dieu
+thanx: 0
+thanx: 0
+thanx: 0
+thanx: 0
+thanx: 0
+thanx Contains 00000
+thanx does not match place of 00000
+thanx: a
+pappy !Contain 0dieu
+pappy: 0
+pappy: 0
+pappy: 0
+pappy: 0
+pappy: 0
+pappy Contains 00000
+pappy does not match place of 00000
+pappy: a
+groat !Contain 0dieu
+groat: 0
+groat: 0
+groat: 0
+groat: 0
+groat: 0
+groat Contains 00000
+groat does not match place of 00000
+groat: a
+algal !Contain 0dieu
+algal: 0
+algal: 0
+algal: 0
+algal: 0
+algal: 0
+algal Contains 00000
+algal does not match place of 00000
+algal: a
+algal: 0
+algal: 0
+algal: 0
+algal: 0
+algal Has Matched Char a0000
+algal added to result!
+morts !Contain 0dieu
+morts: 0
+morts: 0
+morts: 0
+morts: 0
+morts: 0
+morts Contains 00000
+morts does not match place of 00000
+morts: a
+moony !Contain 0dieu
+moony: 0
+moony: 0
+moony: 0
+moony: 0
+moony: 0
+moony Contains 00000
+moony does not match place of 00000
+moony: a
+bally !Contain 0dieu
+bally: 0
+bally: 0
+bally: 0
+bally: 0
+bally: 0
+bally Contains 00000
+bally does not match place of 00000
+bally: a
+goopy !Contain 0dieu
+goopy: 0
+goopy: 0
+goopy: 0
+goopy: 0
+goopy: 0
+goopy Contains 00000
+goopy does not match place of 00000
+goopy: a
+bronx !Contain 0dieu
+bronx: 0
+bronx: 0
+bronx: 0
+bronx: 0
+bronx: 0
+bronx Contains 00000
+bronx does not match place of 00000
+bronx: a
+choos !Contain 0dieu
+choos: 0
+choos: 0
+choos: 0
+choos: 0
+choos: 0
+choos Contains 00000
+choos does not match place of 00000
+choos: a
+molto !Contain 0dieu
+molto: 0
+molto: 0
+molto: 0
+molto: 0
+molto: 0
+molto Contains 00000
+molto does not match place of 00000
+molto: a
+flams !Contain 0dieu
+flams: 0
+flams: 0
+flams: 0
+flams: 0
+flams: 0
+flams Contains 00000
+flams does not match place of 00000
+flams: a
+forma !Contain 0dieu
+forma: 0
+forma: 0
+forma: 0
+forma: 0
+forma: 0
+forma Contains 00000
+forma does not match place of 00000
+forma: a
+molal !Contain 0dieu
+molal: 0
+molal: 0
+molal: 0
+molal: 0
+molal: 0
+molal Contains 00000
+molal does not match place of 00000
+molal: a
+stoat !Contain 0dieu
+stoat: 0
+stoat: 0
+stoat: 0
+stoat: 0
+stoat: 0
+stoat Contains 00000
+stoat does not match place of 00000
+stoat: a
+paras !Contain 0dieu
+paras: 0
+paras: 0
+paras: 0
+paras: 0
+paras: 0
+paras Contains 00000
+paras does not match place of 00000
+paras: a
+plasm !Contain 0dieu
+plasm: 0
+plasm: 0
+plasm: 0
+plasm: 0
+plasm: 0
+plasm Contains 00000
+plasm does not match place of 00000
+plasm: a
+molly !Contain 0dieu
+molly: 0
+molly: 0
+molly: 0
+molly: 0
+molly: 0
+molly Contains 00000
+molly does not match place of 00000
+molly: a
+mayst !Contain 0dieu
+mayst: 0
+mayst: 0
+mayst: 0
+mayst: 0
+mayst: 0
+mayst Contains 00000
+mayst does not match place of 00000
+mayst: a
+ohhhh !Contain 0dieu
+ohhhh: 0
+ohhhh: 0
+ohhhh: 0
+ohhhh: 0
+ohhhh: 0
+ohhhh Contains 00000
+ohhhh does not match place of 00000
+ohhhh: a
+abaca !Contain 0dieu
+abaca: 0
+abaca: 0
+abaca: 0
+abaca: 0
+abaca: 0
+abaca Contains 00000
+abaca does not match place of 00000
+abaca: a
+abaca: 0
+abaca: 0
+abaca: 0
+abaca: 0
+abaca Has Matched Char a0000
+abaca added to result!
+yawls !Contain 0dieu
+yawls: 0
+yawls: 0
+yawls: 0
+yawls: 0
+yawls: 0
+yawls Contains 00000
+yawls does not match place of 00000
+yawls: a
+thats !Contain 0dieu
+thats: 0
+thats: 0
+thats: 0
+thats: 0
+thats: 0
+thats Contains 00000
+thats does not match place of 00000
+thats: a
+crocs !Contain 0dieu
+crocs: 0
+crocs: 0
+crocs: 0
+crocs: 0
+crocs: 0
+crocs Contains 00000
+crocs does not match place of 00000
+crocs: a
+raths !Contain 0dieu
+raths: 0
+raths: 0
+raths: 0
+raths: 0
+raths: 0
+raths Contains 00000
+raths does not match place of 00000
+raths: a
+vroom !Contain 0dieu
+vroom: 0
+vroom: 0
+vroom: 0
+vroom: 0
+vroom: 0
+vroom Contains 00000
+vroom does not match place of 00000
+vroom: a
+locos !Contain 0dieu
+locos: 0
+locos: 0
+locos: 0
+locos: 0
+locos: 0
+locos Contains 00000
+locos does not match place of 00000
+locos: a
+boggy !Contain 0dieu
+boggy: 0
+boggy: 0
+boggy: 0
+boggy: 0
+boggy: 0
+boggy Contains 00000
+boggy does not match place of 00000
+boggy: a
+alway !Contain 0dieu
+alway: 0
+alway: 0
+alway: 0
+alway: 0
+alway: 0
+alway Contains 00000
+alway does not match place of 00000
+alway: a
+alway: 0
+alway: 0
+alway: 0
+alway: 0
+alway Has Matched Char a0000
+alway added to result!
+thwap !Contain 0dieu
+thwap: 0
+thwap: 0
+thwap: 0
+thwap: 0
+thwap: 0
+thwap Contains 00000
+thwap does not match place of 00000
+thwap: a
+bolas !Contain 0dieu
+bolas: 0
+bolas: 0
+bolas: 0
+bolas: 0
+bolas: 0
+bolas Contains 00000
+bolas does not match place of 00000
+bolas: a
+lotta !Contain 0dieu
+lotta: 0
+lotta: 0
+lotta: 0
+lotta: 0
+lotta: 0
+lotta Contains 00000
+lotta does not match place of 00000
+lotta: a
+offal !Contain 0dieu
+offal: 0
+offal: 0
+offal: 0
+offal: 0
+offal: 0
+offal Contains 00000
+offal does not match place of 00000
+offal: a
+manta !Contain 0dieu
+manta: 0
+manta: 0
+manta: 0
+manta: 0
+manta: 0
+manta Contains 00000
+manta does not match place of 00000
+manta: a
+snots !Contain 0dieu
+snots: 0
+snots: 0
+snots: 0
+snots: 0
+snots: 0
+snots Contains 00000
+snots does not match place of 00000
+snots: a
+orals !Contain 0dieu
+orals: 0
+orals: 0
+orals: 0
+orals: 0
+orals: 0
+orals Contains 00000
+orals does not match place of 00000
+orals: a
+carny !Contain 0dieu
+carny: 0
+carny: 0
+carny: 0
+carny: 0
+carny: 0
+carny Contains 00000
+carny does not match place of 00000
+carny: a
+hafta !Contain 0dieu
+hafta: 0
+hafta: 0
+hafta: 0
+hafta: 0
+hafta: 0
+hafta Contains 00000
+hafta does not match place of 00000
+hafta: a
+gabby !Contain 0dieu
+gabby: 0
+gabby: 0
+gabby: 0
+gabby: 0
+gabby: 0
+gabby Contains 00000
+gabby does not match place of 00000
+gabby: a
+batty !Contain 0dieu
+batty: 0
+batty: 0
+batty: 0
+batty: 0
+batty: 0
+batty Contains 00000
+batty does not match place of 00000
+batty: a
+blahs !Contain 0dieu
+blahs: 0
+blahs: 0
+blahs: 0
+blahs: 0
+blahs: 0
+blahs Contains 00000
+blahs does not match place of 00000
+blahs: a
+profs !Contain 0dieu
+profs: 0
+profs: 0
+profs: 0
+profs: 0
+profs: 0
+profs Contains 00000
+profs does not match place of 00000
+profs: a
+cowry !Contain 0dieu
+cowry: 0
+cowry: 0
+cowry: 0
+cowry: 0
+cowry: 0
+cowry Contains 00000
+cowry does not match place of 00000
+cowry: a
+staph !Contain 0dieu
+staph: 0
+staph: 0
+staph: 0
+staph: 0
+staph: 0
+staph Contains 00000
+staph does not match place of 00000
+staph: a
+hapax !Contain 0dieu
+hapax: 0
+hapax: 0
+hapax: 0
+hapax: 0
+hapax: 0
+hapax Contains 00000
+hapax does not match place of 00000
+hapax: a
+flack !Contain 0dieu
+flack: 0
+flack: 0
+flack: 0
+flack: 0
+flack: 0
+flack Contains 00000
+flack does not match place of 00000
+flack: a
+cloys !Contain 0dieu
+cloys: 0
+cloys: 0
+cloys: 0
+cloys: 0
+cloys: 0
+cloys Contains 00000
+cloys does not match place of 00000
+cloys: a
+tarns !Contain 0dieu
+tarns: 0
+tarns: 0
+tarns: 0
+tarns: 0
+tarns: 0
+tarns Contains 00000
+tarns does not match place of 00000
+tarns: a
+psych !Contain 0dieu
+psych: 0
+psych: 0
+psych: 0
+psych: 0
+psych: 0
+psych Contains 00000
+psych does not match place of 00000
+psych: a
+artsy !Contain 0dieu
+artsy: 0
+artsy: 0
+artsy: 0
+artsy: 0
+artsy: 0
+artsy Contains 00000
+artsy does not match place of 00000
+artsy: a
+artsy: 0
+artsy: 0
+artsy: 0
+artsy: 0
+artsy Has Matched Char a0000
+artsy added to result!
+tamps !Contain 0dieu
+tamps: 0
+tamps: 0
+tamps: 0
+tamps: 0
+tamps: 0
+tamps Contains 00000
+tamps does not match place of 00000
+tamps: a
+carom !Contain 0dieu
+carom: 0
+carom: 0
+carom: 0
+carom: 0
+carom: 0
+carom Contains 00000
+carom does not match place of 00000
+carom: a
+avows !Contain 0dieu
+avows: 0
+avows: 0
+avows: 0
+avows: 0
+avows: 0
+avows Contains 00000
+avows does not match place of 00000
+avows: a
+avows: 0
+avows: 0
+avows: 0
+avows: 0
+avows Has Matched Char a0000
+avows added to result!
+byway !Contain 0dieu
+byway: 0
+byway: 0
+byway: 0
+byway: 0
+byway: 0
+byway Contains 00000
+byway does not match place of 00000
+byway: a
+tyros !Contain 0dieu
+tyros: 0
+tyros: 0
+tyros: 0
+tyros: 0
+tyros: 0
+tyros Contains 00000
+tyros does not match place of 00000
+tyros: a
+narcs !Contain 0dieu
+narcs: 0
+narcs: 0
+narcs: 0
+narcs: 0
+narcs: 0
+narcs Contains 00000
+narcs does not match place of 00000
+narcs: a
+fatso !Contain 0dieu
+fatso: 0
+fatso: 0
+fatso: 0
+fatso: 0
+fatso: 0
+fatso Contains 00000
+fatso does not match place of 00000
+fatso: a
+proms !Contain 0dieu
+proms: 0
+proms: 0
+proms: 0
+proms: 0
+proms: 0
+proms Contains 00000
+proms does not match place of 00000
+proms: a
+campy !Contain 0dieu
+campy: 0
+campy: 0
+campy: 0
+campy: 0
+campy: 0
+campy Contains 00000
+campy does not match place of 00000
+campy: a
+prawn !Contain 0dieu
+prawn: 0
+prawn: 0
+prawn: 0
+prawn: 0
+prawn: 0
+prawn Contains 00000
+prawn does not match place of 00000
+prawn: a
+sonly !Contain 0dieu
+sonly: 0
+sonly: 0
+sonly: 0
+sonly: 0
+sonly: 0
+sonly Contains 00000
+sonly does not match place of 00000
+sonly: a
+strop !Contain 0dieu
+strop: 0
+strop: 0
+strop: 0
+strop: 0
+strop: 0
+strop Contains 00000
+strop does not match place of 00000
+strop: a
+ascot !Contain 0dieu
+ascot: 0
+ascot: 0
+ascot: 0
+ascot: 0
+ascot: 0
+ascot Contains 00000
+ascot does not match place of 00000
+ascot: a
+ascot: 0
+ascot: 0
+ascot: 0
+ascot: 0
+ascot Has Matched Char a0000
+ascot added to result!
+loopy !Contain 0dieu
+loopy: 0
+loopy: 0
+loopy: 0
+loopy: 0
+loopy: 0
+loopy Contains 00000
+loopy does not match place of 00000
+loopy: a
+stats !Contain 0dieu
+stats: 0
+stats: 0
+stats: 0
+stats: 0
+stats: 0
+stats Contains 00000
+stats does not match place of 00000
+stats: a
+craws !Contain 0dieu
+craws: 0
+craws: 0
+craws: 0
+craws: 0
+craws: 0
+craws Contains 00000
+craws does not match place of 00000
+craws: a
+blats !Contain 0dieu
+blats: 0
+blats: 0
+blats: 0
+blats: 0
+blats: 0
+blats Contains 00000
+blats does not match place of 00000
+blats: a
+promo !Contain 0dieu
+promo: 0
+promo: 0
+promo: 0
+promo: 0
+promo: 0
+promo Contains 00000
+promo does not match place of 00000
+promo: a
+scams !Contain 0dieu
+scams: 0
+scams: 0
+scams: 0
+scams: 0
+scams: 0
+scams Contains 00000
+scams does not match place of 00000
+scams: a
+kappa !Contain 0dieu
+kappa: 0
+kappa: 0
+kappa: 0
+kappa: 0
+kappa: 0
+kappa Contains 00000
+kappa does not match place of 00000
+kappa: a
+toffs !Contain 0dieu
+toffs: 0
+toffs: 0
+toffs: 0
+toffs: 0
+toffs: 0
+toffs Contains 00000
+toffs does not match place of 00000
+toffs: a
+lotto !Contain 0dieu
+lotto: 0
+lotto: 0
+lotto: 0
+lotto: 0
+lotto: 0
+lotto Contains 00000
+lotto does not match place of 00000
+lotto: a
+karma !Contain 0dieu
+karma: 0
+karma: 0
+karma: 0
+karma: 0
+karma: 0
+karma Contains 00000
+karma does not match place of 00000
+karma: a
+agora !Contain 0dieu
+agora: 0
+agora: 0
+agora: 0
+agora: 0
+agora: 0
+agora Contains 00000
+agora does not match place of 00000
+agora: a
+agora: 0
+agora: 0
+agora: 0
+agora: 0
+agora Has Matched Char a0000
+agora added to result!
+balms !Contain 0dieu
+balms: 0
+balms: 0
+balms: 0
+balms: 0
+balms: 0
+balms Contains 00000
+balms does not match place of 00000
+balms: a
+swart !Contain 0dieu
+swart: 0
+swart: 0
+swart: 0
+swart: 0
+swart: 0
+swart Contains 00000
+swart does not match place of 00000
+swart: a
+conks !Contain 0dieu
+conks: 0
+conks: 0
+conks: 0
+conks: 0
+conks: 0
+conks Contains 00000
+conks does not match place of 00000
+conks: a
+cabby !Contain 0dieu
+cabby: 0
+cabby: 0
+cabby: 0
+cabby: 0
+cabby: 0
+cabby Contains 00000
+cabby does not match place of 00000
+cabby: a
+nabob !Contain 0dieu
+nabob: 0
+nabob: 0
+nabob: 0
+nabob: 0
+nabob: 0
+nabob Contains 00000
+nabob does not match place of 00000
+nabob: a
+mambo !Contain 0dieu
+mambo: 0
+mambo: 0
+mambo: 0
+mambo: 0
+mambo: 0
+mambo Contains 00000
+mambo does not match place of 00000
+mambo: a
+spays !Contain 0dieu
+spays: 0
+spays: 0
+spays: 0
+spays: 0
+spays: 0
+spays Contains 00000
+spays does not match place of 00000
+spays: a
+whams !Contain 0dieu
+whams: 0
+whams: 0
+whams: 0
+whams: 0
+whams: 0
+whams Contains 00000
+whams does not match place of 00000
+whams: a
+lamas !Contain 0dieu
+lamas: 0
+lamas: 0
+lamas: 0
+lamas: 0
+lamas: 0
+lamas Contains 00000
+lamas does not match place of 00000
+lamas: a
+tarps !Contain 0dieu
+tarps: 0
+tarps: 0
+tarps: 0
+tarps: 0
+tarps: 0
+tarps Contains 00000
+tarps does not match place of 00000
+tarps: a
+kabob !Contain 0dieu
+kabob: 0
+kabob: 0
+kabob: 0
+kabob: 0
+kabob: 0
+kabob Contains 00000
+kabob does not match place of 00000
+kabob: a
+frosh !Contain 0dieu
+frosh: 0
+frosh: 0
+frosh: 0
+frosh: 0
+frosh: 0
+frosh Contains 00000
+frosh does not match place of 00000
+frosh: a
+tarot !Contain 0dieu
+tarot: 0
+tarot: 0
+tarot: 0
+tarot: 0
+tarot: 0
+tarot Contains 00000
+tarot does not match place of 00000
+tarot: a
+capon !Contain 0dieu
+capon: 0
+capon: 0
+capon: 0
+capon: 0
+capon: 0
+capon Contains 00000
+capon does not match place of 00000
+capon: a
+kayos !Contain 0dieu
+kayos: 0
+kayos: 0
+kayos: 0
+kayos: 0
+kayos: 0
+kayos Contains 00000
+kayos does not match place of 00000
+kayos: a
+stash !Contain 0dieu
+stash: 0
+stash: 0
+stash: 0
+stash: 0
+stash: 0
+stash Contains 00000
+stash does not match place of 00000
+stash: a
+bossa !Contain 0dieu
+bossa: 0
+bossa: 0
+bossa: 0
+bossa: 0
+bossa: 0
+bossa Contains 00000
+bossa does not match place of 00000
+bossa: a
+boons !Contain 0dieu
+boons: 0
+boons: 0
+boons: 0
+boons: 0
+boons: 0
+boons Contains 00000
+boons does not match place of 00000
+boons: a
+boobs !Contain 0dieu
+boobs: 0
+boobs: 0
+boobs: 0
+boobs: 0
+boobs: 0
+boobs Contains 00000
+boobs does not match place of 00000
+boobs: a
+pampa !Contain 0dieu
+pampa: 0
+pampa: 0
+pampa: 0
+pampa: 0
+pampa: 0
+pampa Contains 00000
+pampa does not match place of 00000
+pampa: a
+cabal !Contain 0dieu
+cabal: 0
+cabal: 0
+cabal: 0
+cabal: 0
+cabal: 0
+cabal Contains 00000
+cabal does not match place of 00000
+cabal: a
+yoyos !Contain 0dieu
+yoyos: 0
+yoyos: 0
+yoyos: 0
+yoyos: 0
+yoyos: 0
+yoyos Contains 00000
+yoyos does not match place of 00000
+yoyos: a
+tromp !Contain 0dieu
+tromp: 0
+tromp: 0
+tromp: 0
+tromp: 0
+tromp: 0
+tromp Contains 00000
+tromp does not match place of 00000
+tromp: a
+gnarl !Contain 0dieu
+gnarl: 0
+gnarl: 0
+gnarl: 0
+gnarl: 0
+gnarl: 0
+gnarl Contains 00000
+gnarl does not match place of 00000
+gnarl: a
+rants !Contain 0dieu
+rants: 0
+rants: 0
+rants: 0
+rants: 0
+rants: 0
+rants Contains 00000
+rants does not match place of 00000
+rants: a
+orcas !Contain 0dieu
+orcas: 0
+orcas: 0
+orcas: 0
+orcas: 0
+orcas: 0
+orcas Contains 00000
+orcas does not match place of 00000
+orcas: a
+harpy !Contain 0dieu
+harpy: 0
+harpy: 0
+harpy: 0
+harpy: 0
+harpy: 0
+harpy Contains 00000
+harpy does not match place of 00000
+harpy: a
+goofs !Contain 0dieu
+goofs: 0
+goofs: 0
+goofs: 0
+goofs: 0
+goofs: 0
+goofs Contains 00000
+goofs does not match place of 00000
+goofs: a
+porky !Contain 0dieu
+porky: 0
+porky: 0
+porky: 0
+porky: 0
+porky: 0
+porky Contains 00000
+porky does not match place of 00000
+porky: a
+macho !Contain 0dieu
+macho: 0
+macho: 0
+macho: 0
+macho: 0
+macho: 0
+macho Contains 00000
+macho does not match place of 00000
+macho: a
+shags !Contain 0dieu
+shags: 0
+shags: 0
+shags: 0
+shags: 0
+shags: 0
+shags Contains 00000
+shags does not match place of 00000
+shags: a
+craps !Contain 0dieu
+craps: 0
+craps: 0
+craps: 0
+craps: 0
+craps: 0
+craps Contains 00000
+craps does not match place of 00000
+craps: a
+prosy !Contain 0dieu
+prosy: 0
+prosy: 0
+prosy: 0
+prosy: 0
+prosy: 0
+prosy Contains 00000
+prosy does not match place of 00000
+prosy: a
+ploys !Contain 0dieu
+ploys: 0
+ploys: 0
+ploys: 0
+ploys: 0
+ploys: 0
+ploys Contains 00000
+ploys does not match place of 00000
+ploys: a
+colas !Contain 0dieu
+colas: 0
+colas: 0
+colas: 0
+colas: 0
+colas: 0
+colas Contains 00000
+colas does not match place of 00000
+colas: a
+comps !Contain 0dieu
+comps: 0
+comps: 0
+comps: 0
+comps: 0
+comps: 0
+comps Contains 00000
+comps does not match place of 00000
+comps: a
+whops !Contain 0dieu
+whops: 0
+whops: 0
+whops: 0
+whops: 0
+whops: 0
+whops Contains 00000
+whops does not match place of 00000
+whops: a
+molls !Contain 0dieu
+molls: 0
+molls: 0
+molls: 0
+molls: 0
+molls: 0
+molls Contains 00000
+molls does not match place of 00000
+molls: a
+barmy !Contain 0dieu
+barmy: 0
+barmy: 0
+barmy: 0
+barmy: 0
+barmy: 0
+barmy Contains 00000
+barmy does not match place of 00000
+barmy: a
+catty !Contain 0dieu
+catty: 0
+catty: 0
+catty: 0
+catty: 0
+catty: 0
+catty Contains 00000
+catty does not match place of 00000
+catty: a
+gonzo !Contain 0dieu
+gonzo: 0
+gonzo: 0
+gonzo: 0
+gonzo: 0
+gonzo: 0
+gonzo Contains 00000
+gonzo does not match place of 00000
+gonzo: a
+soppy !Contain 0dieu
+soppy: 0
+soppy: 0
+soppy: 0
+soppy: 0
+soppy: 0
+soppy Contains 00000
+soppy does not match place of 00000
+soppy: a
+vamps !Contain 0dieu
+vamps: 0
+vamps: 0
+vamps: 0
+vamps: 0
+vamps: 0
+vamps Contains 00000
+vamps does not match place of 00000
+vamps: a
+boozy !Contain 0dieu
+boozy: 0
+boozy: 0
+boozy: 0
+boozy: 0
+boozy: 0
+boozy Contains 00000
+boozy does not match place of 00000
+boozy: a
+torts !Contain 0dieu
+torts: 0
+torts: 0
+torts: 0
+torts: 0
+torts: 0
+torts Contains 00000
+torts does not match place of 00000
+torts: a
+shahs !Contain 0dieu
+shahs: 0
+shahs: 0
+shahs: 0
+shahs: 0
+shahs: 0
+shahs Contains 00000
+shahs does not match place of 00000
+shahs: a
+nabla !Contain 0dieu
+nabla: 0
+nabla: 0
+nabla: 0
+nabla: 0
+nabla: 0
+nabla Contains 00000
+nabla does not match place of 00000
+nabla: a
+wacko !Contain 0dieu
+wacko: 0
+wacko: 0
+wacko: 0
+wacko: 0
+wacko: 0
+wacko Contains 00000
+wacko does not match place of 00000
+wacko: a
+abash !Contain 0dieu
+abash: 0
+abash: 0
+abash: 0
+abash: 0
+abash: 0
+abash Contains 00000
+abash does not match place of 00000
+abash: a
+abash: 0
+abash: 0
+abash: 0
+abash: 0
+abash Has Matched Char a0000
+abash added to result!
+sooth !Contain 0dieu
+sooth: 0
+sooth: 0
+sooth: 0
+sooth: 0
+sooth: 0
+sooth Contains 00000
+sooth does not match place of 00000
+sooth: a
+botch !Contain 0dieu
+botch: 0
+botch: 0
+botch: 0
+botch: 0
+botch: 0
+botch Contains 00000
+botch does not match place of 00000
+botch: a
+roans !Contain 0dieu
+roans: 0
+roans: 0
+roans: 0
+roans: 0
+roans: 0
+roans Contains 00000
+roans does not match place of 00000
+roans: a
+panty !Contain 0dieu
+panty: 0
+panty: 0
+panty: 0
+panty: 0
+panty: 0
+panty Contains 00000
+panty does not match place of 00000
+panty: a
+mooch !Contain 0dieu
+mooch: 0
+mooch: 0
+mooch: 0
+mooch: 0
+mooch: 0
+mooch Contains 00000
+mooch does not match place of 00000
+mooch: a
+salsa !Contain 0dieu
+salsa: 0
+salsa: 0
+salsa: 0
+salsa: 0
+salsa: 0
+salsa Contains 00000
+salsa does not match place of 00000
+salsa: a
+macaw !Contain 0dieu
+macaw: 0
+macaw: 0
+macaw: 0
+macaw: 0
+macaw: 0
+macaw Contains 00000
+macaw does not match place of 00000
+macaw: a
+oxbow !Contain 0dieu
+oxbow: 0
+oxbow: 0
+oxbow: 0
+oxbow: 0
+oxbow: 0
+oxbow Contains 00000
+oxbow does not match place of 00000
+oxbow: a
+socko !Contain 0dieu
+socko: 0
+socko: 0
+socko: 0
+socko: 0
+socko: 0
+socko Contains 00000
+socko does not match place of 00000
+socko: a
+tzars !Contain 0dieu
+tzars: 0
+tzars: 0
+tzars: 0
+tzars: 0
+tzars: 0
+tzars Contains 00000
+tzars does not match place of 00000
+tzars: a
+nobby !Contain 0dieu
+nobby: 0
+nobby: 0
+nobby: 0
+nobby: 0
+nobby: 0
+nobby Contains 00000
+nobby does not match place of 00000
+nobby: a
+mylar !Contain 0dieu
+mylar: 0
+mylar: 0
+mylar: 0
+mylar: 0
+mylar: 0
+mylar Contains 00000
+mylar does not match place of 00000
+mylar: a
+antsy !Contain 0dieu
+antsy: 0
+antsy: 0
+antsy: 0
+antsy: 0
+antsy: 0
+antsy Contains 00000
+antsy does not match place of 00000
+antsy: a
+antsy: 0
+antsy: 0
+antsy: 0
+antsy: 0
+antsy Has Matched Char a0000
+antsy added to result!
+boffo !Contain 0dieu
+boffo: 0
+boffo: 0
+boffo: 0
+boffo: 0
+boffo: 0
+boffo Contains 00000
+boffo does not match place of 00000
+boffo: a
+nacho !Contain 0dieu
+nacho: 0
+nacho: 0
+nacho: 0
+nacho: 0
+nacho: 0
+nacho Contains 00000
+nacho does not match place of 00000
+nacho: a
+slogs !Contain 0dieu
+slogs: 0
+slogs: 0
+slogs: 0
+slogs: 0
+slogs: 0
+slogs Contains 00000
+slogs does not match place of 00000
+slogs: a
+chaws !Contain 0dieu
+chaws: 0
+chaws: 0
+chaws: 0
+chaws: 0
+chaws: 0
+chaws Contains 00000
+chaws does not match place of 00000
+chaws: a
+hammy !Contain 0dieu
+hammy: 0
+hammy: 0
+hammy: 0
+hammy: 0
+hammy: 0
+hammy Contains 00000
+hammy does not match place of 00000
+hammy: a
+clops !Contain 0dieu
+clops: 0
+clops: 0
+clops: 0
+clops: 0
+clops: 0
+clops Contains 00000
+clops does not match place of 00000
+clops: a
+whorl !Contain 0dieu
+whorl: 0
+whorl: 0
+whorl: 0
+whorl: 0
+whorl: 0
+whorl Contains 00000
+whorl does not match place of 00000
+whorl: a
+narco !Contain 0dieu
+narco: 0
+narco: 0
+narco: 0
+narco: 0
+narco: 0
+narco Contains 00000
+narco does not match place of 00000
+narco: a
+potty !Contain 0dieu
+potty: 0
+potty: 0
+potty: 0
+potty: 0
+potty: 0
+potty Contains 00000
+potty does not match place of 00000
+potty: a
+noway !Contain 0dieu
+noway: 0
+noway: 0
+noway: 0
+noway: 0
+noway: 0
+noway Contains 00000
+noway does not match place of 00000
+noway: a
+loony !Contain 0dieu
+loony: 0
+loony: 0
+loony: 0
+loony: 0
+loony: 0
+loony Contains 00000
+loony does not match place of 00000
+loony: a
+softy !Contain 0dieu
+softy: 0
+softy: 0
+softy: 0
+softy: 0
+softy: 0
+softy Contains 00000
+softy does not match place of 00000
+softy: a
+frats !Contain 0dieu
+frats: 0
+frats: 0
+frats: 0
+frats: 0
+frats: 0
+frats Contains 00000
+frats does not match place of 00000
+frats: a
+toons !Contain 0dieu
+toons: 0
+toons: 0
+toons: 0
+toons: 0
+toons: 0
+toons Contains 00000
+toons does not match place of 00000
+toons: a
+whang !Contain 0dieu
+whang: 0
+whang: 0
+whang: 0
+whang: 0
+whang: 0
+whang Contains 00000
+whang does not match place of 00000
+whang: a
+jowly !Contain 0dieu
+jowly: 0
+jowly: 0
+jowly: 0
+jowly: 0
+jowly: 0
+jowly Contains 00000
+jowly does not match place of 00000
+jowly: a
+capos !Contain 0dieu
+capos: 0
+capos: 0
+capos: 0
+capos: 0
+capos: 0
+capos Contains 00000
+capos does not match place of 00000
+capos: a
+spacy !Contain 0dieu
+spacy: 0
+spacy: 0
+spacy: 0
+spacy: 0
+spacy: 0
+spacy Contains 00000
+spacy does not match place of 00000
+spacy: a
+chock !Contain 0dieu
+chock: 0
+chock: 0
+chock: 0
+chock: 0
+chock: 0
+chock Contains 00000
+chock does not match place of 00000
+chock: a
+jocks !Contain 0dieu
+jocks: 0
+jocks: 0
+jocks: 0
+jocks: 0
+jocks: 0
+jocks Contains 00000
+jocks does not match place of 00000
+jocks: a
+mynah !Contain 0dieu
+mynah: 0
+mynah: 0
+mynah: 0
+mynah: 0
+mynah: 0
+mynah Contains 00000
+mynah does not match place of 00000
+mynah: a
+bozos !Contain 0dieu
+bozos: 0
+bozos: 0
+bozos: 0
+bozos: 0
+bozos: 0
+bozos Contains 00000
+bozos does not match place of 00000
+bozos: a
+axman !Contain 0dieu
+axman: 0
+axman: 0
+axman: 0
+axman: 0
+axman: 0
+axman Contains 00000
+axman does not match place of 00000
+axman: a
+axman: 0
+axman: 0
+axman: 0
+axman: 0
+axman Has Matched Char a0000
+axman added to result!
+tryst !Contain 0dieu
+tryst: 0
+tryst: 0
+tryst: 0
+tryst: 0
+tryst: 0
+tryst Contains 00000
+tryst does not match place of 00000
+tryst: a
+angst !Contain 0dieu
+angst: 0
+angst: 0
+angst: 0
+angst: 0
+angst: 0
+angst Contains 00000
+angst does not match place of 00000
+angst: a
+angst: 0
+angst: 0
+angst: 0
+angst: 0
+angst Has Matched Char a0000
+angst added to result!
+ankhs !Contain 0dieu
+ankhs: 0
+ankhs: 0
+ankhs: 0
+ankhs: 0
+ankhs: 0
+ankhs Contains 00000
+ankhs does not match place of 00000
+ankhs: a
+ankhs: 0
+ankhs: 0
+ankhs: 0
+ankhs: 0
+ankhs Has Matched Char a0000
+ankhs added to result!
+jaggy !Contain 0dieu
+jaggy: 0
+jaggy: 0
+jaggy: 0
+jaggy: 0
+jaggy: 0
+jaggy Contains 00000
+jaggy does not match place of 00000
+jaggy: a
+horsy !Contain 0dieu
+horsy: 0
+horsy: 0
+horsy: 0
+horsy: 0
+horsy: 0
+horsy Contains 00000
+horsy does not match place of 00000
+horsy: a
+moola !Contain 0dieu
+moola: 0
+moola: 0
+moola: 0
+moola: 0
+moola: 0
+moola Contains 00000
+moola does not match place of 00000
+moola: a
+porno !Contain 0dieu
+porno: 0
+porno: 0
+porno: 0
+porno: 0
+porno: 0
+porno Contains 00000
+porno does not match place of 00000
+porno: a
+splay !Contain 0dieu
+splay: 0
+splay: 0
+splay: 0
+splay: 0
+splay: 0
+splay Contains 00000
+splay does not match place of 00000
+splay: a
+blabs !Contain 0dieu
+blabs: 0
+blabs: 0
+blabs: 0
+blabs: 0
+blabs: 0
+blabs Contains 00000
+blabs does not match place of 00000
+blabs: a
+hamza !Contain 0dieu
+hamza: 0
+hamza: 0
+hamza: 0
+hamza: 0
+hamza: 0
+hamza Contains 00000
+hamza does not match place of 00000
+hamza: a
+polly !Contain 0dieu
+polly: 0
+polly: 0
+polly: 0
+polly: 0
+polly: 0
+polly Contains 00000
+polly does not match place of 00000
+polly: a
+typos !Contain 0dieu
+typos: 0
+typos: 0
+typos: 0
+typos: 0
+typos: 0
+typos Contains 00000
+typos does not match place of 00000
+typos: a
+caron !Contain 0dieu
+caron: 0
+caron: 0
+caron: 0
+caron: 0
+caron: 0
+caron Contains 00000
+caron does not match place of 00000
+caron: a
+synch !Contain 0dieu
+synch: 0
+synch: 0
+synch: 0
+synch: 0
+synch: 0
+synch Contains 00000
+synch does not match place of 00000
+synch: a
+boors !Contain 0dieu
+boors: 0
+boors: 0
+boors: 0
+boors: 0
+boors: 0
+boors Contains 00000
+boors does not match place of 00000
+boors: a
+gassy !Contain 0dieu
+gassy: 0
+gassy: 0
+gassy: 0
+gassy: 0
+gassy: 0
+gassy Contains 00000
+gassy does not match place of 00000
+gassy: a
+argot !Contain 0dieu
+argot: 0
+argot: 0
+argot: 0
+argot: 0
+argot: 0
+argot Contains 00000
+argot does not match place of 00000
+argot: a
+argot: 0
+argot: 0
+argot: 0
+argot: 0
+argot Has Matched Char a0000
+argot added to result!
+kazoo !Contain 0dieu
+kazoo: 0
+kazoo: 0
+kazoo: 0
+kazoo: 0
+kazoo: 0
+kazoo Contains 00000
+kazoo does not match place of 00000
+kazoo: a
+crypt !Contain 0dieu
+crypt: 0
+crypt: 0
+crypt: 0
+crypt: 0
+crypt: 0
+crypt Contains 00000
+crypt does not match place of 00000
+crypt: a
+khans !Contain 0dieu
+khans: 0
+khans: 0
+khans: 0
+khans: 0
+khans: 0
+khans Contains 00000
+khans does not match place of 00000
+khans: a
+wacky !Contain 0dieu
+wacky: 0
+wacky: 0
+wacky: 0
+wacky: 0
+wacky: 0
+wacky Contains 00000
+wacky does not match place of 00000
+wacky: a
+phyla !Contain 0dieu
+phyla: 0
+phyla: 0
+phyla: 0
+phyla: 0
+phyla: 0
+phyla Contains 00000
+phyla does not match place of 00000
+phyla: a
+spoof !Contain 0dieu
+spoof: 0
+spoof: 0
+spoof: 0
+spoof: 0
+spoof: 0
+spoof Contains 00000
+spoof does not match place of 00000
+spoof: a
+chary !Contain 0dieu
+chary: 0
+chary: 0
+chary: 0
+chary: 0
+chary: 0
+chary Contains 00000
+chary does not match place of 00000
+chary: a
+lorry !Contain 0dieu
+lorry: 0
+lorry: 0
+lorry: 0
+lorry: 0
+lorry: 0
+lorry Contains 00000
+lorry does not match place of 00000
+lorry: a
+jazzy !Contain 0dieu
+jazzy: 0
+jazzy: 0
+jazzy: 0
+jazzy: 0
+jazzy: 0
+jazzy Contains 00000
+jazzy does not match place of 00000
+jazzy: a
+sappy !Contain 0dieu
+sappy: 0
+sappy: 0
+sappy: 0
+sappy: 0
+sappy: 0
+sappy Contains 00000
+sappy does not match place of 00000
+sappy: a
+altho !Contain 0dieu
+altho: 0
+altho: 0
+altho: 0
+altho: 0
+altho: 0
+altho Contains 00000
+altho does not match place of 00000
+altho: a
+altho: 0
+altho: 0
+altho: 0
+altho: 0
+altho Has Matched Char a0000
+altho added to result!
+snoot !Contain 0dieu
+snoot: 0
+snoot: 0
+snoot: 0
+snoot: 0
+snoot: 0
+snoot Contains 00000
+snoot does not match place of 00000
+snoot: a
+tansy !Contain 0dieu
+tansy: 0
+tansy: 0
+tansy: 0
+tansy: 0
+tansy: 0
+tansy Contains 00000
+tansy does not match place of 00000
+tansy: a
+natch !Contain 0dieu
+natch: 0
+natch: 0
+natch: 0
+natch: 0
+natch: 0
+natch Contains 00000
+natch does not match place of 00000
+natch: a
+ahhhh !Contain 0dieu
+ahhhh: 0
+ahhhh: 0
+ahhhh: 0
+ahhhh: 0
+ahhhh: 0
+ahhhh Contains 00000
+ahhhh does not match place of 00000
+ahhhh: a
+ahhhh: 0
+ahhhh: 0
+ahhhh: 0
+ahhhh: 0
+ahhhh Has Matched Char a0000
+ahhhh added to result!
+avast !Contain 0dieu
+avast: 0
+avast: 0
+avast: 0
+avast: 0
+avast: 0
+avast Contains 00000
+avast does not match place of 00000
+avast: a
+avast: 0
+avast: 0
+avast: 0
+avast: 0
+avast Has Matched Char a0000
+avast added to result!
+patsy !Contain 0dieu
+patsy: 0
+patsy: 0
+patsy: 0
+patsy: 0
+patsy: 0
+patsy Contains 00000
+patsy does not match place of 00000
+patsy: a
+woosh !Contain 0dieu
+woosh: 0
+woosh: 0
+woosh: 0
+woosh: 0
+woosh: 0
+woosh Contains 00000
+woosh does not match place of 00000
+woosh: a
+homos !Contain 0dieu
+homos: 0
+homos: 0
+homos: 0
+homos: 0
+homos: 0
+homos Contains 00000
+homos does not match place of 00000
+homos: a
+chomp !Contain 0dieu
+chomp: 0
+chomp: 0
+chomp: 0
+chomp: 0
+chomp: 0
+chomp Contains 00000
+chomp does not match place of 00000
+chomp: a
+nanny !Contain 0dieu
+nanny: 0
+nanny: 0
+nanny: 0
+nanny: 0
+nanny: 0
+nanny Contains 00000
+nanny does not match place of 00000
+nanny: a
+prams !Contain 0dieu
+prams: 0
+prams: 0
+prams: 0
+prams: 0
+prams: 0
+prams Contains 00000
+prams does not match place of 00000
+prams: a
+carob !Contain 0dieu
+carob: 0
+carob: 0
+carob: 0
+carob: 0
+carob: 0
+carob Contains 00000
+carob does not match place of 00000
+carob: a
+scarp !Contain 0dieu
+scarp: 0
+scarp: 0
+scarp: 0
+scarp: 0
+scarp: 0
+scarp Contains 00000
+scarp does not match place of 00000
+scarp: a
+harts !Contain 0dieu
+harts: 0
+harts: 0
+harts: 0
+harts: 0
+harts: 0
+harts Contains 00000
+harts does not match place of 00000
+harts: a
+hooch !Contain 0dieu
+hooch: 0
+hooch: 0
+hooch: 0
+hooch: 0
+hooch: 0
+hooch Contains 00000
+hooch does not match place of 00000
+hooch: a
+fanny !Contain 0dieu
+fanny: 0
+fanny: 0
+fanny: 0
+fanny: 0
+fanny: 0
+fanny Contains 00000
+fanny does not match place of 00000
+fanny: a
+balks !Contain 0dieu
+balks: 0
+balks: 0
+balks: 0
+balks: 0
+balks: 0
+balks Contains 00000
+balks does not match place of 00000
+balks: a
+banns !Contain 0dieu
+banns: 0
+banns: 0
+banns: 0
+banns: 0
+banns: 0
+banns Contains 00000
+banns does not match place of 00000
+banns: a
+zonal !Contain 0dieu
+zonal: 0
+zonal: 0
+zonal: 0
+zonal: 0
+zonal: 0
+zonal Contains 00000
+zonal does not match place of 00000
+zonal: a
+hoagy !Contain 0dieu
+hoagy: 0
+hoagy: 0
+hoagy: 0
+hoagy: 0
+hoagy: 0
+hoagy Contains 00000
+hoagy does not match place of 00000
+hoagy: a
+kooks !Contain 0dieu
+kooks: 0
+kooks: 0
+kooks: 0
+kooks: 0
+kooks: 0
+kooks Contains 00000
+kooks does not match place of 00000
+kooks: a
+coots !Contain 0dieu
+coots: 0
+coots: 0
+coots: 0
+coots: 0
+coots: 0
+coots Contains 00000
+coots does not match place of 00000
+coots: a
+hanky !Contain 0dieu
+hanky: 0
+hanky: 0
+hanky: 0
+hanky: 0
+hanky: 0
+hanky Contains 00000
+hanky does not match place of 00000
+hanky: a
+achoo !Contain 0dieu
+achoo: 0
+achoo: 0
+achoo: 0
+achoo: 0
+achoo: 0
+achoo Contains 00000
+achoo does not match place of 00000
+achoo: a
+achoo: 0
+achoo: 0
+achoo: 0
+achoo: 0
+achoo Has Matched Char a0000
+achoo added to result!
+croft !Contain 0dieu
+croft: 0
+croft: 0
+croft: 0
+croft: 0
+croft: 0
+croft Contains 00000
+croft does not match place of 00000
+croft: a
+tacky !Contain 0dieu
+tacky: 0
+tacky: 0
+tacky: 0
+tacky: 0
+tacky: 0
+tacky Contains 00000
+tacky does not match place of 00000
+tacky: a
+globs !Contain 0dieu
+globs: 0
+globs: 0
+globs: 0
+globs: 0
+globs: 0
+globs Contains 00000
+globs does not match place of 00000
+globs: a
+crass !Contain 0dieu
+crass: 0
+crass: 0
+crass: 0
+crass: 0
+crass: 0
+crass Contains 00000
+crass does not match place of 00000
+crass: a
+matzo !Contain 0dieu
+matzo: 0
+matzo: 0
+matzo: 0
+matzo: 0
+matzo: 0
+matzo Contains 00000
+matzo does not match place of 00000
+matzo: a
+cotta !Contain 0dieu
+cotta: 0
+cotta: 0
+cotta: 0
+cotta: 0
+cotta: 0
+cotta Contains 00000
+cotta does not match place of 00000
+cotta: a
+nappy !Contain 0dieu
+nappy: 0
+nappy: 0
+nappy: 0
+nappy: 0
+nappy: 0
+nappy Contains 00000
+nappy does not match place of 00000
+nappy: a
+raspy !Contain 0dieu
+raspy: 0
+raspy: 0
+raspy: 0
+raspy: 0
+raspy: 0
+raspy Contains 00000
+raspy does not match place of 00000
+raspy: a
+orlon !Contain 0dieu
+orlon: 0
+orlon: 0
+orlon: 0
+orlon: 0
+orlon: 0
+orlon Contains 00000
+orlon does not match place of 00000
+orlon: a
+flyby !Contain 0dieu
+flyby: 0
+flyby: 0
+flyby: 0
+flyby: 0
+flyby: 0
+flyby Contains 00000
+flyby does not match place of 00000
+flyby: a
+oomph !Contain 0dieu
+oomph: 0
+oomph: 0
+oomph: 0
+oomph: 0
+oomph: 0
+oomph Contains 00000
+oomph does not match place of 00000
+oomph: a
+skoal !Contain 0dieu
+skoal: 0
+skoal: 0
+skoal: 0
+skoal: 0
+skoal: 0
+skoal Contains 00000
+skoal does not match place of 00000
+skoal: a
+slobs !Contain 0dieu
+slobs: 0
+slobs: 0
+slobs: 0
+slobs: 0
+slobs: 0
+slobs Contains 00000
+slobs does not match place of 00000
+slobs: a
+whomp !Contain 0dieu
+whomp: 0
+whomp: 0
+whomp: 0
+whomp: 0
+whomp: 0
+whomp Contains 00000
+whomp does not match place of 00000
+whomp: a
+woozy !Contain 0dieu
+woozy: 0
+woozy: 0
+woozy: 0
+woozy: 0
+woozy: 0
+woozy Contains 00000
+woozy does not match place of 00000
+woozy: a
+comfy !Contain 0dieu
+comfy: 0
+comfy: 0
+comfy: 0
+comfy: 0
+comfy: 0
+comfy Contains 00000
+comfy does not match place of 00000
+comfy: a
+ratty !Contain 0dieu
+ratty: 0
+ratty: 0
+ratty: 0
+ratty: 0
+ratty: 0
+ratty Contains 00000
+ratty does not match place of 00000
+ratty: a
+moray !Contain 0dieu
+moray: 0
+moray: 0
+moray: 0
+moray: 0
+moray: 0
+moray Contains 00000
+moray does not match place of 00000
+moray: a
+pasty !Contain 0dieu
+pasty: 0
+pasty: 0
+pasty: 0
+pasty: 0
+pasty: 0
+pasty Contains 00000
+pasty does not match place of 00000
+pasty: a
+splat !Contain 0dieu
+splat: 0
+splat: 0
+splat: 0
+splat: 0
+splat: 0
+splat Contains 00000
+splat does not match place of 00000
+splat: a
+balky !Contain 0dieu
+balky: 0
+balky: 0
+balky: 0
+balky: 0
+balky: 0
+balky Contains 00000
+balky does not match place of 00000
+balky: a
+troth !Contain 0dieu
+troth: 0
+troth: 0
+troth: 0
+troth: 0
+troth: 0
+troth Contains 00000
+troth does not match place of 00000
+troth: a
+basso !Contain 0dieu
+basso: 0
+basso: 0
+basso: 0
+basso: 0
+basso: 0
+basso Contains 00000
+basso does not match place of 00000
+basso: a
+savvy !Contain 0dieu
+savvy: 0
+savvy: 0
+savvy: 0
+savvy: 0
+savvy: 0
+savvy Contains 00000
+savvy does not match place of 00000
+savvy: a
+annas !Contain 0dieu
+annas: 0
+annas: 0
+annas: 0
+annas: 0
+annas: 0
+annas Contains 00000
+annas does not match place of 00000
+annas: a
+annas: 0
+annas: 0
+annas: 0
+annas: 0
+annas Has Matched Char a0000
+annas added to result!
+loamy !Contain 0dieu
+loamy: 0
+loamy: 0
+loamy: 0
+loamy: 0
+loamy: 0
+loamy Contains 00000
+loamy does not match place of 00000
+loamy: a
+looky !Contain 0dieu
+looky: 0
+looky: 0
+looky: 0
+looky: 0
+looky: 0
+looky Contains 00000
+looky does not match place of 00000
+looky: a
+swank !Contain 0dieu
+swank: 0
+swank: 0
+swank: 0
+swank: 0
+swank: 0
+swank Contains 00000
+swank does not match place of 00000
+swank: a
+hasps !Contain 0dieu
+hasps: 0
+hasps: 0
+hasps: 0
+hasps: 0
+hasps: 0
+hasps Contains 00000
+hasps does not match place of 00000
+hasps: a
+natty !Contain 0dieu
+natty: 0
+natty: 0
+natty: 0
+natty: 0
+natty: 0
+natty Contains 00000
+natty does not match place of 00000
+natty: a
+logos !Contain 0dieu
+logos: 0
+logos: 0
+logos: 0
+logos: 0
+logos: 0
+logos Contains 00000
+logos does not match place of 00000
+logos: a
+clack !Contain 0dieu
+clack: 0
+clack: 0
+clack: 0
+clack: 0
+clack: 0
+clack Contains 00000
+clack does not match place of 00000
+clack: a
+wrack !Contain 0dieu
+wrack: 0
+wrack: 0
+wrack: 0
+wrack: 0
+wrack: 0
+wrack Contains 00000
+wrack does not match place of 00000
+wrack: a
+canto !Contain 0dieu
+canto: 0
+canto: 0
+canto: 0
+canto: 0
+canto: 0
+canto Contains 00000
+canto does not match place of 00000
+canto: a
+hallo !Contain 0dieu
+hallo: 0
+hallo: 0
+hallo: 0
+hallo: 0
+hallo: 0
+hallo Contains 00000
+hallo does not match place of 00000
+hallo: a
+aways !Contain 0dieu
+aways: 0
+aways: 0
+aways: 0
+aways: 0
+aways: 0
+aways Contains 00000
+aways does not match place of 00000
+aways: a
+aways: 0
+aways: 0
+aways: 0
+aways: 0
+aways Has Matched Char a0000
+aways added to result!
+samba !Contain 0dieu
+samba: 0
+samba: 0
+samba: 0
+samba: 0
+samba: 0
+samba Contains 00000
+samba does not match place of 00000
+samba: a
+kooky !Contain 0dieu
+kooky: 0
+kooky: 0
+kooky: 0
+kooky: 0
+kooky: 0
+kooky Contains 00000
+kooky does not match place of 00000
+kooky: a
+mommy !Contain 0dieu
+mommy: 0
+mommy: 0
+mommy: 0
+mommy: 0
+mommy: 0
+mommy Contains 00000
+mommy does not match place of 00000
+mommy: a
+mangy !Contain 0dieu
+mangy: 0
+mangy: 0
+mangy: 0
+mangy: 0
+mangy: 0
+mangy Contains 00000
+mangy does not match place of 00000
+mangy: a
+rangy !Contain 0dieu
+rangy: 0
+rangy: 0
+rangy: 0
+rangy: 0
+rangy: 0
+rangy Contains 00000
+rangy does not match place of 00000
+rangy: a
+yawns !Contain 0dieu
+yawns: 0
+yawns: 0
+yawns: 0
+yawns: 0
+yawns: 0
+yawns Contains 00000
+yawns does not match place of 00000
+yawns: a
+pylon !Contain 0dieu
+pylon: 0
+pylon: 0
+pylon: 0
+pylon: 0
+pylon: 0
+pylon Contains 00000
+pylon does not match place of 00000
+pylon: a
+banal !Contain 0dieu
+banal: 0
+banal: 0
+banal: 0
+banal: 0
+banal: 0
+banal Contains 00000
+banal does not match place of 00000
+banal: a
+axons !Contain 0dieu
+axons: 0
+axons: 0
+axons: 0
+axons: 0
+axons: 0
+axons Contains 00000
+axons does not match place of 00000
+axons: a
+axons: 0
+axons: 0
+axons: 0
+axons: 0
+axons Has Matched Char a0000
+axons added to result!
+fagot !Contain 0dieu
+fagot: 0
+fagot: 0
+fagot: 0
+fagot: 0
+fagot: 0
+fagot Contains 00000
+fagot does not match place of 00000
+fagot: a
+conga !Contain 0dieu
+conga: 0
+conga: 0
+conga: 0
+conga: 0
+conga: 0
+conga Contains 00000
+conga does not match place of 00000
+conga: a
+gyros !Contain 0dieu
+gyros: 0
+gyros: 0
+gyros: 0
+gyros: 0
+gyros: 0
+gyros Contains 00000
+gyros does not match place of 00000
+gyros: a
+mammy !Contain 0dieu
+mammy: 0
+mammy: 0
+mammy: 0
+mammy: 0
+mammy: 0
+mammy Contains 00000
+mammy does not match place of 00000
+mammy: a
+tabor !Contain 0dieu
+tabor: 0
+tabor: 0
+tabor: 0
+tabor: 0
+tabor: 0
+tabor Contains 00000
+tabor does not match place of 00000
+tabor: a
+bronc !Contain 0dieu
+bronc: 0
+bronc: 0
+bronc: 0
+bronc: 0
+bronc: 0
+bronc Contains 00000
+bronc does not match place of 00000
+bronc: a
+blocs !Contain 0dieu
+blocs: 0
+blocs: 0
+blocs: 0
+blocs: 0
+blocs: 0
+blocs Contains 00000
+blocs does not match place of 00000
+blocs: a
+tabby !Contain 0dieu
+tabby: 0
+tabby: 0
+tabby: 0
+tabby: 0
+tabby: 0
+tabby Contains 00000
+tabby does not match place of 00000
+tabby: a
+swath !Contain 0dieu
+swath: 0
+swath: 0
+swath: 0
+swath: 0
+swath: 0
+swath Contains 00000
+swath does not match place of 00000
+swath: a
+hocks !Contain 0dieu
+hocks: 0
+hocks: 0
+hocks: 0
+hocks: 0
+hocks: 0
+hocks Contains 00000
+hocks does not match place of 00000
+hocks: a
+clomp !Contain 0dieu
+clomp: 0
+clomp: 0
+clomp: 0
+clomp: 0
+clomp: 0
+clomp Contains 00000
+clomp does not match place of 00000
+clomp: a
+natal !Contain 0dieu
+natal: 0
+natal: 0
+natal: 0
+natal: 0
+natal: 0
+natal Contains 00000
+natal does not match place of 00000
+natal: a
+tango !Contain 0dieu
+tango: 0
+tango: 0
+tango: 0
+tango: 0
+tango: 0
+tango Contains 00000
+tango does not match place of 00000
+tango: a
+gamba !Contain 0dieu
+gamba: 0
+gamba: 0
+gamba: 0
+gamba: 0
+gamba: 0
+gamba Contains 00000
+gamba does not match place of 00000
+gamba: a
+sorta !Contain 0dieu
+sorta: 0
+sorta: 0
+sorta: 0
+sorta: 0
+sorta: 0
+sorta Contains 00000
+sorta does not match place of 00000
+sorta: a
+cohos !Contain 0dieu
+cohos: 0
+cohos: 0
+cohos: 0
+cohos: 0
+cohos: 0
+cohos Contains 00000
+cohos does not match place of 00000
+cohos: a
+salvo !Contain 0dieu
+salvo: 0
+salvo: 0
+salvo: 0
+salvo: 0
+salvo: 0
+salvo Contains 00000
+salvo does not match place of 00000
+salvo: a
+sonny !Contain 0dieu
+sonny: 0
+sonny: 0
+sonny: 0
+sonny: 0
+sonny: 0
+sonny Contains 00000
+sonny does not match place of 00000
+sonny: a
+awash !Contain 0dieu
+awash: 0
+awash: 0
+awash: 0
+awash: 0
+awash: 0
+awash Contains 00000
+awash does not match place of 00000
+awash: a
+awash: 0
+awash: 0
+awash: 0
+awash: 0
+awash Has Matched Char a0000
+awash added to result!
+gongs !Contain 0dieu
+gongs: 0
+gongs: 0
+gongs: 0
+gongs: 0
+gongs: 0
+gongs Contains 00000
+gongs does not match place of 00000
+gongs: a
+jowls !Contain 0dieu
+jowls: 0
+jowls: 0
+jowls: 0
+jowls: 0
+jowls: 0
+jowls Contains 00000
+jowls does not match place of 00000
+jowls: a
+wanta !Contain 0dieu
+wanta: 0
+wanta: 0
+wanta: 0
+wanta: 0
+wanta: 0
+wanta Contains 00000
+wanta does not match place of 00000
+wanta: a
+swash !Contain 0dieu
+swash: 0
+swash: 0
+swash: 0
+swash: 0
+swash: 0
+swash Contains 00000
+swash does not match place of 00000
+swash: a
+brash !Contain 0dieu
+brash: 0
+brash: 0
+brash: 0
+brash: 0
+brash: 0
+brash Contains 00000
+brash does not match place of 00000
+brash: a
+aglow !Contain 0dieu
+aglow: 0
+aglow: 0
+aglow: 0
+aglow: 0
+aglow: 0
+aglow Contains 00000
+aglow does not match place of 00000
+aglow: a
+aglow: 0
+aglow: 0
+aglow: 0
+aglow: 0
+aglow Has Matched Char a0000
+aglow added to result!
+basal !Contain 0dieu
+basal: 0
+basal: 0
+basal: 0
+basal: 0
+basal: 0
+basal Contains 00000
+basal does not match place of 00000
+basal: a
+bongo !Contain 0dieu
+bongo: 0
+bongo: 0
+bongo: 0
+bongo: 0
+bongo: 0
+bongo Contains 00000
+bongo does not match place of 00000
+bongo: a
+sooty !Contain 0dieu
+sooty: 0
+sooty: 0
+sooty: 0
+sooty: 0
+sooty: 0
+sooty Contains 00000
+sooty does not match place of 00000
+sooty: a
+facto !Contain 0dieu
+facto: 0
+facto: 0
+facto: 0
+facto: 0
+facto: 0
+facto Contains 00000
+facto does not match place of 00000
+facto: a
+sally !Contain 0dieu
+sally: 0
+sally: 0
+sally: 0
+sally: 0
+sally: 0
+sally Contains 00000
+sally does not match place of 00000
+sally: a
+trams !Contain 0dieu
+trams: 0
+trams: 0
+trams: 0
+trams: 0
+trams: 0
+trams Contains 00000
+trams does not match place of 00000
+trams: a
+coons !Contain 0dieu
+coons: 0
+coons: 0
+coons: 0
+coons: 0
+coons: 0
+coons Contains 00000
+coons does not match place of 00000
+coons: a
+calyx !Contain 0dieu
+calyx: 0
+calyx: 0
+calyx: 0
+calyx: 0
+calyx: 0
+calyx Contains 00000
+calyx does not match place of 00000
+calyx: a
+avant !Contain 0dieu
+avant: 0
+avant: 0
+avant: 0
+avant: 0
+avant: 0
+avant Contains 00000
+avant does not match place of 00000
+avant: a
+avant: 0
+avant: 0
+avant: 0
+avant: 0
+avant Has Matched Char a0000
+avant added to result!
+alack !Contain 0dieu
+alack: 0
+alack: 0
+alack: 0
+alack: 0
+alack: 0
+alack Contains 00000
+alack does not match place of 00000
+alack: a
+alack: 0
+alack: 0
+alack: 0
+alack: 0
+alack Has Matched Char a0000
+alack added to result!
+boron !Contain 0dieu
+boron: 0
+boron: 0
+boron: 0
+boron: 0
+boron: 0
+boron Contains 00000
+boron does not match place of 00000
+boron: a
+salon !Contain 0dieu
+salon: 0
+salon: 0
+salon: 0
+salon: 0
+salon: 0
+salon Contains 00000
+salon does not match place of 00000
+salon: a
+manna !Contain 0dieu
+manna: 0
+manna: 0
+manna: 0
+manna: 0
+manna: 0
+manna Contains 00000
+manna does not match place of 00000
+manna: a
+lolly !Contain 0dieu
+lolly: 0
+lolly: 0
+lolly: 0
+lolly: 0
+lolly: 0
+lolly Contains 00000
+lolly does not match place of 00000
+lolly: a
+foamy !Contain 0dieu
+foamy: 0
+foamy: 0
+foamy: 0
+foamy: 0
+foamy: 0
+foamy Contains 00000
+foamy does not match place of 00000
+foamy: a
+trans !Contain 0dieu
+trans: 0
+trans: 0
+trans: 0
+trans: 0
+trans: 0
+trans Contains 00000
+trans does not match place of 00000
+trans: a
+octal !Contain 0dieu
+octal: 0
+octal: 0
+octal: 0
+octal: 0
+octal: 0
+octal Contains 00000
+octal does not match place of 00000
+octal: a
+amply !Contain 0dieu
+amply: 0
+amply: 0
+amply: 0
+amply: 0
+amply: 0
+amply Contains 00000
+amply does not match place of 00000
+amply: a
+amply: 0
+amply: 0
+amply: 0
+amply: 0
+amply Has Matched Char a0000
+amply added to result!
+canst !Contain 0dieu
+canst: 0
+canst: 0
+canst: 0
+canst: 0
+canst: 0
+canst Contains 00000
+canst does not match place of 00000
+canst: a
+wanna !Contain 0dieu
+wanna: 0
+wanna: 0
+wanna: 0
+wanna: 0
+wanna: 0
+wanna Contains 00000
+wanna does not match place of 00000
+wanna: a
+glyph !Contain 0dieu
+glyph: 0
+glyph: 0
+glyph: 0
+glyph: 0
+glyph: 0
+glyph Contains 00000
+glyph does not match place of 00000
+glyph: a
+aloha !Contain 0dieu
+aloha: 0
+aloha: 0
+aloha: 0
+aloha: 0
+aloha: 0
+aloha Contains 00000
+aloha does not match place of 00000
+aloha: a
+aloha: 0
+aloha: 0
+aloha: 0
+aloha: 0
+aloha Has Matched Char a0000
+aloha added to result!
+bolls !Contain 0dieu
+bolls: 0
+bolls: 0
+bolls: 0
+bolls: 0
+bolls: 0
+bolls Contains 00000
+bolls does not match place of 00000
+bolls: a
+bonny !Contain 0dieu
+bonny: 0
+bonny: 0
+bonny: 0
+bonny: 0
+bonny: 0
+bonny Contains 00000
+bonny does not match place of 00000
+bonny: a
+warty !Contain 0dieu
+warty: 0
+warty: 0
+warty: 0
+warty: 0
+warty: 0
+warty Contains 00000
+warty does not match place of 00000
+warty: a
+nobly !Contain 0dieu
+nobly: 0
+nobly: 0
+nobly: 0
+nobly: 0
+nobly: 0
+nobly Contains 00000
+nobly does not match place of 00000
+nobly: a
+alpha !Contain 0dieu
+alpha: 0
+alpha: 0
+alpha: 0
+alpha: 0
+alpha: 0
+alpha Contains 00000
+alpha does not match place of 00000
+alpha: a
+alpha: 0
+alpha: 0
+alpha: 0
+alpha: 0
+alpha Has Matched Char a0000
+alpha added to result!
+combo !Contain 0dieu
+combo: 0
+combo: 0
+combo: 0
+combo: 0
+combo: 0
+combo Contains 00000
+combo does not match place of 00000
+combo: a
+knoll !Contain 0dieu
+knoll: 0
+knoll: 0
+knoll: 0
+knoll: 0
+knoll: 0
+knoll Contains 00000
+knoll does not match place of 00000
+knoll: a
+yolks !Contain 0dieu
+yolks: 0
+yolks: 0
+yolks: 0
+yolks: 0
+yolks: 0
+yolks Contains 00000
+yolks does not match place of 00000
+yolks: a
+bobby !Contain 0dieu
+bobby: 0
+bobby: 0
+bobby: 0
+bobby: 0
+bobby: 0
+bobby Contains 00000
+bobby does not match place of 00000
+bobby: a
+norms !Contain 0dieu
+norms: 0
+norms: 0
+norms: 0
+norms: 0
+norms: 0
+norms Contains 00000
+norms does not match place of 00000
+norms: a
+golly !Contain 0dieu
+golly: 0
+golly: 0
+golly: 0
+golly: 0
+golly: 0
+golly Contains 00000
+golly does not match place of 00000
+golly: a
+papal !Contain 0dieu
+papal: 0
+papal: 0
+papal: 0
+papal: 0
+papal: 0
+papal Contains 00000
+papal does not match place of 00000
+papal: a
+focal !Contain 0dieu
+focal: 0
+focal: 0
+focal: 0
+focal: 0
+focal: 0
+focal Contains 00000
+focal does not match place of 00000
+focal: a
+gamma !Contain 0dieu
+gamma: 0
+gamma: 0
+gamma: 0
+gamma: 0
+gamma: 0
+gamma Contains 00000
+gamma does not match place of 00000
+gamma: a
+borax !Contain 0dieu
+borax: 0
+borax: 0
+borax: 0
+borax: 0
+borax: 0
+borax Contains 00000
+borax does not match place of 00000
+borax: a
+fatty !Contain 0dieu
+fatty: 0
+fatty: 0
+fatty: 0
+fatty: 0
+fatty: 0
+fatty Contains 00000
+fatty does not match place of 00000
+fatty: a
+smack !Contain 0dieu
+smack: 0
+smack: 0
+smack: 0
+smack: 0
+smack: 0
+smack Contains 00000
+smack does not match place of 00000
+smack: a
+gotta !Contain 0dieu
+gotta: 0
+gotta: 0
+gotta: 0
+gotta: 0
+gotta: 0
+gotta Contains 00000
+gotta does not match place of 00000
+gotta: a
+roman !Contain 0dieu
+roman: 0
+roman: 0
+roman: 0
+roman: 0
+roman: 0
+roman Contains 00000
+roman does not match place of 00000
+roman: a
+mocha !Contain 0dieu
+mocha: 0
+mocha: 0
+mocha: 0
+mocha: 0
+mocha: 0
+mocha Contains 00000
+mocha does not match place of 00000
+mocha: a
+lofts !Contain 0dieu
+lofts: 0
+lofts: 0
+lofts: 0
+lofts: 0
+lofts: 0
+lofts Contains 00000
+lofts does not match place of 00000
+lofts: a
+goons !Contain 0dieu
+goons: 0
+goons: 0
+goons: 0
+goons: 0
+goons: 0
+goons Contains 00000
+goons does not match place of 00000
+goons: a
+togas !Contain 0dieu
+togas: 0
+togas: 0
+togas: 0
+togas: 0
+togas: 0
+togas Contains 00000
+togas does not match place of 00000
+togas: a
+warps !Contain 0dieu
+warps: 0
+warps: 0
+warps: 0
+warps: 0
+warps: 0
+warps Contains 00000
+warps does not match place of 00000
+warps: a
+parry !Contain 0dieu
+parry: 0
+parry: 0
+parry: 0
+parry: 0
+parry: 0
+parry Contains 00000
+parry does not match place of 00000
+parry: a
+shoos !Contain 0dieu
+shoos: 0
+shoos: 0
+shoos: 0
+shoos: 0
+shoos: 0
+shoos Contains 00000
+shoos does not match place of 00000
+shoos: a
+chows !Contain 0dieu
+chows: 0
+chows: 0
+chows: 0
+chows: 0
+chows: 0
+chows Contains 00000
+chows does not match place of 00000
+chows: a
+swabs !Contain 0dieu
+swabs: 0
+swabs: 0
+swabs: 0
+swabs: 0
+swabs: 0
+swabs Contains 00000
+swabs does not match place of 00000
+swabs: a
+wools !Contain 0dieu
+wools: 0
+wools: 0
+wools: 0
+wools: 0
+wools: 0
+wools Contains 00000
+wools does not match place of 00000
+wools: a
+talon !Contain 0dieu
+talon: 0
+talon: 0
+talon: 0
+talon: 0
+talon: 0
+talon Contains 00000
+talon does not match place of 00000
+talon: a
+swats !Contain 0dieu
+swats: 0
+swats: 0
+swats: 0
+swats: 0
+swats: 0
+swats Contains 00000
+swats does not match place of 00000
+swats: a
+garbs !Contain 0dieu
+garbs: 0
+garbs: 0
+garbs: 0
+garbs: 0
+garbs: 0
+garbs Contains 00000
+garbs does not match place of 00000
+garbs: a
+brans !Contain 0dieu
+brans: 0
+brans: 0
+brans: 0
+brans: 0
+brans: 0
+brans Contains 00000
+brans does not match place of 00000
+brans: a
+hobos !Contain 0dieu
+hobos: 0
+hobos: 0
+hobos: 0
+hobos: 0
+hobos: 0
+hobos Contains 00000
+hobos does not match place of 00000
+hobos: a
+soots !Contain 0dieu
+soots: 0
+soots: 0
+soots: 0
+soots: 0
+soots: 0
+soots Contains 00000
+soots does not match place of 00000
+soots: a
+wafts !Contain 0dieu
+wafts: 0
+wafts: 0
+wafts: 0
+wafts: 0
+wafts: 0
+wafts Contains 00000
+wafts does not match place of 00000
+wafts: a
+okays !Contain 0dieu
+okays: 0
+okays: 0
+okays: 0
+okays: 0
+okays: 0
+okays Contains 00000
+okays does not match place of 00000
+okays: a
+yogas !Contain 0dieu
+yogas: 0
+yogas: 0
+yogas: 0
+yogas: 0
+yogas: 0
+yogas Contains 00000
+yogas does not match place of 00000
+yogas: a
+loots !Contain 0dieu
+loots: 0
+loots: 0
+loots: 0
+loots: 0
+loots: 0
+loots Contains 00000
+loots does not match place of 00000
+loots: a
+papas !Contain 0dieu
+papas: 0
+papas: 0
+papas: 0
+papas: 0
+papas: 0
+papas Contains 00000
+papas does not match place of 00000
+papas: a
+noons !Contain 0dieu
+noons: 0
+noons: 0
+noons: 0
+noons: 0
+noons: 0
+noons Contains 00000
+noons does not match place of 00000
+noons: a
+bylaw !Contain 0dieu
+bylaw: 0
+bylaw: 0
+bylaw: 0
+bylaw: 0
+bylaw: 0
+bylaw Contains 00000
+bylaw does not match place of 00000
+bylaw: a
+cowls !Contain 0dieu
+cowls: 0
+cowls: 0
+cowls: 0
+cowls: 0
+cowls: 0
+cowls Contains 00000
+cowls does not match place of 00000
+cowls: a
+loafs !Contain 0dieu
+loafs: 0
+loafs: 0
+loafs: 0
+loafs: 0
+loafs: 0
+loafs Contains 00000
+loafs does not match place of 00000
+loafs: a
+golfs !Contain 0dieu
+golfs: 0
+golfs: 0
+golfs: 0
+golfs: 0
+golfs: 0
+golfs Contains 00000
+golfs does not match place of 00000
+golfs: a
+pooch !Contain 0dieu
+pooch: 0
+pooch: 0
+pooch: 0
+pooch: 0
+pooch: 0
+pooch Contains 00000
+pooch does not match place of 00000
+pooch: a
+flays !Contain 0dieu
+flays: 0
+flays: 0
+flays: 0
+flays: 0
+flays: 0
+flays Contains 00000
+flays does not match place of 00000
+flays: a
+crams !Contain 0dieu
+crams: 0
+crams: 0
+crams: 0
+crams: 0
+crams: 0
+crams Contains 00000
+crams does not match place of 00000
+crams: a
+parch !Contain 0dieu
+parch: 0
+parch: 0
+parch: 0
+parch: 0
+parch: 0
+parch Contains 00000
+parch does not match place of 00000
+parch: a
+malls !Contain 0dieu
+malls: 0
+malls: 0
+malls: 0
+malls: 0
+malls: 0
+malls Contains 00000
+malls does not match place of 00000
+malls: a
+crony !Contain 0dieu
+crony: 0
+crony: 0
+crony: 0
+crony: 0
+crony: 0
+crony Contains 00000
+crony does not match place of 00000
+crony: a
+romps !Contain 0dieu
+romps: 0
+romps: 0
+romps: 0
+romps: 0
+romps: 0
+romps Contains 00000
+romps does not match place of 00000
+romps: a
+wooly !Contain 0dieu
+wooly: 0
+wooly: 0
+wooly: 0
+wooly: 0
+wooly: 0
+wooly Contains 00000
+wooly does not match place of 00000
+wooly: a
+gawks !Contain 0dieu
+gawks: 0
+gawks: 0
+gawks: 0
+gawks: 0
+gawks: 0
+gawks Contains 00000
+gawks does not match place of 00000
+gawks: a
+flogs !Contain 0dieu
+flogs: 0
+flogs: 0
+flogs: 0
+flogs: 0
+flogs: 0
+flogs Contains 00000
+flogs does not match place of 00000
+flogs: a
+floss !Contain 0dieu
+floss: 0
+floss: 0
+floss: 0
+floss: 0
+floss: 0
+floss Contains 00000
+floss does not match place of 00000
+floss: a
+lolls !Contain 0dieu
+lolls: 0
+lolls: 0
+lolls: 0
+lolls: 0
+lolls: 0
+lolls Contains 00000
+lolls does not match place of 00000
+lolls: a
+bawls !Contain 0dieu
+bawls: 0
+bawls: 0
+bawls: 0
+bawls: 0
+bawls: 0
+bawls Contains 00000
+bawls does not match place of 00000
+bawls: a
+carps !Contain 0dieu
+carps: 0
+carps: 0
+carps: 0
+carps: 0
+carps: 0
+carps Contains 00000
+carps does not match place of 00000
+carps: a
+basks !Contain 0dieu
+basks: 0
+basks: 0
+basks: 0
+basks: 0
+basks: 0
+basks Contains 00000
+basks does not match place of 00000
+basks: a
+loams !Contain 0dieu
+loams: 0
+loams: 0
+loams: 0
+loams: 0
+loams: 0
+loams Contains 00000
+loams does not match place of 00000
+loams: a
+laxly !Contain 0dieu
+laxly: 0
+laxly: 0
+laxly: 0
+laxly: 0
+laxly: 0
+laxly Contains 00000
+laxly does not match place of 00000
+laxly: a
+rooks !Contain 0dieu
+rooks: 0
+rooks: 0
+rooks: 0
+rooks: 0
+rooks: 0
+rooks Contains 00000
+rooks does not match place of 00000
+rooks: a
+papaw !Contain 0dieu
+papaw: 0
+papaw: 0
+papaw: 0
+papaw: 0
+papaw: 0
+papaw Contains 00000
+papaw does not match place of 00000
+papaw: a
+plops !Contain 0dieu
+plops: 0
+plops: 0
+plops: 0
+plops: 0
+plops: 0
+plops Contains 00000
+plops does not match place of 00000
+plops: a
+yowls !Contain 0dieu
+yowls: 0
+yowls: 0
+yowls: 0
+yowls: 0
+yowls: 0
+yowls Contains 00000
+yowls does not match place of 00000
+yowls: a
+satyr !Contain 0dieu
+satyr: 0
+satyr: 0
+satyr: 0
+satyr: 0
+satyr: 0
+satyr Contains 00000
+satyr does not match place of 00000
+satyr: a
+harms !Contain 0dieu
+harms: 0
+harms: 0
+harms: 0
+harms: 0
+harms: 0
+harms Contains 00000
+harms does not match place of 00000
+harms: a
+marts !Contain 0dieu
+marts: 0
+marts: 0
+marts: 0
+marts: 0
+marts: 0
+marts Contains 00000
+marts does not match place of 00000
+marts: a
+snoop !Contain 0dieu
+snoop: 0
+snoop: 0
+snoop: 0
+snoop: 0
+snoop: 0
+snoop Contains 00000
+snoop does not match place of 00000
+snoop: a
+galas !Contain 0dieu
+galas: 0
+galas: 0
+galas: 0
+galas: 0
+galas: 0
+galas Contains 00000
+galas does not match place of 00000
+galas: a
+rajah !Contain 0dieu
+rajah: 0
+rajah: 0
+rajah: 0
+rajah: 0
+rajah: 0
+rajah Contains 00000
+rajah does not match place of 00000
+rajah: a
+wombs !Contain 0dieu
+wombs: 0
+wombs: 0
+wombs: 0
+wombs: 0
+wombs: 0
+wombs Contains 00000
+wombs does not match place of 00000
+wombs: a
+maths !Contain 0dieu
+maths: 0
+maths: 0
+maths: 0
+maths: 0
+maths: 0
+maths Contains 00000
+maths does not match place of 00000
+maths: a
+comas !Contain 0dieu
+comas: 0
+comas: 0
+comas: 0
+comas: 0
+comas: 0
+comas Contains 00000
+comas does not match place of 00000
+comas: a
+shams !Contain 0dieu
+shams: 0
+shams: 0
+shams: 0
+shams: 0
+shams: 0
+shams Contains 00000
+shams does not match place of 00000
+shams: a
+stows !Contain 0dieu
+stows: 0
+stows: 0
+stows: 0
+stows: 0
+stows: 0
+stows Contains 00000
+stows does not match place of 00000
+stows: a
+honks !Contain 0dieu
+honks: 0
+honks: 0
+honks: 0
+honks: 0
+honks: 0
+honks Contains 00000
+honks does not match place of 00000
+honks: a
+prank !Contain 0dieu
+prank: 0
+prank: 0
+prank: 0
+prank: 0
+prank: 0
+prank Contains 00000
+prank does not match place of 00000
+prank: a
+poach !Contain 0dieu
+poach: 0
+poach: 0
+poach: 0
+poach: 0
+poach: 0
+poach Contains 00000
+poach does not match place of 00000
+poach: a
+pawns !Contain 0dieu
+pawns: 0
+pawns: 0
+pawns: 0
+pawns: 0
+pawns: 0
+pawns Contains 00000
+pawns does not match place of 00000
+pawns: a
+swaps !Contain 0dieu
+swaps: 0
+swaps: 0
+swaps: 0
+swaps: 0
+swaps: 0
+swaps Contains 00000
+swaps does not match place of 00000
+swaps: a
+palls !Contain 0dieu
+palls: 0
+palls: 0
+palls: 0
+palls: 0
+palls: 0
+palls Contains 00000
+palls does not match place of 00000
+palls: a
+snaky !Contain 0dieu
+snaky: 0
+snaky: 0
+snaky: 0
+snaky: 0
+snaky: 0
+snaky Contains 00000
+snaky does not match place of 00000
+snaky: a
+czars !Contain 0dieu
+czars: 0
+czars: 0
+czars: 0
+czars: 0
+czars: 0
+czars Contains 00000
+czars does not match place of 00000
+czars: a
+malts !Contain 0dieu
+malts: 0
+malts: 0
+malts: 0
+malts: 0
+malts: 0
+malts Contains 00000
+malts does not match place of 00000
+malts: a
+prows !Contain 0dieu
+prows: 0
+prows: 0
+prows: 0
+prows: 0
+prows: 0
+prows Contains 00000
+prows does not match place of 00000
+prows: a
+slags !Contain 0dieu
+slags: 0
+slags: 0
+slags: 0
+slags: 0
+slags: 0
+slags Contains 00000
+slags does not match place of 00000
+slags: a
+pasta !Contain 0dieu
+pasta: 0
+pasta: 0
+pasta: 0
+pasta: 0
+pasta: 0
+pasta Contains 00000
+pasta does not match place of 00000
+pasta: a
+laths !Contain 0dieu
+laths: 0
+laths: 0
+laths: 0
+laths: 0
+laths: 0
+laths Contains 00000
+laths does not match place of 00000
+laths: a
+cocos !Contain 0dieu
+cocos: 0
+cocos: 0
+cocos: 0
+cocos: 0
+cocos: 0
+cocos Contains 00000
+cocos does not match place of 00000
+cocos: a
+slops !Contain 0dieu
+slops: 0
+slops: 0
+slops: 0
+slops: 0
+slops: 0
+slops Contains 00000
+slops does not match place of 00000
+slops: a
+bongs !Contain 0dieu
+bongs: 0
+bongs: 0
+bongs: 0
+bongs: 0
+bongs: 0
+bongs Contains 00000
+bongs does not match place of 00000
+bongs: a
+woofs !Contain 0dieu
+woofs: 0
+woofs: 0
+woofs: 0
+woofs: 0
+woofs: 0
+woofs Contains 00000
+woofs does not match place of 00000
+woofs: a
+chats !Contain 0dieu
+chats: 0
+chats: 0
+chats: 0
+chats: 0
+chats: 0
+chats Contains 00000
+chats does not match place of 00000
+chats: a
+phlox !Contain 0dieu
+phlox: 0
+phlox: 0
+phlox: 0
+phlox: 0
+phlox: 0
+phlox Contains 00000
+phlox does not match place of 00000
+phlox: a
+brays !Contain 0dieu
+brays: 0
+brays: 0
+brays: 0
+brays: 0
+brays: 0
+brays Contains 00000
+brays does not match place of 00000
+brays: a
+mamas !Contain 0dieu
+mamas: 0
+mamas: 0
+mamas: 0
+mamas: 0
+mamas: 0
+mamas Contains 00000
+mamas does not match place of 00000
+mamas: a
+larch !Contain 0dieu
+larch: 0
+larch: 0
+larch: 0
+larch: 0
+larch: 0
+larch Contains 00000
+larch does not match place of 00000
+larch: a
+novas !Contain 0dieu
+novas: 0
+novas: 0
+novas: 0
+novas: 0
+novas: 0
+novas Contains 00000
+novas does not match place of 00000
+novas: a
+rasps !Contain 0dieu
+rasps: 0
+rasps: 0
+rasps: 0
+rasps: 0
+rasps: 0
+rasps Contains 00000
+rasps does not match place of 00000
+rasps: a
+moats !Contain 0dieu
+moats: 0
+moats: 0
+moats: 0
+moats: 0
+moats: 0
+moats Contains 00000
+moats does not match place of 00000
+moats: a
+wormy !Contain 0dieu
+wormy: 0
+wormy: 0
+wormy: 0
+wormy: 0
+wormy: 0
+wormy Contains 00000
+wormy does not match place of 00000
+wormy: a
+wanly !Contain 0dieu
+wanly: 0
+wanly: 0
+wanly: 0
+wanly: 0
+wanly: 0
+wanly Contains 00000
+wanly does not match place of 00000
+wanly: a
+talcs !Contain 0dieu
+talcs: 0
+talcs: 0
+talcs: 0
+talcs: 0
+talcs: 0
+talcs Contains 00000
+talcs does not match place of 00000
+talcs: a
+coops !Contain 0dieu
+coops: 0
+coops: 0
+coops: 0
+coops: 0
+coops: 0
+coops Contains 00000
+coops does not match place of 00000
+coops: a
+spats !Contain 0dieu
+spats: 0
+spats: 0
+spats: 0
+spats: 0
+spats: 0
+spats Contains 00000
+spats does not match place of 00000
+spats: a
+cysts !Contain 0dieu
+cysts: 0
+cysts: 0
+cysts: 0
+cysts: 0
+cysts: 0
+cysts Contains 00000
+cysts does not match place of 00000
+cysts: a
+roams !Contain 0dieu
+roams: 0
+roams: 0
+roams: 0
+roams: 0
+roams: 0
+roams Contains 00000
+roams does not match place of 00000
+roams: a
+abort !Contain 0dieu
+abort: 0
+abort: 0
+abort: 0
+abort: 0
+abort: 0
+abort Contains 00000
+abort does not match place of 00000
+abort: a
+abort: 0
+abort: 0
+abort: 0
+abort: 0
+abort Has Matched Char a0000
+abort added to result!
+swoon !Contain 0dieu
+swoon: 0
+swoon: 0
+swoon: 0
+swoon: 0
+swoon: 0
+swoon Contains 00000
+swoon does not match place of 00000
+swoon: a
+stank !Contain 0dieu
+stank: 0
+stank: 0
+stank: 0
+stank: 0
+stank: 0
+stank Contains 00000
+stank does not match place of 00000
+stank: a
+lynch !Contain 0dieu
+lynch: 0
+lynch: 0
+lynch: 0
+lynch: 0
+lynch: 0
+lynch Contains 00000
+lynch does not match place of 00000
+lynch: a
+horny !Contain 0dieu
+horny: 0
+horny: 0
+horny: 0
+horny: 0
+horny: 0
+horny Contains 00000
+horny does not match place of 00000
+horny: a
+jolts !Contain 0dieu
+jolts: 0
+jolts: 0
+jolts: 0
+jolts: 0
+jolts: 0
+jolts Contains 00000
+jolts does not match place of 00000
+jolts: a
+karat !Contain 0dieu
+karat: 0
+karat: 0
+karat: 0
+karat: 0
+karat: 0
+karat Contains 00000
+karat does not match place of 00000
+karat: a
+ramps !Contain 0dieu
+ramps: 0
+ramps: 0
+ramps: 0
+ramps: 0
+ramps: 0
+ramps Contains 00000
+ramps does not match place of 00000
+ramps: a
+frays !Contain 0dieu
+frays: 0
+frays: 0
+frays: 0
+frays: 0
+frays: 0
+frays Contains 00000
+frays does not match place of 00000
+frays: a
+tsars !Contain 0dieu
+tsars: 0
+tsars: 0
+tsars: 0
+tsars: 0
+tsars: 0
+tsars Contains 00000
+tsars does not match place of 00000
+tsars: a
+loons !Contain 0dieu
+loons: 0
+loons: 0
+loons: 0
+loons: 0
+loons: 0
+loons Contains 00000
+loons does not match place of 00000
+loons: a
+brats !Contain 0dieu
+brats: 0
+brats: 0
+brats: 0
+brats: 0
+brats: 0
+brats Contains 00000
+brats does not match place of 00000
+brats: a
+corns !Contain 0dieu
+corns: 0
+corns: 0
+corns: 0
+corns: 0
+corns: 0
+corns Contains 00000
+corns does not match place of 00000
+corns: a
+patty !Contain 0dieu
+patty: 0
+patty: 0
+patty: 0
+patty: 0
+patty: 0
+patty Contains 00000
+patty does not match place of 00000
+patty: a
+kayak !Contain 0dieu
+kayak: 0
+kayak: 0
+kayak: 0
+kayak: 0
+kayak: 0
+kayak Contains 00000
+kayak does not match place of 00000
+kayak: a
+moron !Contain 0dieu
+moron: 0
+moron: 0
+moron: 0
+moron: 0
+moron: 0
+moron Contains 00000
+moron does not match place of 00000
+moron: a
+brawn !Contain 0dieu
+brawn: 0
+brawn: 0
+brawn: 0
+brawn: 0
+brawn: 0
+brawn Contains 00000
+brawn does not match place of 00000
+brawn: a
+gnash !Contain 0dieu
+gnash: 0
+gnash: 0
+gnash: 0
+gnash: 0
+gnash: 0
+gnash Contains 00000
+gnash does not match place of 00000
+gnash: a
+boars !Contain 0dieu
+boars: 0
+boars: 0
+boars: 0
+boars: 0
+boars: 0
+boars Contains 00000
+boars does not match place of 00000
+boars: a
+assay !Contain 0dieu
+assay: 0
+assay: 0
+assay: 0
+assay: 0
+assay: 0
+assay Contains 00000
+assay does not match place of 00000
+assay: a
+assay: 0
+assay: 0
+assay: 0
+assay: 0
+assay Has Matched Char a0000
+assay added to result!
+slays !Contain 0dieu
+slays: 0
+slays: 0
+slays: 0
+slays: 0
+slays: 0
+slays Contains 00000
+slays does not match place of 00000
+slays: a
+forgo !Contain 0dieu
+forgo: 0
+forgo: 0
+forgo: 0
+forgo: 0
+forgo: 0
+forgo Contains 00000
+forgo does not match place of 00000
+forgo: a
+sways !Contain 0dieu
+sways: 0
+sways: 0
+sways: 0
+sways: 0
+sways: 0
+sways Contains 00000
+sways does not match place of 00000
+sways: a
+scabs !Contain 0dieu
+scabs: 0
+scabs: 0
+scabs: 0
+scabs: 0
+scabs: 0
+scabs Contains 00000
+scabs does not match place of 00000
+scabs: a
+pacts !Contain 0dieu
+pacts: 0
+pacts: 0
+pacts: 0
+pacts: 0
+pacts: 0
+pacts Contains 00000
+pacts does not match place of 00000
+pacts: a
+stags !Contain 0dieu
+stags: 0
+stags: 0
+stags: 0
+stags: 0
+stags: 0
+stags Contains 00000
+stags does not match place of 00000
+stags: a
+scram !Contain 0dieu
+scram: 0
+scram: 0
+scram: 0
+scram: 0
+scram: 0
+scram Contains 00000
+scram does not match place of 00000
+scram: a
+corks !Contain 0dieu
+corks: 0
+corks: 0
+corks: 0
+corks: 0
+corks: 0
+corks Contains 00000
+corks does not match place of 00000
+corks: a
+prong !Contain 0dieu
+prong: 0
+prong: 0
+prong: 0
+prong: 0
+prong: 0
+prong Contains 00000
+prong does not match place of 00000
+prong: a
+nooks !Contain 0dieu
+nooks: 0
+nooks: 0
+nooks: 0
+nooks: 0
+nooks: 0
+nooks Contains 00000
+nooks does not match place of 00000
+nooks: a
+snobs !Contain 0dieu
+snobs: 0
+snobs: 0
+snobs: 0
+snobs: 0
+snobs: 0
+snobs Contains 00000
+snobs does not match place of 00000
+snobs: a
+hacks !Contain 0dieu
+hacks: 0
+hacks: 0
+hacks: 0
+hacks: 0
+hacks: 0
+hacks Contains 00000
+hacks does not match place of 00000
+hacks: a
+crock !Contain 0dieu
+crock: 0
+crock: 0
+crock: 0
+crock: 0
+crock: 0
+crock Contains 00000
+crock does not match place of 00000
+crock: a
+scoot !Contain 0dieu
+scoot: 0
+scoot: 0
+scoot: 0
+scoot: 0
+scoot: 0
+scoot Contains 00000
+scoot does not match place of 00000
+scoot: a
+lavas !Contain 0dieu
+lavas: 0
+lavas: 0
+lavas: 0
+lavas: 0
+lavas: 0
+lavas Contains 00000
+lavas does not match place of 00000
+lavas: a
+scows !Contain 0dieu
+scows: 0
+scows: 0
+scows: 0
+scows: 0
+scows: 0
+scows Contains 00000
+scows does not match place of 00000
+scows: a
+tacos !Contain 0dieu
+tacos: 0
+tacos: 0
+tacos: 0
+tacos: 0
+tacos: 0
+tacos Contains 00000
+tacos does not match place of 00000
+tacos: a
+conch !Contain 0dieu
+conch: 0
+conch: 0
+conch: 0
+conch: 0
+conch: 0
+conch Contains 00000
+conch does not match place of 00000
+conch: a
+croon !Contain 0dieu
+croon: 0
+croon: 0
+croon: 0
+croon: 0
+croon: 0
+croon Contains 00000
+croon does not match place of 00000
+croon: a
+palsy !Contain 0dieu
+palsy: 0
+palsy: 0
+palsy: 0
+palsy: 0
+palsy: 0
+palsy Contains 00000
+palsy does not match place of 00000
+palsy: a
+morns !Contain 0dieu
+morns: 0
+morns: 0
+morns: 0
+morns: 0
+morns: 0
+morns Contains 00000
+morns does not match place of 00000
+morns: a
+amass !Contain 0dieu
+amass: 0
+amass: 0
+amass: 0
+amass: 0
+amass: 0
+amass Contains 00000
+amass does not match place of 00000
+amass: a
+amass: 0
+amass: 0
+amass: 0
+amass: 0
+amass Has Matched Char a0000
+amass added to result!
+fasts !Contain 0dieu
+fasts: 0
+fasts: 0
+fasts: 0
+fasts: 0
+fasts: 0
+fasts Contains 00000
+fasts does not match place of 00000
+fasts: a
+hoots !Contain 0dieu
+hoots: 0
+hoots: 0
+hoots: 0
+hoots: 0
+hoots: 0
+hoots Contains 00000
+hoots does not match place of 00000
+hoots: a
+canny !Contain 0dieu
+canny: 0
+canny: 0
+canny: 0
+canny: 0
+canny: 0
+canny Contains 00000
+canny does not match place of 00000
+canny: a
+gnaws !Contain 0dieu
+gnaws: 0
+gnaws: 0
+gnaws: 0
+gnaws: 0
+gnaws: 0
+gnaws Contains 00000
+gnaws does not match place of 00000
+gnaws: a
+clans !Contain 0dieu
+clans: 0
+clans: 0
+clans: 0
+clans: 0
+clans: 0
+clans Contains 00000
+clans does not match place of 00000
+clans: a
+topaz !Contain 0dieu
+topaz: 0
+topaz: 0
+topaz: 0
+topaz: 0
+topaz: 0
+topaz Contains 00000
+topaz does not match place of 00000
+topaz: a
+blots !Contain 0dieu
+blots: 0
+blots: 0
+blots: 0
+blots: 0
+blots: 0
+blots Contains 00000
+blots does not match place of 00000
+blots: a
+blobs !Contain 0dieu
+blobs: 0
+blobs: 0
+blobs: 0
+blobs: 0
+blobs: 0
+blobs Contains 00000
+blobs does not match place of 00000
+blobs: a
+flops !Contain 0dieu
+flops: 0
+flops: 0
+flops: 0
+flops: 0
+flops: 0
+flops Contains 00000
+flops does not match place of 00000
+flops: a
+molar !Contain 0dieu
+molar: 0
+molar: 0
+molar: 0
+molar: 0
+molar: 0
+molar Contains 00000
+molar does not match place of 00000
+molar: a
+harps !Contain 0dieu
+harps: 0
+harps: 0
+harps: 0
+harps: 0
+harps: 0
+harps Contains 00000
+harps does not match place of 00000
+harps: a
+sagas !Contain 0dieu
+sagas: 0
+sagas: 0
+sagas: 0
+sagas: 0
+sagas: 0
+sagas Contains 00000
+sagas does not match place of 00000
+sagas: a
+halos !Contain 0dieu
+halos: 0
+halos: 0
+halos: 0
+halos: 0
+halos: 0
+halos Contains 00000
+halos does not match place of 00000
+halos: a
+abbot !Contain 0dieu
+abbot: 0
+abbot: 0
+abbot: 0
+abbot: 0
+abbot: 0
+abbot Contains 00000
+abbot does not match place of 00000
+abbot: a
+abbot: 0
+abbot: 0
+abbot: 0
+abbot: 0
+abbot Has Matched Char a0000
+abbot added to result!
+zooms !Contain 0dieu
+zooms: 0
+zooms: 0
+zooms: 0
+zooms: 0
+zooms: 0
+zooms Contains 00000
+zooms does not match place of 00000
+zooms: a
+sofas !Contain 0dieu
+sofas: 0
+sofas: 0
+sofas: 0
+sofas: 0
+sofas: 0
+sofas Contains 00000
+sofas does not match place of 00000
+sofas: a
+arson !Contain 0dieu
+arson: 0
+arson: 0
+arson: 0
+arson: 0
+arson: 0
+arson Contains 00000
+arson does not match place of 00000
+arson: a
+arson: 0
+arson: 0
+arson: 0
+arson: 0
+arson Has Matched Char a0000
+arson added to result!
+proxy !Contain 0dieu
+proxy: 0
+proxy: 0
+proxy: 0
+proxy: 0
+proxy: 0
+proxy Contains 00000
+proxy does not match place of 00000
+proxy: a
+koala !Contain 0dieu
+koala: 0
+koala: 0
+koala: 0
+koala: 0
+koala: 0
+koala Contains 00000
+koala does not match place of 00000
+koala: a
+savor !Contain 0dieu
+savor: 0
+savor: 0
+savor: 0
+savor: 0
+savor: 0
+savor Contains 00000
+savor does not match place of 00000
+savor: a
+taffy !Contain 0dieu
+taffy: 0
+taffy: 0
+taffy: 0
+taffy: 0
+taffy: 0
+taffy Contains 00000
+taffy does not match place of 00000
+taffy: a
+longs !Contain 0dieu
+longs: 0
+longs: 0
+longs: 0
+longs: 0
+longs: 0
+longs Contains 00000
+longs does not match place of 00000
+longs: a
+chasm !Contain 0dieu
+chasm: 0
+chasm: 0
+chasm: 0
+chasm: 0
+chasm: 0
+chasm Contains 00000
+chasm does not match place of 00000
+chasm: a
+altos !Contain 0dieu
+altos: 0
+altos: 0
+altos: 0
+altos: 0
+altos: 0
+altos Contains 00000
+altos does not match place of 00000
+altos: a
+altos: 0
+altos: 0
+altos: 0
+altos: 0
+altos Has Matched Char a0000
+altos added to result!
+allay !Contain 0dieu
+allay: 0
+allay: 0
+allay: 0
+allay: 0
+allay: 0
+allay Contains 00000
+allay does not match place of 00000
+allay: a
+allay: 0
+allay: 0
+allay: 0
+allay: 0
+allay Has Matched Char a0000
+allay added to result!
+yanks !Contain 0dieu
+yanks: 0
+yanks: 0
+yanks: 0
+yanks: 0
+yanks: 0
+yanks Contains 00000
+yanks does not match place of 00000
+yanks: a
+brags !Contain 0dieu
+brags: 0
+brags: 0
+brags: 0
+brags: 0
+brags: 0
+brags Contains 00000
+brags does not match place of 00000
+brags: a
+brawl !Contain 0dieu
+brawl: 0
+brawl: 0
+brawl: 0
+brawl: 0
+brawl: 0
+brawl Contains 00000
+brawl does not match place of 00000
+brawl: a
+slosh !Contain 0dieu
+slosh: 0
+slosh: 0
+slosh: 0
+slosh: 0
+slosh: 0
+slosh Contains 00000
+slosh does not match place of 00000
+slosh: a
+balmy !Contain 0dieu
+balmy: 0
+balmy: 0
+balmy: 0
+balmy: 0
+balmy: 0
+balmy Contains 00000
+balmy does not match place of 00000
+balmy: a
+coyly !Contain 0dieu
+coyly: 0
+coyly: 0
+coyly: 0
+coyly: 0
+coyly: 0
+coyly Contains 00000
+coyly does not match place of 00000
+coyly: a
+cocky !Contain 0dieu
+cocky: 0
+cocky: 0
+cocky: 0
+cocky: 0
+cocky: 0
+cocky Contains 00000
+cocky does not match place of 00000
+cocky: a
+opals !Contain 0dieu
+opals: 0
+opals: 0
+opals: 0
+opals: 0
+opals: 0
+opals Contains 00000
+opals does not match place of 00000
+opals: a
+spook !Contain 0dieu
+spook: 0
+spook: 0
+spook: 0
+spook: 0
+spook: 0
+spook Contains 00000
+spook does not match place of 00000
+spook: a
+spank !Contain 0dieu
+spank: 0
+spank: 0
+spank: 0
+spank: 0
+spank: 0
+spank Contains 00000
+spank does not match place of 00000
+spank: a
+hooky !Contain 0dieu
+hooky: 0
+hooky: 0
+hooky: 0
+hooky: 0
+hooky: 0
+hooky Contains 00000
+hooky does not match place of 00000
+hooky: a
+grays !Contain 0dieu
+grays: 0
+grays: 0
+grays: 0
+grays: 0
+grays: 0
+grays Contains 00000
+grays does not match place of 00000
+grays: a
+clots !Contain 0dieu
+clots: 0
+clots: 0
+clots: 0
+clots: 0
+clots: 0
+clots Contains 00000
+clots does not match place of 00000
+clots: a
+parka !Contain 0dieu
+parka: 0
+parka: 0
+parka: 0
+parka: 0
+parka: 0
+parka Contains 00000
+parka does not match place of 00000
+parka: a
+toots !Contain 0dieu
+toots: 0
+toots: 0
+toots: 0
+toots: 0
+toots: 0
+toots Contains 00000
+toots does not match place of 00000
+toots: a
+shalt !Contain 0dieu
+shalt: 0
+shalt: 0
+shalt: 0
+shalt: 0
+shalt: 0
+shalt Contains 00000
+shalt does not match place of 00000
+shalt: a
+gloat !Contain 0dieu
+gloat: 0
+gloat: 0
+gloat: 0
+gloat: 0
+gloat: 0
+gloat Contains 00000
+gloat does not match place of 00000
+gloat: a
+jacks !Contain 0dieu
+jacks: 0
+jacks: 0
+jacks: 0
+jacks: 0
+jacks: 0
+jacks Contains 00000
+jacks does not match place of 00000
+jacks: a
+gawky !Contain 0dieu
+gawky: 0
+gawky: 0
+gawky: 0
+gawky: 0
+gawky: 0
+gawky Contains 00000
+gawky does not match place of 00000
+gawky: a
+tommy !Contain 0dieu
+tommy: 0
+tommy: 0
+tommy: 0
+tommy: 0
+tommy: 0
+tommy Contains 00000
+tommy does not match place of 00000
+tommy: a
+aback !Contain 0dieu
+aback: 0
+aback: 0
+aback: 0
+aback: 0
+aback: 0
+aback Contains 00000
+aback does not match place of 00000
+aback: a
+aback: 0
+aback: 0
+aback: 0
+aback: 0
+aback Has Matched Char a0000
+aback added to result!
+jambs !Contain 0dieu
+jambs: 0
+jambs: 0
+jambs: 0
+jambs: 0
+jambs: 0
+jambs Contains 00000
+jambs does not match place of 00000
+jambs: a
+foals !Contain 0dieu
+foals: 0
+foals: 0
+foals: 0
+foals: 0
+foals: 0
+foals Contains 00000
+foals does not match place of 00000
+foals: a
+stabs !Contain 0dieu
+stabs: 0
+stabs: 0
+stabs: 0
+stabs: 0
+stabs: 0
+stabs Contains 00000
+stabs does not match place of 00000
+stabs: a
+abhor !Contain 0dieu
+abhor: 0
+abhor: 0
+abhor: 0
+abhor: 0
+abhor: 0
+abhor Contains 00000
+abhor does not match place of 00000
+abhor: a
+abhor: 0
+abhor: 0
+abhor: 0
+abhor: 0
+abhor Has Matched Char a0000
+abhor added to result!
+allot !Contain 0dieu
+allot: 0
+allot: 0
+allot: 0
+allot: 0
+allot: 0
+allot Contains 00000
+allot does not match place of 00000
+allot: a
+allot: 0
+allot: 0
+allot: 0
+allot: 0
+allot Has Matched Char a0000
+allot added to result!
+moans !Contain 0dieu
+moans: 0
+moans: 0
+moans: 0
+moans: 0
+moans: 0
+moans Contains 00000
+moans does not match place of 00000
+moans: a
+mamma !Contain 0dieu
+mamma: 0
+mamma: 0
+mamma: 0
+mamma: 0
+mamma: 0
+mamma Contains 00000
+mamma does not match place of 00000
+mamma: a
+casks !Contain 0dieu
+casks: 0
+casks: 0
+casks: 0
+casks: 0
+casks: 0
+casks Contains 00000
+casks does not match place of 00000
+casks: a
+froth !Contain 0dieu
+froth: 0
+froth: 0
+froth: 0
+froth: 0
+froth: 0
+froth Contains 00000
+froth does not match place of 00000
+froth: a
+foray !Contain 0dieu
+foray: 0
+foray: 0
+foray: 0
+foray: 0
+foray: 0
+foray Contains 00000
+foray does not match place of 00000
+foray: a
+frock !Contain 0dieu
+frock: 0
+frock: 0
+frock: 0
+frock: 0
+frock: 0
+frock Contains 00000
+frock does not match place of 00000
+frock: a
+carat !Contain 0dieu
+carat: 0
+carat: 0
+carat: 0
+carat: 0
+carat: 0
+carat Contains 00000
+carat does not match place of 00000
+carat: a
+pygmy !Contain 0dieu
+pygmy: 0
+pygmy: 0
+pygmy: 0
+pygmy: 0
+pygmy: 0
+pygmy Contains 00000
+pygmy does not match place of 00000
+pygmy: a
+gayly !Contain 0dieu
+gayly: 0
+gayly: 0
+gayly: 0
+gayly: 0
+gayly: 0
+gayly Contains 00000
+gayly does not match place of 00000
+gayly: a
+ovals !Contain 0dieu
+ovals: 0
+ovals: 0
+ovals: 0
+ovals: 0
+ovals: 0
+ovals Contains 00000
+ovals does not match place of 00000
+ovals: a
+taboo !Contain 0dieu
+taboo: 0
+taboo: 0
+taboo: 0
+taboo: 0
+taboo: 0
+taboo Contains 00000
+taboo does not match place of 00000
+taboo: a
+soars !Contain 0dieu
+soars: 0
+soars: 0
+soars: 0
+soars: 0
+soars: 0
+soars Contains 00000
+soars does not match place of 00000
+soars: a
+franc !Contain 0dieu
+franc: 0
+franc: 0
+franc: 0
+franc: 0
+franc: 0
+franc Contains 00000
+franc does not match place of 00000
+franc: a
+torso !Contain 0dieu
+torso: 0
+torso: 0
+torso: 0
+torso: 0
+torso: 0
+torso Contains 00000
+torso does not match place of 00000
+torso: a
+corny !Contain 0dieu
+corny: 0
+corny: 0
+corny: 0
+corny: 0
+corny: 0
+corny Contains 00000
+corny does not match place of 00000
+corny: a
+hoary !Contain 0dieu
+hoary: 0
+hoary: 0
+hoary: 0
+hoary: 0
+hoary: 0
+hoary Contains 00000
+hoary does not match place of 00000
+hoary: a
+shorn !Contain 0dieu
+shorn: 0
+shorn: 0
+shorn: 0
+shorn: 0
+shorn: 0
+shorn Contains 00000
+shorn does not match place of 00000
+shorn: a
+scans !Contain 0dieu
+scans: 0
+scans: 0
+scans: 0
+scans: 0
+scans: 0
+scans Contains 00000
+scans does not match place of 00000
+scans: a
+mocks !Contain 0dieu
+mocks: 0
+mocks: 0
+mocks: 0
+mocks: 0
+mocks: 0
+mocks Contains 00000
+mocks does not match place of 00000
+mocks: a
+atoll !Contain 0dieu
+atoll: 0
+atoll: 0
+atoll: 0
+atoll: 0
+atoll: 0
+atoll Contains 00000
+atoll does not match place of 00000
+atoll: a
+atoll: 0
+atoll: 0
+atoll: 0
+atoll: 0
+atoll Has Matched Char a0000
+atoll added to result!
+shoal !Contain 0dieu
+shoal: 0
+shoal: 0
+shoal: 0
+shoal: 0
+shoal: 0
+shoal Contains 00000
+shoal does not match place of 00000
+shoal: a
+smock !Contain 0dieu
+smock: 0
+smock: 0
+smock: 0
+smock: 0
+smock: 0
+smock Contains 00000
+smock does not match place of 00000
+smock: a
+copra !Contain 0dieu
+copra: 0
+copra: 0
+copra: 0
+copra: 0
+copra: 0
+copra Contains 00000
+copra does not match place of 00000
+copra: a
+chaff !Contain 0dieu
+chaff: 0
+chaff: 0
+chaff: 0
+chaff: 0
+chaff: 0
+chaff Contains 00000
+chaff does not match place of 00000
+chaff: a
+graft !Contain 0dieu
+graft: 0
+graft: 0
+graft: 0
+graft: 0
+graft: 0
+graft Contains 00000
+graft does not match place of 00000
+graft: a
+balsa !Contain 0dieu
+balsa: 0
+balsa: 0
+balsa: 0
+balsa: 0
+balsa: 0
+balsa Contains 00000
+balsa does not match place of 00000
+balsa: a
+bloat !Contain 0dieu
+bloat: 0
+bloat: 0
+bloat: 0
+bloat: 0
+bloat: 0
+bloat Contains 00000
+bloat does not match place of 00000
+bloat: a
+clank !Contain 0dieu
+clank: 0
+clank: 0
+clank: 0
+clank: 0
+clank: 0
+clank Contains 00000
+clank does not match place of 00000
+clank: a
+trots !Contain 0dieu
+trots: 0
+trots: 0
+trots: 0
+trots: 0
+trots: 0
+trots Contains 00000
+trots does not match place of 00000
+trots: a
+slams !Contain 0dieu
+slams: 0
+slams: 0
+slams: 0
+slams: 0
+slams: 0
+slams Contains 00000
+slams does not match place of 00000
+slams: a
+wryly !Contain 0dieu
+wryly: 0
+wryly: 0
+wryly: 0
+wryly: 0
+wryly: 0
+wryly Contains 00000
+wryly does not match place of 00000
+wryly: a
+tangy !Contain 0dieu
+tangy: 0
+tangy: 0
+tangy: 0
+tangy: 0
+tangy: 0
+tangy Contains 00000
+tangy does not match place of 00000
+tangy: a
+larks !Contain 0dieu
+larks: 0
+larks: 0
+larks: 0
+larks: 0
+larks: 0
+larks Contains 00000
+larks does not match place of 00000
+larks: a
+aorta !Contain 0dieu
+aorta: 0
+aorta: 0
+aorta: 0
+aorta: 0
+aorta: 0
+aorta Contains 00000
+aorta does not match place of 00000
+aorta: a
+aorta: 0
+aorta: 0
+aorta: 0
+aorta: 0
+aorta Has Matched Char a0000
+aorta added to result!
+moors !Contain 0dieu
+moors: 0
+moors: 0
+moors: 0
+moors: 0
+moors: 0
+moors Contains 00000
+moors does not match place of 00000
+moors: a
+throb !Contain 0dieu
+throb: 0
+throb: 0
+throb: 0
+throb: 0
+throb: 0
+throb Contains 00000
+throb does not match place of 00000
+throb: a
+fawns !Contain 0dieu
+fawns: 0
+fawns: 0
+fawns: 0
+fawns: 0
+fawns: 0
+fawns Contains 00000
+fawns does not match place of 00000
+fawns: a
+bravo !Contain 0dieu
+bravo: 0
+bravo: 0
+bravo: 0
+bravo: 0
+bravo: 0
+bravo Contains 00000
+bravo does not match place of 00000
+bravo: a
+scamp !Contain 0dieu
+scamp: 0
+scamp: 0
+scamp: 0
+scamp: 0
+scamp: 0
+scamp Contains 00000
+scamp does not match place of 00000
+scamp: a
+watts !Contain 0dieu
+watts: 0
+watts: 0
+watts: 0
+watts: 0
+watts: 0
+watts Contains 00000
+watts does not match place of 00000
+watts: a
+thaws !Contain 0dieu
+thaws: 0
+thaws: 0
+thaws: 0
+thaws: 0
+thaws: 0
+thaws Contains 00000
+thaws does not match place of 00000
+thaws: a
+roomy !Contain 0dieu
+roomy: 0
+roomy: 0
+roomy: 0
+roomy: 0
+roomy: 0
+roomy Contains 00000
+roomy does not match place of 00000
+roomy: a
+flora !Contain 0dieu
+flora: 0
+flora: 0
+flora: 0
+flora: 0
+flora: 0
+flora Contains 00000
+flora does not match place of 00000
+flora: a
+mango !Contain 0dieu
+mango: 0
+mango: 0
+mango: 0
+mango: 0
+mango: 0
+mango Contains 00000
+mango does not match place of 00000
+mango: a
+warts !Contain 0dieu
+warts: 0
+warts: 0
+warts: 0
+warts: 0
+warts: 0
+warts Contains 00000
+warts does not match place of 00000
+warts: a
+clays !Contain 0dieu
+clays: 0
+clays: 0
+clays: 0
+clays: 0
+clays: 0
+clays Contains 00000
+clays does not match place of 00000
+clays: a
+mason !Contain 0dieu
+mason: 0
+mason: 0
+mason: 0
+mason: 0
+mason: 0
+mason Contains 00000
+mason does not match place of 00000
+mason: a
+scowl !Contain 0dieu
+scowl: 0
+scowl: 0
+scowl: 0
+scowl: 0
+scowl: 0
+scowl Contains 00000
+scowl does not match place of 00000
+scowl: a
+calms !Contain 0dieu
+calms: 0
+calms: 0
+calms: 0
+calms: 0
+calms: 0
+calms Contains 00000
+calms does not match place of 00000
+calms: a
+arbor !Contain 0dieu
+arbor: 0
+arbor: 0
+arbor: 0
+arbor: 0
+arbor: 0
+arbor Contains 00000
+arbor does not match place of 00000
+arbor: a
+arbor: 0
+arbor: 0
+arbor: 0
+arbor: 0
+arbor Has Matched Char a0000
+arbor added to result!
+slats !Contain 0dieu
+slats: 0
+slats: 0
+slats: 0
+slats: 0
+slats: 0
+slats Contains 00000
+slats does not match place of 00000
+slats: a
+clogs !Contain 0dieu
+clogs: 0
+clogs: 0
+clogs: 0
+clogs: 0
+clogs: 0
+clogs Contains 00000
+clogs does not match place of 00000
+clogs: a
+thong !Contain 0dieu
+thong: 0
+thong: 0
+thong: 0
+thong: 0
+thong: 0
+thong Contains 00000
+thong does not match place of 00000
+thong: a
+loath !Contain 0dieu
+loath: 0
+loath: 0
+loath: 0
+loath: 0
+loath: 0
+loath Contains 00000
+loath does not match place of 00000
+loath: a
+harry !Contain 0dieu
+harry: 0
+harry: 0
+harry: 0
+harry: 0
+harry: 0
+harry Contains 00000
+harry does not match place of 00000
+harry: a
+stomp !Contain 0dieu
+stomp: 0
+stomp: 0
+stomp: 0
+stomp: 0
+stomp: 0
+stomp Contains 00000
+stomp does not match place of 00000
+stomp: a
+prays !Contain 0dieu
+prays: 0
+prays: 0
+prays: 0
+prays: 0
+prays: 0
+prays Contains 00000
+prays does not match place of 00000
+prays: a
+sassy !Contain 0dieu
+sassy: 0
+sassy: 0
+sassy: 0
+sassy: 0
+sassy: 0
+sassy Contains 00000
+sassy does not match place of 00000
+sassy: a
+stork !Contain 0dieu
+stork: 0
+stork: 0
+stork: 0
+stork: 0
+stork: 0
+stork Contains 00000
+stork does not match place of 00000
+stork: a
+goofy !Contain 0dieu
+goofy: 0
+goofy: 0
+goofy: 0
+goofy: 0
+goofy: 0
+goofy Contains 00000
+goofy does not match place of 00000
+goofy: a
+lymph !Contain 0dieu
+lymph: 0
+lymph: 0
+lymph: 0
+lymph: 0
+lymph: 0
+lymph Contains 00000
+lymph does not match place of 00000
+lymph: a
+spasm !Contain 0dieu
+spasm: 0
+spasm: 0
+spasm: 0
+spasm: 0
+spasm: 0
+spasm Contains 00000
+spasm does not match place of 00000
+spasm: a
+spawn !Contain 0dieu
+spawn: 0
+spawn: 0
+spawn: 0
+spawn: 0
+spawn: 0
+spawn Contains 00000
+spawn does not match place of 00000
+spawn: a
+twang !Contain 0dieu
+twang: 0
+twang: 0
+twang: 0
+twang: 0
+twang: 0
+twang Contains 00000
+twang does not match place of 00000
+twang: a
+crags !Contain 0dieu
+crags: 0
+crags: 0
+crags: 0
+crags: 0
+crags: 0
+crags Contains 00000
+crags does not match place of 00000
+crags: a
+monks !Contain 0dieu
+monks: 0
+monks: 0
+monks: 0
+monks: 0
+monks: 0
+monks Contains 00000
+monks does not match place of 00000
+monks: a
+bossy !Contain 0dieu
+bossy: 0
+bossy: 0
+bossy: 0
+bossy: 0
+bossy: 0
+bossy Contains 00000
+bossy does not match place of 00000
+bossy: a
+soapy !Contain 0dieu
+soapy: 0
+soapy: 0
+soapy: 0
+soapy: 0
+soapy: 0
+soapy Contains 00000
+soapy does not match place of 00000
+soapy: a
+aptly !Contain 0dieu
+aptly: 0
+aptly: 0
+aptly: 0
+aptly: 0
+aptly: 0
+aptly Contains 00000
+aptly does not match place of 00000
+aptly: a
+aptly: 0
+aptly: 0
+aptly: 0
+aptly: 0
+aptly Has Matched Char a0000
+aptly added to result!
+snags !Contain 0dieu
+snags: 0
+snags: 0
+snags: 0
+snags: 0
+snags: 0
+snags Contains 00000
+snags does not match place of 00000
+snags: a
+flaws !Contain 0dieu
+flaws: 0
+flaws: 0
+flaws: 0
+flaws: 0
+flaws: 0
+flaws Contains 00000
+flaws does not match place of 00000
+flaws: a
+phony !Contain 0dieu
+phony: 0
+phony: 0
+phony: 0
+phony: 0
+phony: 0
+phony Contains 00000
+phony does not match place of 00000
+phony: a
+tolls !Contain 0dieu
+tolls: 0
+tolls: 0
+tolls: 0
+tolls: 0
+tolls: 0
+tolls Contains 00000
+tolls does not match place of 00000
+tolls: a
+troll !Contain 0dieu
+troll: 0
+troll: 0
+troll: 0
+troll: 0
+troll: 0
+troll Contains 00000
+troll does not match place of 00000
+troll: a
+polyp !Contain 0dieu
+polyp: 0
+polyp: 0
+polyp: 0
+polyp: 0
+polyp: 0
+polyp Contains 00000
+polyp does not match place of 00000
+polyp: a
+booby !Contain 0dieu
+booby: 0
+booby: 0
+booby: 0
+booby: 0
+booby: 0
+booby Contains 00000
+booby does not match place of 00000
+booby: a
+scaly !Contain 0dieu
+scaly: 0
+scaly: 0
+scaly: 0
+scaly: 0
+scaly: 0
+scaly Contains 00000
+scaly does not match place of 00000
+scaly: a
+spars !Contain 0dieu
+spars: 0
+spars: 0
+spars: 0
+spars: 0
+spars: 0
+spars Contains 00000
+spars does not match place of 00000
+spars: a
+molts !Contain 0dieu
+molts: 0
+molts: 0
+molts: 0
+molts: 0
+molts: 0
+molts Contains 00000
+molts does not match place of 00000
+molts: a
+scoff !Contain 0dieu
+scoff: 0
+scoff: 0
+scoff: 0
+scoff: 0
+scoff: 0
+scoff Contains 00000
+scoff does not match place of 00000
+scoff: a
+booms !Contain 0dieu
+booms: 0
+booms: 0
+booms: 0
+booms: 0
+booms: 0
+booms Contains 00000
+booms does not match place of 00000
+booms: a
+props !Contain 0dieu
+props: 0
+props: 0
+props: 0
+props: 0
+props: 0
+props Contains 00000
+props does not match place of 00000
+props: a
+flaky !Contain 0dieu
+flaky: 0
+flaky: 0
+flaky: 0
+flaky: 0
+flaky: 0
+flaky Contains 00000
+flaky does not match place of 00000
+flaky: a
+hogan !Contain 0dieu
+hogan: 0
+hogan: 0
+hogan: 0
+hogan: 0
+hogan: 0
+hogan Contains 00000
+hogan does not match place of 00000
+hogan: a
+havoc !Contain 0dieu
+havoc: 0
+havoc: 0
+havoc: 0
+havoc: 0
+havoc: 0
+havoc Contains 00000
+havoc does not match place of 00000
+havoc: a
+halts !Contain 0dieu
+halts: 0
+halts: 0
+halts: 0
+halts: 0
+halts: 0
+halts Contains 00000
+halts does not match place of 00000
+halts: a
+croak !Contain 0dieu
+croak: 0
+croak: 0
+croak: 0
+croak: 0
+croak: 0
+croak Contains 00000
+croak does not match place of 00000
+croak: a
+slyly !Contain 0dieu
+slyly: 0
+slyly: 0
+slyly: 0
+slyly: 0
+slyly: 0
+slyly Contains 00000
+slyly does not match place of 00000
+slyly: a
+clang !Contain 0dieu
+clang: 0
+clang: 0
+clang: 0
+clang: 0
+clang: 0
+clang Contains 00000
+clang does not match place of 00000
+clang: a
+tawny !Contain 0dieu
+tawny: 0
+tawny: 0
+tawny: 0
+tawny: 0
+tawny: 0
+tawny Contains 00000
+tawny does not match place of 00000
+tawny: a
+tarts !Contain 0dieu
+tarts: 0
+tarts: 0
+tarts: 0
+tarts: 0
+tarts: 0
+tarts Contains 00000
+tarts does not match place of 00000
+tarts: a
+acorn !Contain 0dieu
+acorn: 0
+acorn: 0
+acorn: 0
+acorn: 0
+acorn: 0
+acorn Contains 00000
+acorn does not match place of 00000
+acorn: a
+acorn: 0
+acorn: 0
+acorn: 0
+acorn: 0
+acorn Has Matched Char a0000
+acorn added to result!
+claps !Contain 0dieu
+claps: 0
+claps: 0
+claps: 0
+claps: 0
+claps: 0
+claps Contains 00000
+claps does not match place of 00000
+claps: a
+trawl !Contain 0dieu
+trawl: 0
+trawl: 0
+trawl: 0
+trawl: 0
+trawl: 0
+trawl Contains 00000
+trawl does not match place of 00000
+trawl: a
+gangs !Contain 0dieu
+gangs: 0
+gangs: 0
+gangs: 0
+gangs: 0
+gangs: 0
+gangs Contains 00000
+gangs does not match place of 00000
+gangs: a
+abyss !Contain 0dieu
+abyss: 0
+abyss: 0
+abyss: 0
+abyss: 0
+abyss: 0
+abyss Contains 00000
+abyss does not match place of 00000
+abyss: a
+abyss: 0
+abyss: 0
+abyss: 0
+abyss: 0
+abyss Has Matched Char a0000
+abyss added to result!
+fowls !Contain 0dieu
+fowls: 0
+fowls: 0
+fowls: 0
+fowls: 0
+fowls: 0
+fowls Contains 00000
+fowls does not match place of 00000
+fowls: a
+spans !Contain 0dieu
+spans: 0
+spans: 0
+spans: 0
+spans: 0
+spans: 0
+spans Contains 00000
+spans does not match place of 00000
+spans: a
+gloss !Contain 0dieu
+gloss: 0
+gloss: 0
+gloss: 0
+gloss: 0
+gloss: 0
+gloss Contains 00000
+gloss does not match place of 00000
+gloss: a
+gnats !Contain 0dieu
+gnats: 0
+gnats: 0
+gnats: 0
+gnats: 0
+gnats: 0
+gnats Contains 00000
+gnats does not match place of 00000
+gnats: a
+galls !Contain 0dieu
+galls: 0
+galls: 0
+galls: 0
+galls: 0
+galls: 0
+galls Contains 00000
+galls does not match place of 00000
+galls: a
+racks !Contain 0dieu
+racks: 0
+racks: 0
+racks: 0
+racks: 0
+racks: 0
+racks Contains 00000
+racks does not match place of 00000
+racks: a
+myrrh !Contain 0dieu
+myrrh: 0
+myrrh: 0
+myrrh: 0
+myrrh: 0
+myrrh: 0
+myrrh Contains 00000
+myrrh does not match place of 00000
+myrrh: a
+solos !Contain 0dieu
+solos: 0
+solos: 0
+solos: 0
+solos: 0
+solos: 0
+solos Contains 00000
+solos does not match place of 00000
+solos: a
+foams !Contain 0dieu
+foams: 0
+foams: 0
+foams: 0
+foams: 0
+foams: 0
+foams Contains 00000
+foams does not match place of 00000
+foams: a
+slaps !Contain 0dieu
+slaps: 0
+slaps: 0
+slaps: 0
+slaps: 0
+slaps: 0
+slaps Contains 00000
+slaps does not match place of 00000
+slaps: a
+cocks !Contain 0dieu
+cocks: 0
+cocks: 0
+cocks: 0
+cocks: 0
+cocks: 0
+cocks Contains 00000
+cocks does not match place of 00000
+cocks: a
+roach !Contain 0dieu
+roach: 0
+roach: 0
+roach: 0
+roach: 0
+roach: 0
+roach Contains 00000
+roach does not match place of 00000
+roach: a
+prowl !Contain 0dieu
+prowl: 0
+prowl: 0
+prowl: 0
+prowl: 0
+prowl: 0
+prowl Contains 00000
+prowl does not match place of 00000
+prowl: a
+sloop !Contain 0dieu
+sloop: 0
+sloop: 0
+sloop: 0
+sloop: 0
+sloop: 0
+sloop Contains 00000
+sloop does not match place of 00000
+sloop: a
+manly !Contain 0dieu
+manly: 0
+manly: 0
+manly: 0
+manly: 0
+manly: 0
+manly Contains 00000
+manly does not match place of 00000
+manly: a
+cramp !Contain 0dieu
+cramp: 0
+cramp: 0
+cramp: 0
+cramp: 0
+cramp: 0
+cramp Contains 00000
+cramp does not match place of 00000
+cramp: a
+bangs !Contain 0dieu
+bangs: 0
+bangs: 0
+bangs: 0
+bangs: 0
+bangs: 0
+bangs Contains 00000
+bangs does not match place of 00000
+bangs: a
+plaza !Contain 0dieu
+plaza: 0
+plaza: 0
+plaza: 0
+plaza: 0
+plaza: 0
+plaza Contains 00000
+plaza does not match place of 00000
+plaza: a
+knack !Contain 0dieu
+knack: 0
+knack: 0
+knack: 0
+knack: 0
+knack: 0
+knack Contains 00000
+knack does not match place of 00000
+knack: a
+howls !Contain 0dieu
+howls: 0
+howls: 0
+howls: 0
+howls: 0
+howls: 0
+howls Contains 00000
+howls does not match place of 00000
+howls: a
+champ !Contain 0dieu
+champ: 0
+champ: 0
+champ: 0
+champ: 0
+champ: 0
+champ Contains 00000
+champ does not match place of 00000
+champ: a
+clasp !Contain 0dieu
+clasp: 0
+clasp: 0
+clasp: 0
+clasp: 0
+clasp: 0
+clasp Contains 00000
+clasp does not match place of 00000
+clasp: a
+pangs !Contain 0dieu
+pangs: 0
+pangs: 0
+pangs: 0
+pangs: 0
+pangs: 0
+pangs Contains 00000
+pangs does not match place of 00000
+pangs: a
+gowns !Contain 0dieu
+gowns: 0
+gowns: 0
+gowns: 0
+gowns: 0
+gowns: 0
+gowns Contains 00000
+gowns does not match place of 00000
+gowns: a
+whack !Contain 0dieu
+whack: 0
+whack: 0
+whack: 0
+whack: 0
+whack: 0
+whack Contains 00000
+whack does not match place of 00000
+whack: a
+glows !Contain 0dieu
+glows: 0
+glows: 0
+glows: 0
+glows: 0
+glows: 0
+glows Contains 00000
+glows does not match place of 00000
+glows: a
+gasps !Contain 0dieu
+gasps: 0
+gasps: 0
+gasps: 0
+gasps: 0
+gasps: 0
+gasps Contains 00000
+gasps does not match place of 00000
+gasps: a
+hoops !Contain 0dieu
+hoops: 0
+hoops: 0
+hoops: 0
+hoops: 0
+hoops: 0
+hoops Contains 00000
+hoops does not match place of 00000
+hoops: a
+tarry !Contain 0dieu
+tarry: 0
+tarry: 0
+tarry: 0
+tarry: 0
+tarry: 0
+tarry Contains 00000
+tarry does not match place of 00000
+tarry: a
+polka !Contain 0dieu
+polka: 0
+polka: 0
+polka: 0
+polka: 0
+polka: 0
+polka Contains 00000
+polka does not match place of 00000
+polka: a
+psalm !Contain 0dieu
+psalm: 0
+psalm: 0
+psalm: 0
+psalm: 0
+psalm: 0
+psalm Contains 00000
+psalm does not match place of 00000
+psalm: a
+mossy !Contain 0dieu
+mossy: 0
+mossy: 0
+mossy: 0
+mossy: 0
+mossy: 0
+mossy Contains 00000
+mossy does not match place of 00000
+mossy: a
+valor !Contain 0dieu
+valor: 0
+valor: 0
+valor: 0
+valor: 0
+valor: 0
+valor Contains 00000
+valor does not match place of 00000
+valor: a
+booty !Contain 0dieu
+booty: 0
+booty: 0
+booty: 0
+booty: 0
+booty: 0
+booty Contains 00000
+booty does not match place of 00000
+booty: a
+tongs !Contain 0dieu
+tongs: 0
+tongs: 0
+tongs: 0
+tongs: 0
+tongs: 0
+tongs Contains 00000
+tongs does not match place of 00000
+tongs: a
+wraps !Contain 0dieu
+wraps: 0
+wraps: 0
+wraps: 0
+wraps: 0
+wraps: 0
+wraps Contains 00000
+wraps does not match place of 00000
+wraps: a
+soaps !Contain 0dieu
+soaps: 0
+soaps: 0
+soaps: 0
+soaps: 0
+soaps: 0
+soaps Contains 00000
+soaps does not match place of 00000
+soaps: a
+pansy !Contain 0dieu
+pansy: 0
+pansy: 0
+pansy: 0
+pansy: 0
+pansy: 0
+pansy Contains 00000
+pansy does not match place of 00000
+pansy: a
+aroma !Contain 0dieu
+aroma: 0
+aroma: 0
+aroma: 0
+aroma: 0
+aroma: 0
+aroma Contains 00000
+aroma does not match place of 00000
+aroma: a
+aroma: 0
+aroma: 0
+aroma: 0
+aroma: 0
+aroma Has Matched Char a0000
+aroma added to result!
+combs !Contain 0dieu
+combs: 0
+combs: 0
+combs: 0
+combs: 0
+combs: 0
+combs Contains 00000
+combs does not match place of 00000
+combs: a
+smoky !Contain 0dieu
+smoky: 0
+smoky: 0
+smoky: 0
+smoky: 0
+smoky: 0
+smoky Contains 00000
+smoky does not match place of 00000
+smoky: a
+cooky !Contain 0dieu
+cooky: 0
+cooky: 0
+cooky: 0
+cooky: 0
+cooky: 0
+cooky Contains 00000
+cooky does not match place of 00000
+cooky: a
+grabs !Contain 0dieu
+grabs: 0
+grabs: 0
+grabs: 0
+grabs: 0
+grabs: 0
+grabs Contains 00000
+grabs does not match place of 00000
+grabs: a
+scant !Contain 0dieu
+scant: 0
+scant: 0
+scant: 0
+scant: 0
+scant: 0
+scant Contains 00000
+scant does not match place of 00000
+scant: a
+baggy !Contain 0dieu
+baggy: 0
+baggy: 0
+baggy: 0
+baggy: 0
+baggy: 0
+baggy Contains 00000
+baggy does not match place of 00000
+baggy: a
+shank !Contain 0dieu
+shank: 0
+shank: 0
+shank: 0
+shank: 0
+shank: 0
+shank Contains 00000
+shank does not match place of 00000
+shank: a
+annoy !Contain 0dieu
+annoy: 0
+annoy: 0
+annoy: 0
+annoy: 0
+annoy: 0
+annoy Contains 00000
+annoy does not match place of 00000
+annoy: a
+annoy: 0
+annoy: 0
+annoy: 0
+annoy: 0
+annoy Has Matched Char a0000
+annoy added to result!
+stark !Contain 0dieu
+stark: 0
+stark: 0
+stark: 0
+stark: 0
+stark: 0
+stark Contains 00000
+stark does not match place of 00000
+stark: a
+chaps !Contain 0dieu
+chaps: 0
+chaps: 0
+chaps: 0
+chaps: 0
+chaps: 0
+chaps Contains 00000
+chaps does not match place of 00000
+chaps: a
+hotly !Contain 0dieu
+hotly: 0
+hotly: 0
+hotly: 0
+hotly: 0
+hotly: 0
+hotly Contains 00000
+hotly does not match place of 00000
+hotly: a
+aloof !Contain 0dieu
+aloof: 0
+aloof: 0
+aloof: 0
+aloof: 0
+aloof: 0
+aloof Contains 00000
+aloof does not match place of 00000
+aloof: a
+aloof: 0
+aloof: 0
+aloof: 0
+aloof: 0
+aloof Has Matched Char a0000
+aloof added to result!
+baron !Contain 0dieu
+baron: 0
+baron: 0
+baron: 0
+baron: 0
+baron: 0
+baron Contains 00000
+baron does not match place of 00000
+baron: a
+wasps !Contain 0dieu
+wasps: 0
+wasps: 0
+wasps: 0
+wasps: 0
+wasps: 0
+wasps Contains 00000
+wasps does not match place of 00000
+wasps: a
+latch !Contain 0dieu
+latch: 0
+latch: 0
+latch: 0
+latch: 0
+latch: 0
+latch Contains 00000
+latch does not match place of 00000
+latch: a
+hasty !Contain 0dieu
+hasty: 0
+hasty: 0
+hasty: 0
+hasty: 0
+hasty: 0
+hasty Contains 00000
+hasty does not match place of 00000
+hasty: a
+afoot !Contain 0dieu
+afoot: 0
+afoot: 0
+afoot: 0
+afoot: 0
+afoot: 0
+afoot Contains 00000
+afoot does not match place of 00000
+afoot: a
+afoot: 0
+afoot: 0
+afoot: 0
+afoot: 0
+afoot Has Matched Char a0000
+afoot added to result!
+swans !Contain 0dieu
+swans: 0
+swans: 0
+swans: 0
+swans: 0
+swans: 0
+swans Contains 00000
+swans does not match place of 00000
+swans: a
+baton !Contain 0dieu
+baton: 0
+baton: 0
+baton: 0
+baton: 0
+baton: 0
+baton Contains 00000
+baton does not match place of 00000
+baton: a
+soaks !Contain 0dieu
+soaks: 0
+soaks: 0
+soaks: 0
+soaks: 0
+soaks: 0
+soaks Contains 00000
+soaks does not match place of 00000
+soaks: a
+cobra !Contain 0dieu
+cobra: 0
+cobra: 0
+cobra: 0
+cobra: 0
+cobra: 0
+cobra Contains 00000
+cobra does not match place of 00000
+cobra: a
+roost !Contain 0dieu
+roost: 0
+roost: 0
+roost: 0
+roost: 0
+roost: 0
+roost Contains 00000
+roost does not match place of 00000
+roost: a
+showy !Contain 0dieu
+showy: 0
+showy: 0
+showy: 0
+showy: 0
+showy: 0
+showy Contains 00000
+showy does not match place of 00000
+showy: a
+snarl !Contain 0dieu
+snarl: 0
+snarl: 0
+snarl: 0
+snarl: 0
+snarl: 0
+snarl Contains 00000
+snarl does not match place of 00000
+snarl: a
+poppy !Contain 0dieu
+poppy: 0
+poppy: 0
+poppy: 0
+poppy: 0
+poppy: 0
+poppy Contains 00000
+poppy does not match place of 00000
+poppy: a
+swoop !Contain 0dieu
+swoop: 0
+swoop: 0
+swoop: 0
+swoop: 0
+swoop: 0
+swoop Contains 00000
+swoop does not match place of 00000
+swoop: a
+volts !Contain 0dieu
+volts: 0
+volts: 0
+volts: 0
+volts: 0
+volts: 0
+volts Contains 00000
+volts does not match place of 00000
+volts: a
+barbs !Contain 0dieu
+barbs: 0
+barbs: 0
+barbs: 0
+barbs: 0
+barbs: 0
+barbs Contains 00000
+barbs does not match place of 00000
+barbs: a
+batch !Contain 0dieu
+batch: 0
+batch: 0
+batch: 0
+batch: 0
+batch: 0
+batch Contains 00000
+batch does not match place of 00000
+batch: a
+brows !Contain 0dieu
+brows: 0
+brows: 0
+brows: 0
+brows: 0
+brows: 0
+brows Contains 00000
+brows does not match place of 00000
+brows: a
+rafts !Contain 0dieu
+rafts: 0
+rafts: 0
+rafts: 0
+rafts: 0
+rafts: 0
+rafts Contains 00000
+rafts does not match place of 00000
+rafts: a
+oaths !Contain 0dieu
+oaths: 0
+oaths: 0
+oaths: 0
+oaths: 0
+oaths: 0
+oaths Contains 00000
+oaths does not match place of 00000
+oaths: a
+lasso !Contain 0dieu
+lasso: 0
+lasso: 0
+lasso: 0
+lasso: 0
+lasso: 0
+lasso Contains 00000
+lasso does not match place of 00000
+lasso: a
+llama !Contain 0dieu
+llama: 0
+llama: 0
+llama: 0
+llama: 0
+llama: 0
+llama Contains 00000
+llama does not match place of 00000
+llama: a
+snort !Contain 0dieu
+snort: 0
+snort: 0
+snort: 0
+snort: 0
+snort: 0
+snort Contains 00000
+snort does not match place of 00000
+snort: a
+salts !Contain 0dieu
+salts: 0
+salts: 0
+salts: 0
+salts: 0
+salts: 0
+salts Contains 00000
+salts does not match place of 00000
+salts: a
+argon !Contain 0dieu
+argon: 0
+argon: 0
+argon: 0
+argon: 0
+argon: 0
+argon Contains 00000
+argon does not match place of 00000
+argon: a
+argon: 0
+argon: 0
+argon: 0
+argon: 0
+argon Has Matched Char a0000
+argon added to result!
+scoop !Contain 0dieu
+scoop: 0
+scoop: 0
+scoop: 0
+scoop: 0
+scoop: 0
+scoop Contains 00000
+scoop does not match place of 00000
+scoop: a
+soggy !Contain 0dieu
+soggy: 0
+soggy: 0
+soggy: 0
+soggy: 0
+soggy: 0
+soggy Contains 00000
+soggy does not match place of 00000
+soggy: a
+pagan !Contain 0dieu
+pagan: 0
+pagan: 0
+pagan: 0
+pagan: 0
+pagan: 0
+pagan Contains 00000
+pagan does not match place of 00000
+pagan: a
+looms !Contain 0dieu
+looms: 0
+looms: 0
+looms: 0
+looms: 0
+looms: 0
+looms Contains 00000
+looms does not match place of 00000
+looms: a
+roars !Contain 0dieu
+roars: 0
+roars: 0
+roars: 0
+roars: 0
+roars: 0
+roars Contains 00000
+roars does not match place of 00000
+roars: a
+tally !Contain 0dieu
+tally: 0
+tally: 0
+tally: 0
+tally: 0
+tally: 0
+tally Contains 00000
+tally does not match place of 00000
+tally: a
+whoop !Contain 0dieu
+whoop: 0
+whoop: 0
+whoop: 0
+whoop: 0
+whoop: 0
+whoop Contains 00000
+whoop does not match place of 00000
+whoop: a
+barks !Contain 0dieu
+barks: 0
+barks: 0
+barks: 0
+barks: 0
+barks: 0
+barks Contains 00000
+barks does not match place of 00000
+barks: a
+flank !Contain 0dieu
+flank: 0
+flank: 0
+flank: 0
+flank: 0
+flank: 0
+flank Contains 00000
+flank does not match place of 00000
+flank: a
+warns !Contain 0dieu
+warns: 0
+warns: 0
+warns: 0
+warns: 0
+warns: 0
+warns Contains 00000
+warns does not match place of 00000
+warns: a
+crook !Contain 0dieu
+crook: 0
+crook: 0
+crook: 0
+crook: 0
+crook: 0
+crook Contains 00000
+crook does not match place of 00000
+crook: a
+manor !Contain 0dieu
+manor: 0
+manor: 0
+manor: 0
+manor: 0
+manor: 0
+manor Contains 00000
+manor does not match place of 00000
+manor: a
+sloth !Contain 0dieu
+sloth: 0
+sloth: 0
+sloth: 0
+sloth: 0
+sloth: 0
+sloth Contains 00000
+sloth does not match place of 00000
+sloth: a
+slots !Contain 0dieu
+slots: 0
+slots: 0
+slots: 0
+slots: 0
+slots: 0
+slots Contains 00000
+slots does not match place of 00000
+slots: a
+magma !Contain 0dieu
+magma: 0
+magma: 0
+magma: 0
+magma: 0
+magma: 0
+magma Contains 00000
+magma does not match place of 00000
+magma: a
+slack !Contain 0dieu
+slack: 0
+slack: 0
+slack: 0
+slack: 0
+slack: 0
+slack Contains 00000
+slack does not match place of 00000
+slack: a
+motto !Contain 0dieu
+motto: 0
+motto: 0
+motto: 0
+motto: 0
+motto: 0
+motto Contains 00000
+motto does not match place of 00000
+motto: a
+slows !Contain 0dieu
+slows: 0
+slows: 0
+slows: 0
+slows: 0
+slows: 0
+slows Contains 00000
+slows does not match place of 00000
+slows: a
+clash !Contain 0dieu
+clash: 0
+clash: 0
+clash: 0
+clash: 0
+clash: 0
+clash Contains 00000
+clash does not match place of 00000
+clash: a
+trash !Contain 0dieu
+trash: 0
+trash: 0
+trash: 0
+trash: 0
+trash: 0
+trash Contains 00000
+trash does not match place of 00000
+trash: a
+gravy !Contain 0dieu
+gravy: 0
+gravy: 0
+gravy: 0
+gravy: 0
+gravy: 0
+gravy Contains 00000
+gravy does not match place of 00000
+gravy: a
+broth !Contain 0dieu
+broth: 0
+broth: 0
+broth: 0
+broth: 0
+broth: 0
+broth Contains 00000
+broth does not match place of 00000
+broth: a
+boost !Contain 0dieu
+boost: 0
+boost: 0
+boost: 0
+boost: 0
+boost: 0
+boost Contains 00000
+boost does not match place of 00000
+boost: a
+lanky !Contain 0dieu
+lanky: 0
+lanky: 0
+lanky: 0
+lanky: 0
+lanky: 0
+lanky Contains 00000
+lanky does not match place of 00000
+lanky: a
+groom !Contain 0dieu
+groom: 0
+groom: 0
+groom: 0
+groom: 0
+groom: 0
+groom Contains 00000
+groom does not match place of 00000
+groom: a
+lowly !Contain 0dieu
+lowly: 0
+lowly: 0
+lowly: 0
+lowly: 0
+lowly: 0
+lowly Contains 00000
+lowly does not match place of 00000
+lowly: a
+nymph !Contain 0dieu
+nymph: 0
+nymph: 0
+nymph: 0
+nymph: 0
+nymph: 0
+nymph Contains 00000
+nymph does not match place of 00000
+nymph: a
+shyly !Contain 0dieu
+shyly: 0
+shyly: 0
+shyly: 0
+shyly: 0
+shyly: 0
+shyly Contains 00000
+shyly does not match place of 00000
+shyly: a
+scorn !Contain 0dieu
+scorn: 0
+scorn: 0
+scorn: 0
+scorn: 0
+scorn: 0
+scorn Contains 00000
+scorn does not match place of 00000
+scorn: a
+nasal !Contain 0dieu
+nasal: 0
+nasal: 0
+nasal: 0
+nasal: 0
+nasal: 0
+nasal Contains 00000
+nasal does not match place of 00000
+nasal: a
+shaky !Contain 0dieu
+shaky: 0
+shaky: 0
+shaky: 0
+shaky: 0
+shaky: 0
+shaky Contains 00000
+shaky does not match place of 00000
+shaky: a
+polls !Contain 0dieu
+polls: 0
+polls: 0
+polls: 0
+polls: 0
+polls: 0
+polls Contains 00000
+polls does not match place of 00000
+polls: a
+canon !Contain 0dieu
+canon: 0
+canon: 0
+canon: 0
+canon: 0
+canon: 0
+canon Contains 00000
+canon does not match place of 00000
+canon: a
+carol !Contain 0dieu
+carol: 0
+carol: 0
+carol: 0
+carol: 0
+carol: 0
+carol Contains 00000
+carol does not match place of 00000
+carol: a
+trays !Contain 0dieu
+trays: 0
+trays: 0
+trays: 0
+trays: 0
+trays: 0
+trays Contains 00000
+trays does not match place of 00000
+trays: a
+forks !Contain 0dieu
+forks: 0
+forks: 0
+forks: 0
+forks: 0
+forks: 0
+forks Contains 00000
+forks does not match place of 00000
+forks: a
+holly !Contain 0dieu
+holly: 0
+holly: 0
+holly: 0
+holly: 0
+holly: 0
+holly Contains 00000
+holly does not match place of 00000
+holly: a
+knobs !Contain 0dieu
+knobs: 0
+knobs: 0
+knobs: 0
+knobs: 0
+knobs: 0
+knobs Contains 00000
+knobs does not match place of 00000
+knobs: a
+chops !Contain 0dieu
+chops: 0
+chops: 0
+chops: 0
+chops: 0
+chops: 0
+chops Contains 00000
+chops does not match place of 00000
+chops: a
+scars !Contain 0dieu
+scars: 0
+scars: 0
+scars: 0
+scars: 0
+scars: 0
+scars Contains 00000
+scars does not match place of 00000
+scars: a
+lobby !Contain 0dieu
+lobby: 0
+lobby: 0
+lobby: 0
+lobby: 0
+lobby: 0
+lobby Contains 00000
+lobby does not match place of 00000
+lobby: a
+yacht !Contain 0dieu
+yacht: 0
+yacht: 0
+yacht: 0
+yacht: 0
+yacht: 0
+yacht Contains 00000
+yacht does not match place of 00000
+yacht: a
+fangs !Contain 0dieu
+fangs: 0
+fangs: 0
+fangs: 0
+fangs: 0
+fangs: 0
+fangs Contains 00000
+fangs does not match place of 00000
+fangs: a
+slabs !Contain 0dieu
+slabs: 0
+slabs: 0
+slabs: 0
+slabs: 0
+slabs: 0
+slabs Contains 00000
+slabs does not match place of 00000
+slabs: a
+scary !Contain 0dieu
+scary: 0
+scary: 0
+scary: 0
+scary: 0
+scary: 0
+scary Contains 00000
+scary does not match place of 00000
+scary: a
+smash !Contain 0dieu
+smash: 0
+smash: 0
+smash: 0
+smash: 0
+smash: 0
+smash Contains 00000
+smash does not match place of 00000
+smash: a
+snaps !Contain 0dieu
+snaps: 0
+snaps: 0
+snaps: 0
+snaps: 0
+snaps: 0
+snaps Contains 00000
+snaps does not match place of 00000
+snaps: a
+spool !Contain 0dieu
+spool: 0
+spool: 0
+spool: 0
+spool: 0
+spool: 0
+spool Contains 00000
+spool does not match place of 00000
+spool: a
+larva !Contain 0dieu
+larva: 0
+larva: 0
+larva: 0
+larva: 0
+larva: 0
+larva Contains 00000
+larva does not match place of 00000
+larva: a
+tacks !Contain 0dieu
+tacks: 0
+tacks: 0
+tacks: 0
+tacks: 0
+tacks: 0
+tacks Contains 00000
+tacks does not match place of 00000
+tacks: a
+nasty !Contain 0dieu
+nasty: 0
+nasty: 0
+nasty: 0
+nasty: 0
+nasty: 0
+nasty Contains 00000
+nasty does not match place of 00000
+nasty: a
+cacao !Contain 0dieu
+cacao: 0
+cacao: 0
+cacao: 0
+cacao: 0
+cacao: 0
+cacao Contains 00000
+cacao does not match place of 00000
+cacao: a
+colon !Contain 0dieu
+colon: 0
+colon: 0
+colon: 0
+colon: 0
+colon: 0
+colon Contains 00000
+colon does not match place of 00000
+colon: a
+sworn !Contain 0dieu
+sworn: 0
+sworn: 0
+sworn: 0
+sworn: 0
+sworn: 0
+sworn Contains 00000
+sworn does not match place of 00000
+sworn: a
+stony !Contain 0dieu
+stony: 0
+stony: 0
+stony: 0
+stony: 0
+stony: 0
+stony Contains 00000
+stony does not match place of 00000
+stony: a
+frank !Contain 0dieu
+frank: 0
+frank: 0
+frank: 0
+frank: 0
+frank: 0
+frank Contains 00000
+frank does not match place of 00000
+frank: a
+swarm !Contain 0dieu
+swarm: 0
+swarm: 0
+swarm: 0
+swarm: 0
+swarm: 0
+swarm Contains 00000
+swarm does not match place of 00000
+swarm: a
+corps !Contain 0dieu
+corps: 0
+corps: 0
+corps: 0
+corps: 0
+corps: 0
+corps Contains 00000
+corps does not match place of 00000
+corps: a
+packs !Contain 0dieu
+packs: 0
+packs: 0
+packs: 0
+packs: 0
+packs: 0
+packs Contains 00000
+packs does not match place of 00000
+packs: a
+sonar !Contain 0dieu
+sonar: 0
+sonar: 0
+sonar: 0
+sonar: 0
+sonar: 0
+sonar Contains 00000
+sonar does not match place of 00000
+sonar: a
+slang !Contain 0dieu
+slang: 0
+slang: 0
+slang: 0
+slang: 0
+slang: 0
+slang Contains 00000
+slang does not match place of 00000
+slang: a
+ovary !Contain 0dieu
+ovary: 0
+ovary: 0
+ovary: 0
+ovary: 0
+ovary: 0
+ovary Contains 00000
+ovary does not match place of 00000
+ovary: a
+aloft !Contain 0dieu
+aloft: 0
+aloft: 0
+aloft: 0
+aloft: 0
+aloft: 0
+aloft Contains 00000
+aloft does not match place of 00000
+aloft: a
+aloft: 0
+aloft: 0
+aloft: 0
+aloft: 0
+aloft Has Matched Char a0000
+aloft added to result!
+plots !Contain 0dieu
+plots: 0
+plots: 0
+plots: 0
+plots: 0
+plots: 0
+plots Contains 00000
+plots does not match place of 00000
+plots: a
+baths !Contain 0dieu
+baths: 0
+baths: 0
+baths: 0
+baths: 0
+baths: 0
+baths Contains 00000
+baths does not match place of 00000
+baths: a
+casts !Contain 0dieu
+casts: 0
+casts: 0
+casts: 0
+casts: 0
+casts: 0
+casts Contains 00000
+casts does not match place of 00000
+casts: a
+rotor !Contain 0dieu
+rotor: 0
+rotor: 0
+rotor: 0
+rotor: 0
+rotor: 0
+rotor Contains 00000
+rotor does not match place of 00000
+rotor: a
+growl !Contain 0dieu
+growl: 0
+growl: 0
+growl: 0
+growl: 0
+growl: 0
+growl Contains 00000
+growl does not match place of 00000
+growl: a
+stoop !Contain 0dieu
+stoop: 0
+stoop: 0
+stoop: 0
+stoop: 0
+stoop: 0
+stoop Contains 00000
+stoop does not match place of 00000
+stoop: a
+tasty !Contain 0dieu
+tasty: 0
+tasty: 0
+tasty: 0
+tasty: 0
+tasty: 0
+tasty Contains 00000
+tasty does not match place of 00000
+tasty: a
+flaps !Contain 0dieu
+flaps: 0
+flaps: 0
+flaps: 0
+flaps: 0
+flaps: 0
+flaps Contains 00000
+flaps does not match place of 00000
+flaps: a
+fools !Contain 0dieu
+fools: 0
+fools: 0
+fools: 0
+fools: 0
+fools: 0
+fools Contains 00000
+fools does not match place of 00000
+fools: a
+notch !Contain 0dieu
+notch: 0
+notch: 0
+notch: 0
+notch: 0
+notch: 0
+notch Contains 00000
+notch does not match place of 00000
+notch: a
+folly !Contain 0dieu
+folly: 0
+folly: 0
+folly: 0
+folly: 0
+folly: 0
+folly Contains 00000
+folly does not match place of 00000
+folly: a
+razor !Contain 0dieu
+razor: 0
+razor: 0
+razor: 0
+razor: 0
+razor: 0
+razor Contains 00000
+razor does not match place of 00000
+razor: a
+warms !Contain 0dieu
+warms: 0
+warms: 0
+warms: 0
+warms: 0
+warms: 0
+warms Contains 00000
+warms does not match place of 00000
+warms: a
+banjo !Contain 0dieu
+banjo: 0
+banjo: 0
+banjo: 0
+banjo: 0
+banjo: 0
+banjo Contains 00000
+banjo does not match place of 00000
+banjo: a
+thorn !Contain 0dieu
+thorn: 0
+thorn: 0
+thorn: 0
+thorn: 0
+thorn: 0
+thorn Contains 00000
+thorn does not match place of 00000
+thorn: a
+plows !Contain 0dieu
+plows: 0
+plows: 0
+plows: 0
+plows: 0
+plows: 0
+plows Contains 00000
+plows does not match place of 00000
+plows: a
+snack !Contain 0dieu
+snack: 0
+snack: 0
+snack: 0
+snack: 0
+snack: 0
+snack Contains 00000
+snack does not match place of 00000
+snack: a
+snows !Contain 0dieu
+snows: 0
+snows: 0
+snows: 0
+snows: 0
+snows: 0
+snows Contains 00000
+snows does not match place of 00000
+snows: a
+bosom !Contain 0dieu
+bosom: 0
+bosom: 0
+bosom: 0
+bosom: 0
+bosom: 0
+bosom Contains 00000
+bosom does not match place of 00000
+bosom: a
+hymns !Contain 0dieu
+hymns: 0
+hymns: 0
+hymns: 0
+hymns: 0
+hymns: 0
+hymns Contains 00000
+hymns does not match place of 00000
+hymns: a
+groan !Contain 0dieu
+groan: 0
+groan: 0
+groan: 0
+groan: 0
+groan: 0
+groan Contains 00000
+groan does not match place of 00000
+groan: a
+colts !Contain 0dieu
+colts: 0
+colts: 0
+colts: 0
+colts: 0
+colts: 0
+colts Contains 00000
+colts does not match place of 00000
+colts: a
+chaos !Contain 0dieu
+chaos: 0
+chaos: 0
+chaos: 0
+chaos: 0
+chaos: 0
+chaos Contains 00000
+chaos does not match place of 00000
+chaos: a
+masks !Contain 0dieu
+masks: 0
+masks: 0
+masks: 0
+masks: 0
+masks: 0
+masks Contains 00000
+masks does not match place of 00000
+masks: a
+lacks !Contain 0dieu
+lacks: 0
+lacks: 0
+lacks: 0
+lacks: 0
+lacks: 0
+lacks Contains 00000
+lacks does not match place of 00000
+lacks: a
+waltz !Contain 0dieu
+waltz: 0
+waltz: 0
+waltz: 0
+waltz: 0
+waltz: 0
+waltz Contains 00000
+waltz does not match place of 00000
+waltz: a
+torch !Contain 0dieu
+torch: 0
+torch: 0
+torch: 0
+torch: 0
+torch: 0
+torch Contains 00000
+torch does not match place of 00000
+torch: a
+forts !Contain 0dieu
+forts: 0
+forts: 0
+forts: 0
+forts: 0
+forts: 0
+forts Contains 00000
+forts does not match place of 00000
+forts: a
+tombs !Contain 0dieu
+tombs: 0
+tombs: 0
+tombs: 0
+tombs: 0
+tombs: 0
+tombs Contains 00000
+tombs does not match place of 00000
+tombs: a
+booth !Contain 0dieu
+booth: 0
+booth: 0
+booth: 0
+booth: 0
+booth: 0
+booth Contains 00000
+booth does not match place of 00000
+booth: a
+tract !Contain 0dieu
+tract: 0
+tract: 0
+tract: 0
+tract: 0
+tract: 0
+tract Contains 00000
+tract does not match place of 00000
+tract: a
+boast !Contain 0dieu
+boast: 0
+boast: 0
+boast: 0
+boast: 0
+boast: 0
+boast Contains 00000
+boast does not match place of 00000
+boast: a
+crank !Contain 0dieu
+crank: 0
+crank: 0
+crank: 0
+crank: 0
+crank: 0
+crank Contains 00000
+crank does not match place of 00000
+crank: a
+grams !Contain 0dieu
+grams: 0
+grams: 0
+grams: 0
+grams: 0
+grams: 0
+grams Contains 00000
+grams does not match place of 00000
+grams: a
+foggy !Contain 0dieu
+foggy: 0
+foggy: 0
+foggy: 0
+foggy: 0
+foggy: 0
+foggy Contains 00000
+foggy does not match place of 00000
+foggy: a
+scalp !Contain 0dieu
+scalp: 0
+scalp: 0
+scalp: 0
+scalp: 0
+scalp: 0
+scalp Contains 00000
+scalp does not match place of 00000
+scalp: a
+fonts !Contain 0dieu
+fonts: 0
+fonts: 0
+fonts: 0
+fonts: 0
+fonts: 0
+fonts Contains 00000
+fonts does not match place of 00000
+fonts: a
+sacks !Contain 0dieu
+sacks: 0
+sacks: 0
+sacks: 0
+sacks: 0
+sacks: 0
+sacks Contains 00000
+sacks does not match place of 00000
+sacks: a
+plank !Contain 0dieu
+plank: 0
+plank: 0
+plank: 0
+plank: 0
+plank: 0
+plank Contains 00000
+plank does not match place of 00000
+plank: a
+agony !Contain 0dieu
+agony: 0
+agony: 0
+agony: 0
+agony: 0
+agony: 0
+agony Contains 00000
+agony does not match place of 00000
+agony: a
+agony: 0
+agony: 0
+agony: 0
+agony: 0
+agony Has Matched Char a0000
+agony added to result!
+lofty !Contain 0dieu
+lofty: 0
+lofty: 0
+lofty: 0
+lofty: 0
+lofty: 0
+lofty Contains 00000
+lofty does not match place of 00000
+lofty: a
+crabs !Contain 0dieu
+crabs: 0
+crabs: 0
+crabs: 0
+crabs: 0
+crabs: 0
+crabs Contains 00000
+crabs does not match place of 00000
+crabs: a
+atlas !Contain 0dieu
+atlas: 0
+atlas: 0
+atlas: 0
+atlas: 0
+atlas: 0
+atlas Contains 00000
+atlas does not match place of 00000
+atlas: a
+atlas: 0
+atlas: 0
+atlas: 0
+atlas: 0
+atlas Has Matched Char a0000
+atlas added to result!
+tramp !Contain 0dieu
+tramp: 0
+tramp: 0
+tramp: 0
+tramp: 0
+tramp: 0
+tramp Contains 00000
+tramp does not match place of 00000
+tramp: a
+bolts !Contain 0dieu
+bolts: 0
+bolts: 0
+bolts: 0
+bolts: 0
+bolts: 0
+bolts Contains 00000
+bolts does not match place of 00000
+bolts: a
+troop !Contain 0dieu
+troop: 0
+troop: 0
+troop: 0
+troop: 0
+troop: 0
+troop Contains 00000
+troop does not match place of 00000
+troop: a
+shawl !Contain 0dieu
+shawl: 0
+shawl: 0
+shawl: 0
+shawl: 0
+shawl: 0
+shawl Contains 00000
+shawl does not match place of 00000
+shawl: a
+lasts !Contain 0dieu
+lasts: 0
+lasts: 0
+lasts: 0
+lasts: 0
+lasts: 0
+lasts Contains 00000
+lasts does not match place of 00000
+lasts: a
+lawns !Contain 0dieu
+lawns: 0
+lawns: 0
+lawns: 0
+lawns: 0
+lawns: 0
+lawns Contains 00000
+lawns does not match place of 00000
+lawns: a
+alloy !Contain 0dieu
+alloy: 0
+alloy: 0
+alloy: 0
+alloy: 0
+alloy: 0
+alloy Contains 00000
+alloy does not match place of 00000
+alloy: a
+alloy: 0
+alloy: 0
+alloy: 0
+alloy: 0
+alloy Has Matched Char a0000
+alloy added to result!
+carts !Contain 0dieu
+carts: 0
+carts: 0
+carts: 0
+carts: 0
+carts: 0
+carts Contains 00000
+carts does not match place of 00000
+carts: a
+cooks !Contain 0dieu
+cooks: 0
+cooks: 0
+cooks: 0
+cooks: 0
+cooks: 0
+cooks Contains 00000
+cooks does not match place of 00000
+cooks: a
+gonna !Contain 0dieu
+gonna: 0
+gonna: 0
+gonna: 0
+gonna: 0
+gonna: 0
+gonna Contains 00000
+gonna does not match place of 00000
+gonna: a
+shack !Contain 0dieu
+shack: 0
+shack: 0
+shack: 0
+shack: 0
+shack: 0
+shack Contains 00000
+shack does not match place of 00000
+shack: a
+strap !Contain 0dieu
+strap: 0
+strap: 0
+strap: 0
+strap: 0
+strap: 0
+strap Contains 00000
+strap does not match place of 00000
+strap: a
+frown !Contain 0dieu
+frown: 0
+frown: 0
+frown: 0
+frown: 0
+frown: 0
+frown Contains 00000
+frown does not match place of 00000
+frown: a
+clamp !Contain 0dieu
+clamp: 0
+clamp: 0
+clamp: 0
+clamp: 0
+clamp: 0
+clamp Contains 00000
+clamp does not match place of 00000
+clamp: a
+slash !Contain 0dieu
+slash: 0
+slash: 0
+slash: 0
+slash: 0
+slash: 0
+slash Contains 00000
+slash does not match place of 00000
+slash: a
+crows !Contain 0dieu
+crows: 0
+crows: 0
+crows: 0
+crows: 0
+crows: 0
+crows Contains 00000
+crows does not match place of 00000
+crows: a
+locks !Contain 0dieu
+locks: 0
+locks: 0
+locks: 0
+locks: 0
+locks: 0
+locks Contains 00000
+locks does not match place of 00000
+locks: a
+gloom !Contain 0dieu
+gloom: 0
+gloom: 0
+gloom: 0
+gloom: 0
+gloom: 0
+gloom Contains 00000
+gloom does not match place of 00000
+gloom: a
+myths !Contain 0dieu
+myths: 0
+myths: 0
+myths: 0
+myths: 0
+myths: 0
+myths Contains 00000
+myths does not match place of 00000
+myths: a
+jolly !Contain 0dieu
+jolly: 0
+jolly: 0
+jolly: 0
+jolly: 0
+jolly: 0
+jolly Contains 00000
+jolly does not match place of 00000
+jolly: a
+wharf !Contain 0dieu
+wharf: 0
+wharf: 0
+wharf: 0
+wharf: 0
+wharf: 0
+wharf Contains 00000
+wharf does not match place of 00000
+wharf: a
+masts !Contain 0dieu
+masts: 0
+masts: 0
+masts: 0
+masts: 0
+masts: 0
+masts Contains 00000
+masts does not match place of 00000
+masts: a
+barns !Contain 0dieu
+barns: 0
+barns: 0
+barns: 0
+barns: 0
+barns: 0
+barns Contains 00000
+barns does not match place of 00000
+barns: a
+stray !Contain 0dieu
+stray: 0
+stray: 0
+stray: 0
+stray: 0
+stray: 0
+stray Contains 00000
+stray does not match place of 00000
+stray: a
+rayon !Contain 0dieu
+rayon: 0
+rayon: 0
+rayon: 0
+rayon: 0
+rayon: 0
+rayon Contains 00000
+rayon does not match place of 00000
+rayon: a
+loops !Contain 0dieu
+loops: 0
+loops: 0
+loops: 0
+loops: 0
+loops: 0
+loops Contains 00000
+loops does not match place of 00000
+loops: a
+gypsy !Contain 0dieu
+gypsy: 0
+gypsy: 0
+gypsy: 0
+gypsy: 0
+gypsy: 0
+gypsy Contains 00000
+gypsy does not match place of 00000
+gypsy: a
+scrap !Contain 0dieu
+scrap: 0
+scrap: 0
+scrap: 0
+scrap: 0
+scrap: 0
+scrap Contains 00000
+scrap does not match place of 00000
+scrap: a
+clams !Contain 0dieu
+clams: 0
+clams: 0
+clams: 0
+clams: 0
+clams: 0
+clams Contains 00000
+clams does not match place of 00000
+clams: a
+cloak !Contain 0dieu
+cloak: 0
+cloak: 0
+cloak: 0
+cloak: 0
+cloak: 0
+cloak Contains 00000
+cloak does not match place of 00000
+cloak: a
+flats !Contain 0dieu
+flats: 0
+flats: 0
+flats: 0
+flats: 0
+flats: 0
+flats Contains 00000
+flats does not match place of 00000
+flats: a
+photo !Contain 0dieu
+photo: 0
+photo: 0
+photo: 0
+photo: 0
+photo: 0
+photo Contains 00000
+photo does not match place of 00000
+photo: a
+loans !Contain 0dieu
+loans: 0
+loans: 0
+loans: 0
+loans: 0
+loans: 0
+loans Contains 00000
+loans does not match place of 00000
+loans: a
+coals !Contain 0dieu
+coals: 0
+coals: 0
+coals: 0
+coals: 0
+coals: 0
+coals Contains 00000
+coals does not match place of 00000
+coals: a
+halls !Contain 0dieu
+halls: 0
+halls: 0
+halls: 0
+halls: 0
+halls: 0
+halls Contains 00000
+halls does not match place of 00000
+halls: a
+scarf !Contain 0dieu
+scarf: 0
+scarf: 0
+scarf: 0
+scarf: 0
+scarf: 0
+scarf Contains 00000
+scarf does not match place of 00000
+scarf: a
+hawks !Contain 0dieu
+hawks: 0
+hawks: 0
+hawks: 0
+hawks: 0
+hawks: 0
+hawks Contains 00000
+hawks does not match place of 00000
+hawks: a
+stack !Contain 0dieu
+stack: 0
+stack: 0
+stack: 0
+stack: 0
+stack: 0
+stack Contains 00000
+stack does not match place of 00000
+stack: a
+marsh !Contain 0dieu
+marsh: 0
+marsh: 0
+marsh: 0
+marsh: 0
+marsh: 0
+marsh Contains 00000
+marsh does not match place of 00000
+marsh: a
+salty !Contain 0dieu
+salty: 0
+salty: 0
+salty: 0
+salty: 0
+salty: 0
+salty Contains 00000
+salty does not match place of 00000
+salty: a
+loyal !Contain 0dieu
+loyal: 0
+loyal: 0
+loyal: 0
+loyal: 0
+loyal: 0
+loyal Contains 00000
+loyal does not match place of 00000
+loyal: a
+traps !Contain 0dieu
+traps: 0
+traps: 0
+traps: 0
+traps: 0
+traps: 0
+traps Contains 00000
+traps does not match place of 00000
+traps: a
+snowy !Contain 0dieu
+snowy: 0
+snowy: 0
+snowy: 0
+snowy: 0
+snowy: 0
+snowy Contains 00000
+snowy does not match place of 00000
+snowy: a
+moths !Contain 0dieu
+moths: 0
+moths: 0
+moths: 0
+moths: 0
+moths: 0
+moths Contains 00000
+moths does not match place of 00000
+moths: a
+fatal !Contain 0dieu
+fatal: 0
+fatal: 0
+fatal: 0
+fatal: 0
+fatal: 0
+fatal Contains 00000
+fatal does not match place of 00000
+fatal: a
+flown !Contain 0dieu
+flown: 0
+flown: 0
+flown: 0
+flown: 0
+flown: 0
+flown Contains 00000
+flown does not match place of 00000
+flown: a
+nylon !Contain 0dieu
+nylon: 0
+nylon: 0
+nylon: 0
+nylon: 0
+nylon: 0
+nylon Contains 00000
+nylon does not match place of 00000
+nylon: a
+cocoa !Contain 0dieu
+cocoa: 0
+cocoa: 0
+cocoa: 0
+cocoa: 0
+cocoa: 0
+cocoa Contains 00000
+cocoa does not match place of 00000
+cocoa: a
+hooks !Contain 0dieu
+hooks: 0
+hooks: 0
+hooks: 0
+hooks: 0
+hooks: 0
+hooks Contains 00000
+hooks does not match place of 00000
+hooks: a
+camps !Contain 0dieu
+camps: 0
+camps: 0
+camps: 0
+camps: 0
+camps: 0
+camps Contains 00000
+camps does not match place of 00000
+camps: a
+chant !Contain 0dieu
+chant: 0
+chant: 0
+chant: 0
+chant: 0
+chant: 0
+chant Contains 00000
+chant does not match place of 00000
+chant: a
+roast !Contain 0dieu
+roast: 0
+roast: 0
+roast: 0
+roast: 0
+roast: 0
+roast Contains 00000
+roast does not match place of 00000
+roast: a
+palms !Contain 0dieu
+palms: 0
+palms: 0
+palms: 0
+palms: 0
+palms: 0
+palms Contains 00000
+palms does not match place of 00000
+palms: a
+clown !Contain 0dieu
+clown: 0
+clown: 0
+clown: 0
+clown: 0
+clown: 0
+clown Contains 00000
+clown does not match place of 00000
+clown: a
+bombs !Contain 0dieu
+bombs: 0
+bombs: 0
+bombs: 0
+bombs: 0
+bombs: 0
+bombs Contains 00000
+bombs does not match place of 00000
+bombs: a
+hangs !Contain 0dieu
+hangs: 0
+hangs: 0
+hangs: 0
+hangs: 0
+hangs: 0
+hangs Contains 00000
+hangs does not match place of 00000
+hangs: a
+moons !Contain 0dieu
+moons: 0
+moons: 0
+moons: 0
+moons: 0
+moons: 0
+moons Contains 00000
+moons does not match place of 00000
+moons: a
+knots !Contain 0dieu
+knots: 0
+knots: 0
+knots: 0
+knots: 0
+knots: 0
+knots Contains 00000
+knots does not match place of 00000
+knots: a
+bowls !Contain 0dieu
+bowls: 0
+bowls: 0
+bowls: 0
+bowls: 0
+bowls: 0
+bowls Contains 00000
+bowls does not match place of 00000
+bowls: a
+actor !Contain 0dieu
+actor: 0
+actor: 0
+actor: 0
+actor: 0
+actor: 0
+actor Contains 00000
+actor does not match place of 00000
+actor: a
+actor: 0
+actor: 0
+actor: 0
+actor: 0
+actor Has Matched Char a0000
+actor added to result!
+flask !Contain 0dieu
+flask: 0
+flask: 0
+flask: 0
+flask: 0
+flask: 0
+flask Contains 00000
+flask does not match place of 00000
+flask: a
+gross !Contain 0dieu
+gross: 0
+gross: 0
+gross: 0
+gross: 0
+gross: 0
+gross Contains 00000
+gross does not match place of 00000
+gross: a
+stool !Contain 0dieu
+stool: 0
+stool: 0
+stool: 0
+stool: 0
+stool: 0
+stool Contains 00000
+stool does not match place of 00000
+stool: a
+yarns !Contain 0dieu
+yarns: 0
+yarns: 0
+yarns: 0
+yarns: 0
+yarns: 0
+yarns Contains 00000
+yarns does not match place of 00000
+yarns: a
+swamp !Contain 0dieu
+swamp: 0
+swamp: 0
+swamp: 0
+swamp: 0
+swamp: 0
+swamp Contains 00000
+swamp does not match place of 00000
+swamp: a
+armor !Contain 0dieu
+armor: 0
+armor: 0
+armor: 0
+armor: 0
+armor: 0
+armor Contains 00000
+armor does not match place of 00000
+armor: a
+armor: 0
+armor: 0
+armor: 0
+armor: 0
+armor Has Matched Char a0000
+armor added to result!
+roofs !Contain 0dieu
+roofs: 0
+roofs: 0
+roofs: 0
+roofs: 0
+roofs: 0
+roofs Contains 00000
+roofs does not match place of 00000
+roofs: a
+flags !Contain 0dieu
+flags: 0
+flags: 0
+flags: 0
+flags: 0
+flags: 0
+flags Contains 00000
+flags does not match place of 00000
+flags: a
+bloom !Contain 0dieu
+bloom: 0
+bloom: 0
+bloom: 0
+bloom: 0
+bloom: 0
+bloom Contains 00000
+bloom does not match place of 00000
+bloom: a
+hoofs !Contain 0dieu
+hoofs: 0
+hoofs: 0
+hoofs: 0
+hoofs: 0
+hoofs: 0
+hoofs Contains 00000
+hoofs does not match place of 00000
+hoofs: a
+robot !Contain 0dieu
+robot: 0
+robot: 0
+robot: 0
+robot: 0
+robot: 0
+robot Contains 00000
+robot does not match place of 00000
+robot: a
+stalk !Contain 0dieu
+stalk: 0
+stalk: 0
+stalk: 0
+stalk: 0
+stalk: 0
+stalk Contains 00000
+stalk does not match place of 00000
+stalk: a
+pools !Contain 0dieu
+pools: 0
+pools: 0
+pools: 0
+pools: 0
+pools: 0
+pools Contains 00000
+pools does not match place of 00000
+pools: a
+toast !Contain 0dieu
+toast: 0
+toast: 0
+toast: 0
+toast: 0
+toast: 0
+toast Contains 00000
+toast does not match place of 00000
+toast: a
+crawl !Contain 0dieu
+crawl: 0
+crawl: 0
+crawl: 0
+crawl: 0
+crawl: 0
+crawl Contains 00000
+crawl does not match place of 00000
+crawl: a
+naval !Contain 0dieu
+naval: 0
+naval: 0
+naval: 0
+naval: 0
+naval: 0
+naval Contains 00000
+naval does not match place of 00000
+naval: a
+harsh !Contain 0dieu
+harsh: 0
+harsh: 0
+harsh: 0
+harsh: 0
+harsh: 0
+harsh Contains 00000
+harsh does not match place of 00000
+harsh: a
+array !Contain 0dieu
+array: 0
+array: 0
+array: 0
+array: 0
+array: 0
+array Contains 00000
+array does not match place of 00000
+array: a
+array: 0
+array: 0
+array: 0
+array: 0
+array Has Matched Char a0000
+array added to result!
+ranks !Contain 0dieu
+ranks: 0
+ranks: 0
+ranks: 0
+ranks: 0
+ranks: 0
+ranks Contains 00000
+ranks does not match place of 00000
+ranks: a
+charm !Contain 0dieu
+charm: 0
+charm: 0
+charm: 0
+charm: 0
+charm: 0
+charm Contains 00000
+charm does not match place of 00000
+charm: a
+cools !Contain 0dieu
+cools: 0
+cools: 0
+cools: 0
+cools: 0
+cools: 0
+cools Contains 00000
+cools does not match place of 00000
+cools: a
+lambs !Contain 0dieu
+lambs: 0
+lambs: 0
+lambs: 0
+lambs: 0
+lambs: 0
+lambs Contains 00000
+lambs does not match place of 00000
+lambs: a
+schwa !Contain 0dieu
+schwa: 0
+schwa: 0
+schwa: 0
+schwa: 0
+schwa: 0
+schwa Contains 00000
+schwa does not match place of 00000
+schwa: a
+rally !Contain 0dieu
+rally: 0
+rally: 0
+rally: 0
+rally: 0
+rally: 0
+rally Contains 00000
+rally does not match place of 00000
+rally: a
+lamps !Contain 0dieu
+lamps: 0
+lamps: 0
+lamps: 0
+lamps: 0
+lamps: 0
+lamps Contains 00000
+lamps does not match place of 00000
+lamps: a
+broom !Contain 0dieu
+broom: 0
+broom: 0
+broom: 0
+broom: 0
+broom: 0
+broom Contains 00000
+broom does not match place of 00000
+broom: a
+tonal !Contain 0dieu
+tonal: 0
+tonal: 0
+tonal: 0
+tonal: 0
+tonal: 0
+tonal Contains 00000
+tonal does not match place of 00000
+tonal: a
+pants !Contain 0dieu
+pants: 0
+pants: 0
+pants: 0
+pants: 0
+pants: 0
+pants Contains 00000
+pants does not match place of 00000
+pants: a
+hobby !Contain 0dieu
+hobby: 0
+hobby: 0
+hobby: 0
+hobby: 0
+hobby: 0
+hobby Contains 00000
+hobby does not match place of 00000
+hobby: a
+flock !Contain 0dieu
+flock: 0
+flock: 0
+flock: 0
+flock: 0
+flock: 0
+flock Contains 00000
+flock does not match place of 00000
+flock: a
+shaft !Contain 0dieu
+shaft: 0
+shaft: 0
+shaft: 0
+shaft: 0
+shaft: 0
+shaft Contains 00000
+shaft does not match place of 00000
+shaft: a
+grant !Contain 0dieu
+grant: 0
+grant: 0
+grant: 0
+grant: 0
+grant: 0
+grant Contains 00000
+grant does not match place of 00000
+grant: a
+goals !Contain 0dieu
+goals: 0
+goals: 0
+goals: 0
+goals: 0
+goals: 0
+goals Contains 00000
+goals does not match place of 00000
+goals: a
+socks !Contain 0dieu
+socks: 0
+socks: 0
+socks: 0
+socks: 0
+socks: 0
+socks Contains 00000
+socks does not match place of 00000
+socks: a
+ports !Contain 0dieu
+ports: 0
+ports: 0
+ports: 0
+ports: 0
+ports: 0
+ports Contains 00000
+ports does not match place of 00000
+ports: a
+spray !Contain 0dieu
+spray: 0
+spray: 0
+spray: 0
+spray: 0
+spray: 0
+spray Contains 00000
+spray does not match place of 00000
+spray: a
+brook !Contain 0dieu
+brook: 0
+brook: 0
+brook: 0
+brook: 0
+brook: 0
+brook Contains 00000
+brook does not match place of 00000
+brook: a
+spark !Contain 0dieu
+spark: 0
+spark: 0
+spark: 0
+spark: 0
+spark: 0
+spark Contains 00000
+spark does not match place of 00000
+spark: a
+macro !Contain 0dieu
+macro: 0
+macro: 0
+macro: 0
+macro: 0
+macro: 0
+macro Contains 00000
+macro does not match place of 00000
+macro: a
+coral !Contain 0dieu
+coral: 0
+coral: 0
+coral: 0
+coral: 0
+coral: 0
+coral Contains 00000
+coral does not match place of 00000
+coral: a
+tasks !Contain 0dieu
+tasks: 0
+tasks: 0
+tasks: 0
+tasks: 0
+tasks: 0
+tasks Contains 00000
+tasks does not match place of 00000
+tasks: a
+hosts !Contain 0dieu
+hosts: 0
+hosts: 0
+hosts: 0
+hosts: 0
+hosts: 0
+hosts Contains 00000
+hosts does not match place of 00000
+hosts: a
+frost !Contain 0dieu
+frost: 0
+frost: 0
+frost: 0
+frost: 0
+frost: 0
+frost Contains 00000
+frost does not match place of 00000
+frost: a
+polar !Contain 0dieu
+polar: 0
+polar: 0
+polar: 0
+polar: 0
+polar: 0
+polar Contains 00000
+polar does not match place of 00000
+polar: a
+blast !Contain 0dieu
+blast: 0
+blast: 0
+blast: 0
+blast: 0
+blast: 0
+blast Contains 00000
+blast does not match place of 00000
+blast: a
+grasp !Contain 0dieu
+grasp: 0
+grasp: 0
+grasp: 0
+grasp: 0
+grasp: 0
+grasp Contains 00000
+grasp does not match place of 00000
+grasp: a
+shark !Contain 0dieu
+shark: 0
+shark: 0
+shark: 0
+shark: 0
+shark: 0
+shark Contains 00000
+shark does not match place of 00000
+shark: a
+wrath !Contain 0dieu
+wrath: 0
+wrath: 0
+wrath: 0
+wrath: 0
+wrath: 0
+wrath Contains 00000
+wrath does not match place of 00000
+wrath: a
+posts !Contain 0dieu
+posts: 0
+posts: 0
+posts: 0
+posts: 0
+posts: 0
+posts Contains 00000
+posts does not match place of 00000
+posts: a
+spoon !Contain 0dieu
+spoon: 0
+spoon: 0
+spoon: 0
+spoon: 0
+spoon: 0
+spoon Contains 00000
+spoon does not match place of 00000
+spoon: a
+comma !Contain 0dieu
+comma: 0
+comma: 0
+comma: 0
+comma: 0
+comma: 0
+comma Contains 00000
+comma does not match place of 00000
+comma: a
+blown !Contain 0dieu
+blown: 0
+blown: 0
+blown: 0
+blown: 0
+blown: 0
+blown Contains 00000
+blown does not match place of 00000
+blown: a
+stays !Contain 0dieu
+stays: 0
+stays: 0
+stays: 0
+stays: 0
+stays: 0
+stays Contains 00000
+stays does not match place of 00000
+stays: a
+sorts !Contain 0dieu
+sorts: 0
+sorts: 0
+sorts: 0
+sorts: 0
+sorts: 0
+sorts Contains 00000
+sorts does not match place of 00000
+sorts: a
+knock !Contain 0dieu
+knock: 0
+knock: 0
+knock: 0
+knock: 0
+knock: 0
+knock Contains 00000
+knock does not match place of 00000
+knock: a
+slant !Contain 0dieu
+slant: 0
+slant: 0
+slant: 0
+slant: 0
+slant: 0
+slant Contains 00000
+slant does not match place of 00000
+slant: a
+stamp !Contain 0dieu
+stamp: 0
+stamp: 0
+stamp: 0
+stamp: 0
+stamp: 0
+stamp Contains 00000
+stamp does not match place of 00000
+stamp: a
+organ !Contain 0dieu
+organ: 0
+organ: 0
+organ: 0
+organ: 0
+organ: 0
+organ Contains 00000
+organ does not match place of 00000
+organ: a
+apron !Contain 0dieu
+apron: 0
+apron: 0
+apron: 0
+apron: 0
+apron: 0
+apron Contains 00000
+apron does not match place of 00000
+apron: a
+apron: 0
+apron: 0
+apron: 0
+apron: 0
+apron Has Matched Char a0000
+apron added to result!
+tooth !Contain 0dieu
+tooth: 0
+tooth: 0
+tooth: 0
+tooth: 0
+tooth: 0
+tooth Contains 00000
+tooth does not match place of 00000
+tooth: a
+mayor !Contain 0dieu
+mayor: 0
+mayor: 0
+mayor: 0
+mayor: 0
+mayor: 0
+mayor Contains 00000
+mayor does not match place of 00000
+mayor: a
+stall !Contain 0dieu
+stall: 0
+stall: 0
+stall: 0
+stall: 0
+stall: 0
+stall Contains 00000
+stall does not match place of 00000
+stall: a
+shots !Contain 0dieu
+shots: 0
+shots: 0
+shots: 0
+shots: 0
+shots: 0
+shots Contains 00000
+shots does not match place of 00000
+shots: a
+backs !Contain 0dieu
+backs: 0
+backs: 0
+backs: 0
+backs: 0
+backs: 0
+backs Contains 00000
+backs does not match place of 00000
+backs: a
+goats !Contain 0dieu
+goats: 0
+goats: 0
+goats: 0
+goats: 0
+goats: 0
+goats Contains 00000
+goats does not match place of 00000
+goats: a
+crazy !Contain 0dieu
+crazy: 0
+crazy: 0
+crazy: 0
+crazy: 0
+crazy: 0
+crazy Contains 00000
+crazy does not match place of 00000
+crazy: a
+cargo !Contain 0dieu
+cargo: 0
+cargo: 0
+cargo: 0
+cargo: 0
+cargo: 0
+cargo Contains 00000
+cargo does not match place of 00000
+cargo: a
+chalk !Contain 0dieu
+chalk: 0
+chalk: 0
+chalk: 0
+chalk: 0
+chalk: 0
+chalk Contains 00000
+chalk does not match place of 00000
+chalk: a
+bacon !Contain 0dieu
+bacon: 0
+bacon: 0
+bacon: 0
+bacon: 0
+bacon: 0
+bacon Contains 00000
+bacon does not match place of 00000
+bacon: a
+vocal !Contain 0dieu
+vocal: 0
+vocal: 0
+vocal: 0
+vocal: 0
+vocal: 0
+vocal Contains 00000
+vocal does not match place of 00000
+vocal: a
+patch !Contain 0dieu
+patch: 0
+patch: 0
+patch: 0
+patch: 0
+patch: 0
+patch Contains 00000
+patch does not match place of 00000
+patch: a
+paths !Contain 0dieu
+paths: 0
+paths: 0
+paths: 0
+paths: 0
+paths: 0
+paths Contains 00000
+paths does not match place of 00000
+paths: a
+hatch !Contain 0dieu
+hatch: 0
+hatch: 0
+hatch: 0
+hatch: 0
+hatch: 0
+hatch Contains 00000
+hatch does not match place of 00000
+hatch: a
+craft !Contain 0dieu
+craft: 0
+craft: 0
+craft: 0
+craft: 0
+craft: 0
+craft Contains 00000
+craft does not match place of 00000
+craft: a
+crash !Contain 0dieu
+crash: 0
+crash: 0
+crash: 0
+crash: 0
+crash: 0
+crash Contains 00000
+crash does not match place of 00000
+crash: a
+rolls !Contain 0dieu
+rolls: 0
+rolls: 0
+rolls: 0
+rolls: 0
+rolls: 0
+rolls Contains 00000
+rolls does not match place of 00000
+rolls: a
+fancy !Contain 0dieu
+fancy: 0
+fancy: 0
+fancy: 0
+fancy: 0
+fancy: 0
+fancy Contains 00000
+fancy does not match place of 00000
+fancy: a
+parks !Contain 0dieu
+parks: 0
+parks: 0
+parks: 0
+parks: 0
+parks: 0
+parks Contains 00000
+parks does not match place of 00000
+parks: a
+smart !Contain 0dieu
+smart: 0
+smart: 0
+smart: 0
+smart: 0
+smart: 0
+smart Contains 00000
+smart does not match place of 00000
+smart: a
+worms !Contain 0dieu
+worms: 0
+worms: 0
+worms: 0
+worms: 0
+worms: 0
+worms Contains 00000
+worms does not match place of 00000
+worms: a
+float !Contain 0dieu
+float: 0
+float: 0
+float: 0
+float: 0
+float: 0
+float Contains 00000
+float does not match place of 00000
+float: a
+alarm !Contain 0dieu
+alarm: 0
+alarm: 0
+alarm: 0
+alarm: 0
+alarm: 0
+alarm Contains 00000
+alarm does not match place of 00000
+alarm: a
+alarm: 0
+alarm: 0
+alarm: 0
+alarm: 0
+alarm Has Matched Char a0000
+alarm added to result!
+coats !Contain 0dieu
+coats: 0
+coats: 0
+coats: 0
+coats: 0
+coats: 0
+coats Contains 00000
+coats does not match place of 00000
+coats: a
+flash !Contain 0dieu
+flash: 0
+flash: 0
+flash: 0
+flash: 0
+flash: 0
+flash Contains 00000
+flash does not match place of 00000
+flash: a
+tanks !Contain 0dieu
+tanks: 0
+tanks: 0
+tanks: 0
+tanks: 0
+tanks: 0
+tanks Contains 00000
+tanks does not match place of 00000
+tanks: a
+proof !Contain 0dieu
+proof: 0
+proof: 0
+proof: 0
+proof: 0
+proof: 0
+proof Contains 00000
+proof does not match place of 00000
+proof: a
+blows !Contain 0dieu
+blows: 0
+blows: 0
+blows: 0
+blows: 0
+blows: 0
+blows Contains 00000
+blows does not match place of 00000
+blows: a
+talks !Contain 0dieu
+talks: 0
+talks: 0
+talks: 0
+talks: 0
+talks: 0
+talks Contains 00000
+talks does not match place of 00000
+talks: a
+sport !Contain 0dieu
+sport: 0
+sport: 0
+sport: 0
+sport: 0
+sport: 0
+sport Contains 00000
+sport does not match place of 00000
+sport: a
+altar !Contain 0dieu
+altar: 0
+altar: 0
+altar: 0
+altar: 0
+altar: 0
+altar Contains 00000
+altar does not match place of 00000
+altar: a
+altar: 0
+altar: 0
+altar: 0
+altar: 0
+altar Has Matched Char a0000
+altar added to result!
+shock !Contain 0dieu
+shock: 0
+shock: 0
+shock: 0
+shock: 0
+shock: 0
+shock Contains 00000
+shock does not match place of 00000
+shock: a
+crown !Contain 0dieu
+crown: 0
+crown: 0
+crown: 0
+crown: 0
+crown: 0
+crown Contains 00000
+crown does not match place of 00000
+crown: a
+frogs !Contain 0dieu
+frogs: 0
+frogs: 0
+frogs: 0
+frogs: 0
+frogs: 0
+frogs Contains 00000
+frogs does not match place of 00000
+frogs: a
+claws !Contain 0dieu
+claws: 0
+claws: 0
+claws: 0
+claws: 0
+claws: 0
+claws Contains 00000
+claws does not match place of 00000
+claws: a
+stops !Contain 0dieu
+stops: 0
+stops: 0
+stops: 0
+stops: 0
+stops: 0
+stops Contains 00000
+stops does not match place of 00000
+stops: a
+worst !Contain 0dieu
+worst: 0
+worst: 0
+worst: 0
+worst: 0
+worst: 0
+worst Contains 00000
+worst does not match place of 00000
+worst: a
+ghost !Contain 0dieu
+ghost: 0
+ghost: 0
+ghost: 0
+ghost: 0
+ghost: 0
+ghost Contains 00000
+ghost does not match place of 00000
+ghost: a
+march !Contain 0dieu
+march: 0
+march: 0
+march: 0
+march: 0
+march: 0
+march Contains 00000
+march does not match place of 00000
+march: a
+rocky !Contain 0dieu
+rocky: 0
+rocky: 0
+rocky: 0
+rocky: 0
+rocky: 0
+rocky Contains 00000
+rocky does not match place of 00000
+rocky: a
+coach !Contain 0dieu
+coach: 0
+coach: 0
+coach: 0
+coach: 0
+coach: 0
+coach Contains 00000
+coach does not match place of 00000
+coach: a
+crack !Contain 0dieu
+crack: 0
+crack: 0
+crack: 0
+crack: 0
+crack: 0
+crack Contains 00000
+crack does not match place of 00000
+crack: a
+walks !Contain 0dieu
+walks: 0
+walks: 0
+walks: 0
+walks: 0
+walks: 0
+walks Contains 00000
+walks does not match place of 00000
+walks: a
+canal !Contain 0dieu
+canal: 0
+canal: 0
+canal: 0
+canal: 0
+canal: 0
+canal Contains 00000
+canal does not match place of 00000
+canal: a
+folks !Contain 0dieu
+folks: 0
+folks: 0
+folks: 0
+folks: 0
+folks: 0
+folks Contains 00000
+folks does not match place of 00000
+folks: a
+shops !Contain 0dieu
+shops: 0
+shops: 0
+shops: 0
+shops: 0
+shops: 0
+shops Contains 00000
+shops does not match place of 00000
+shops: a
+moral !Contain 0dieu
+moral: 0
+moral: 0
+moral: 0
+moral: 0
+moral: 0
+moral Contains 00000
+moral does not match place of 00000
+moral: a
+balls !Contain 0dieu
+balls: 0
+balls: 0
+balls: 0
+balls: 0
+balls: 0
+balls Contains 00000
+balls does not match place of 00000
+balls: a
+horns !Contain 0dieu
+horns: 0
+horns: 0
+horns: 0
+horns: 0
+horns: 0
+horns Contains 00000
+horns does not match place of 00000
+horns: a
+spots !Contain 0dieu
+spots: 0
+spots: 0
+spots: 0
+spots: 0
+spots: 0
+spots Contains 00000
+spots does not match place of 00000
+spots: a
+favor !Contain 0dieu
+favor: 0
+favor: 0
+favor: 0
+favor: 0
+favor: 0
+favor Contains 00000
+favor does not match place of 00000
+favor: a
+marry !Contain 0dieu
+marry: 0
+marry: 0
+marry: 0
+marry: 0
+marry: 0
+marry Contains 00000
+marry does not match place of 00000
+marry: a
+porch !Contain 0dieu
+porch: 0
+porch: 0
+porch: 0
+porch: 0
+porch: 0
+porch Contains 00000
+porch does not match place of 00000
+porch: a
+boots !Contain 0dieu
+boots: 0
+boots: 0
+boots: 0
+boots: 0
+boots: 0
+boots Contains 00000
+boots does not match place of 00000
+boots: a
+solar !Contain 0dieu
+solar: 0
+solar: 0
+solar: 0
+solar: 0
+solar: 0
+solar Contains 00000
+solar does not match place of 00000
+solar: a
+arrow !Contain 0dieu
+arrow: 0
+arrow: 0
+arrow: 0
+arrow: 0
+arrow: 0
+arrow Contains 00000
+arrow does not match place of 00000
+arrow: a
+arrow: 0
+arrow: 0
+arrow: 0
+arrow: 0
+arrow Has Matched Char a0000
+arrow added to result!
+vapor !Contain 0dieu
+vapor: 0
+vapor: 0
+vapor: 0
+vapor: 0
+vapor: 0
+vapor Contains 00000
+vapor does not match place of 00000
+vapor: a
+brass !Contain 0dieu
+brass: 0
+brass: 0
+brass: 0
+brass: 0
+brass: 0
+brass Contains 00000
+brass does not match place of 00000
+brass: a
+forty !Contain 0dieu
+forty: 0
+forty: 0
+forty: 0
+forty: 0
+forty: 0
+forty Contains 00000
+forty does not match place of 00000
+forty: a
+royal !Contain 0dieu
+royal: 0
+royal: 0
+royal: 0
+royal: 0
+royal: 0
+royal Contains 00000
+royal does not match place of 00000
+royal: a
+flows !Contain 0dieu
+flows: 0
+flows: 0
+flows: 0
+flows: 0
+flows: 0
+flows Contains 00000
+flows does not match place of 00000
+flows: a
+glory !Contain 0dieu
+glory: 0
+glory: 0
+glory: 0
+glory: 0
+glory: 0
+glory Contains 00000
+glory does not match place of 00000
+glory: a
+straw !Contain 0dieu
+straw: 0
+straw: 0
+straw: 0
+straw: 0
+straw: 0
+straw Contains 00000
+straw does not match place of 00000
+straw: a
+shoot !Contain 0dieu
+shoot: 0
+shoot: 0
+shoot: 0
+shoot: 0
+shoot: 0
+shoot Contains 00000
+shoot does not match place of 00000
+shoot: a
+banks !Contain 0dieu
+banks: 0
+banks: 0
+banks: 0
+banks: 0
+banks: 0
+banks Contains 00000
+banks does not match place of 00000
+banks: a
+motor !Contain 0dieu
+motor: 0
+motor: 0
+motor: 0
+motor: 0
+motor: 0
+motor Contains 00000
+motor does not match place of 00000
+motor: a
+ranch !Contain 0dieu
+ranch: 0
+ranch: 0
+ranch: 0
+ranch: 0
+ranch: 0
+ranch Contains 00000
+ranch does not match place of 00000
+ranch: a
+rooms !Contain 0dieu
+rooms: 0
+rooms: 0
+rooms: 0
+rooms: 0
+rooms: 0
+rooms Contains 00000
+rooms does not match place of 00000
+rooms: a
+worry !Contain 0dieu
+worry: 0
+worry: 0
+worry: 0
+worry: 0
+worry: 0
+worry Contains 00000
+worry does not match place of 00000
+worry: a
+apply !Contain 0dieu
+apply: 0
+apply: 0
+apply: 0
+apply: 0
+apply: 0
+apply Contains 00000
+apply does not match place of 00000
+apply: a
+apply: 0
+apply: 0
+apply: 0
+apply: 0
+apply Has Matched Char a0000
+apply added to result!
+honor !Contain 0dieu
+honor: 0
+honor: 0
+honor: 0
+honor: 0
+honor: 0
+honor Contains 00000
+honor does not match place of 00000
+honor: a
+labor !Contain 0dieu
+labor: 0
+labor: 0
+labor: 0
+labor: 0
+labor: 0
+labor Contains 00000
+labor does not match place of 00000
+labor: a
+staff !Contain 0dieu
+staff: 0
+staff: 0
+staff: 0
+staff: 0
+staff: 0
+staff Contains 00000
+staff does not match place of 00000
+staff: a
+blank !Contain 0dieu
+blank: 0
+blank: 0
+blank: 0
+blank: 0
+blank: 0
+blank Contains 00000
+blank does not match place of 00000
+blank: a
+calls !Contain 0dieu
+calls: 0
+calls: 0
+calls: 0
+calls: 0
+calls: 0
+calls Contains 00000
+calls does not match place of 00000
+calls: a
+costs !Contain 0dieu
+costs: 0
+costs: 0
+costs: 0
+costs: 0
+costs: 0
+costs Contains 00000
+costs does not match place of 00000
+costs: a
+allow !Contain 0dieu
+allow: 0
+allow: 0
+allow: 0
+allow: 0
+allow: 0
+allow Contains 00000
+allow does not match place of 00000
+allow: a
+allow: 0
+allow: 0
+allow: 0
+allow: 0
+allow Has Matched Char a0000
+allow added to result!
+throw !Contain 0dieu
+throw: 0
+throw: 0
+throw: 0
+throw: 0
+throw: 0
+throw Contains 00000
+throw does not match place of 00000
+throw: a
+sorry !Contain 0dieu
+sorry: 0
+sorry: 0
+sorry: 0
+sorry: 0
+sorry: 0
+sorry Contains 00000
+sorry does not match place of 00000
+sorry: a
+stock !Contain 0dieu
+stock: 0
+stock: 0
+stock: 0
+stock: 0
+stock: 0
+stock Contains 00000
+stock does not match place of 00000
+stock: a
+track !Contain 0dieu
+track: 0
+track: 0
+track: 0
+track: 0
+track: 0
+track Contains 00000
+track does not match place of 00000
+track: a
+storm !Contain 0dieu
+storm: 0
+storm: 0
+storm: 0
+storm: 0
+storm: 0
+storm Contains 00000
+storm does not match place of 00000
+storm: a
+thank !Contain 0dieu
+thank: 0
+thank: 0
+thank: 0
+thank: 0
+thank: 0
+thank Contains 00000
+thank does not match place of 00000
+thank: a
+grows !Contain 0dieu
+grows: 0
+grows: 0
+grows: 0
+grows: 0
+grows: 0
+grows Contains 00000
+grows does not match place of 00000
+grows: a
+clock !Contain 0dieu
+clock: 0
+clock: 0
+clock: 0
+clock: 0
+clock: 0
+clock Contains 00000
+clock does not match place of 00000
+clock: a
+atoms !Contain 0dieu
+atoms: 0
+atoms: 0
+atoms: 0
+atoms: 0
+atoms: 0
+atoms Contains 00000
+atoms does not match place of 00000
+atoms: a
+atoms: 0
+atoms: 0
+atoms: 0
+atoms: 0
+atoms Has Matched Char a0000
+atoms added to result!
+plays !Contain 0dieu
+plays: 0
+plays: 0
+plays: 0
+plays: 0
+plays: 0
+plays Contains 00000
+plays does not match place of 00000
+plays: a
+falls !Contain 0dieu
+falls: 0
+falls: 0
+falls: 0
+falls: 0
+falls: 0
+falls Contains 00000
+falls does not match place of 00000
+falls: a
+wagon !Contain 0dieu
+wagon: 0
+wagon: 0
+wagon: 0
+wagon: 0
+wagon: 0
+wagon Contains 00000
+wagon does not match place of 00000
+wagon: a
+block !Contain 0dieu
+block: 0
+block: 0
+block: 0
+block: 0
+block: 0
+block Contains 00000
+block does not match place of 00000
+block: a
+graph !Contain 0dieu
+graph: 0
+graph: 0
+graph: 0
+graph: 0
+graph: 0
+graph Contains 00000
+graph does not match place of 00000
+graph: a
+chart !Contain 0dieu
+chart: 0
+chart: 0
+chart: 0
+chart: 0
+chart: 0
+chart Contains 00000
+chart does not match place of 00000
+chart: a
+match !Contain 0dieu
+match: 0
+match: 0
+match: 0
+match: 0
+match: 0
+match Contains 00000
+match does not match place of 00000
+match: a
+tools !Contain 0dieu
+tools: 0
+tools: 0
+tools: 0
+tools: 0
+tools: 0
+tools Contains 00000
+tools does not match place of 00000
+tools: a
+plans !Contain 0dieu
+plans: 0
+plans: 0
+plans: 0
+plans: 0
+plans: 0
+plans Contains 00000
+plans does not match place of 00000
+plans: a
+towns !Contain 0dieu
+towns: 0
+towns: 0
+towns: 0
+towns: 0
+towns: 0
+towns Contains 00000
+towns does not match place of 00000
+towns: a
+boats !Contain 0dieu
+boats: 0
+boats: 0
+boats: 0
+boats: 0
+boats: 0
+boats Contains 00000
+boats does not match place of 00000
+boats: a
+worth !Contain 0dieu
+worth: 0
+worth: 0
+worth: 0
+worth: 0
+worth: 0
+worth Contains 00000
+worth does not match place of 00000
+worth: a
+cloth !Contain 0dieu
+cloth: 0
+cloth: 0
+cloth: 0
+cloth: 0
+cloth: 0
+cloth Contains 00000
+cloth does not match place of 00000
+cloth: a
+angry !Contain 0dieu
+angry: 0
+angry: 0
+angry: 0
+angry: 0
+angry: 0
+angry Contains 00000
+angry does not match place of 00000
+angry: a
+angry: 0
+angry: 0
+angry: 0
+angry: 0
+angry Has Matched Char a0000
+angry added to result!
+shook !Contain 0dieu
+shook: 0
+shook: 0
+shook: 0
+shook: 0
+shook: 0
+shook Contains 00000
+shook does not match place of 00000
+shook: a
+roots !Contain 0dieu
+roots: 0
+roots: 0
+roots: 0
+roots: 0
+roots: 0
+roots Contains 00000
+roots does not match place of 00000
+roots: a
+farms !Contain 0dieu
+farms: 0
+farms: 0
+farms: 0
+farms: 0
+farms: 0
+farms Contains 00000
+farms does not match place of 00000
+farms: a
+marks !Contain 0dieu
+marks: 0
+marks: 0
+marks: 0
+marks: 0
+marks: 0
+marks Contains 00000
+marks does not match place of 00000
+marks: a
+apart !Contain 0dieu
+apart: 0
+apart: 0
+apart: 0
+apart: 0
+apart: 0
+apart Contains 00000
+apart does not match place of 00000
+apart: a
+apart: 0
+apart: 0
+apart: 0
+apart: 0
+apart Has Matched Char a0000
+apart added to result!
+wants !Contain 0dieu
+wants: 0
+wants: 0
+wants: 0
+wants: 0
+wants: 0
+wants Contains 00000
+wants does not match place of 00000
+wants: a
+crops !Contain 0dieu
+crops: 0
+crops: 0
+crops: 0
+crops: 0
+crops: 0
+crops Contains 00000
+crops does not match place of 00000
+crops: a
+grown !Contain 0dieu
+grown: 0
+grown: 0
+grown: 0
+grown: 0
+grown: 0
+grown Contains 00000
+grown does not match place of 00000
+grown: a
+cross !Contain 0dieu
+cross: 0
+cross: 0
+cross: 0
+cross: 0
+cross: 0
+cross Contains 00000
+cross does not match place of 00000
+cross: a
+walls !Contain 0dieu
+walls: 0
+walls: 0
+walls: 0
+walls: 0
+walls: 0
+walls Contains 00000
+walls does not match place of 00000
+walls: a
+sharp !Contain 0dieu
+sharp: 0
+sharp: 0
+sharp: 0
+sharp: 0
+sharp: 0
+sharp Contains 00000
+sharp does not match place of 00000
+sharp: a
+month !Contain 0dieu
+month: 0
+month: 0
+month: 0
+month: 0
+month: 0
+month Contains 00000
+month does not match place of 00000
+month: a
+forth !Contain 0dieu
+forth: 0
+forth: 0
+forth: 0
+forth: 0
+forth: 0
+forth Contains 00000
+forth does not match place of 00000
+forth: a
+facts !Contain 0dieu
+facts: 0
+facts: 0
+facts: 0
+facts: 0
+facts: 0
+facts Contains 00000
+facts does not match place of 00000
+facts: a
+brown !Contain 0dieu
+brown: 0
+brown: 0
+brown: 0
+brown: 0
+brown: 0
+brown Contains 00000
+brown does not match place of 00000
+brown: a
+coast !Contain 0dieu
+coast: 0
+coast: 0
+coast: 0
+coast: 0
+coast: 0
+coast Contains 00000
+coast does not match place of 00000
+coast: a
+knows !Contain 0dieu
+knows: 0
+knows: 0
+knows: 0
+knows: 0
+knows: 0
+knows Contains 00000
+knows does not match place of 00000
+knows: a
+local !Contain 0dieu
+local: 0
+local: 0
+local: 0
+local: 0
+local: 0
+local Contains 00000
+local does not match place of 00000
+local: a
+songs !Contain 0dieu
+songs: 0
+songs: 0
+songs: 0
+songs: 0
+songs: 0
+songs Contains 00000
+songs does not match place of 00000
+songs: a
+works !Contain 0dieu
+works: 0
+works: 0
+works: 0
+works: 0
+works: 0
+works Contains 00000
+works does not match place of 00000
+works: a
+catch !Contain 0dieu
+catch: 0
+catch: 0
+catch: 0
+catch: 0
+catch: 0
+catch Contains 00000
+catch does not match place of 00000
+catch: a
+stars !Contain 0dieu
+stars: 0
+stars: 0
+stars: 0
+stars: 0
+stars: 0
+stars Contains 00000
+stars does not match place of 00000
+stars: a
+total !Contain 0dieu
+total: 0
+total: 0
+total: 0
+total: 0
+total: 0
+total Contains 00000
+total does not match place of 00000
+total: a
+major !Contain 0dieu
+major: 0
+major: 0
+major: 0
+major: 0
+major: 0
+major Contains 00000
+major does not match place of 00000
+major: a
+rocks !Contain 0dieu
+rocks: 0
+rocks: 0
+rocks: 0
+rocks: 0
+rocks: 0
+rocks Contains 00000
+rocks does not match place of 00000
+rocks: a
+wrong !Contain 0dieu
+wrong: 0
+wrong: 0
+wrong: 0
+wrong: 0
+wrong: 0
+wrong Contains 00000
+wrong does not match place of 00000
+wrong: a
+grass !Contain 0dieu
+grass: 0
+grass: 0
+grass: 0
+grass: 0
+grass: 0
+grass Contains 00000
+grass does not match place of 00000
+grass: a
+looks !Contain 0dieu
+looks: 0
+looks: 0
+looks: 0
+looks: 0
+looks: 0
+looks Contains 00000
+looks does not match place of 00000
+looks: a
+happy !Contain 0dieu
+happy: 0
+happy: 0
+happy: 0
+happy: 0
+happy: 0
+happy Contains 00000
+happy does not match place of 00000
+happy: a
+north !Contain 0dieu
+north: 0
+north: 0
+north: 0
+north: 0
+north: 0
+north Contains 00000
+north does not match place of 00000
+north: a
+party !Contain 0dieu
+party: 0
+party: 0
+party: 0
+party: 0
+party: 0
+party Contains 00000
+party does not match place of 00000
+party: a
+glass !Contain 0dieu
+glass: 0
+glass: 0
+glass: 0
+glass: 0
+glass: 0
+glass Contains 00000
+glass does not match place of 00000
+glass: a
+books !Contain 0dieu
+books: 0
+books: 0
+books: 0
+books: 0
+books: 0
+books Contains 00000
+books does not match place of 00000
+books: a
+carry !Contain 0dieu
+carry: 0
+carry: 0
+carry: 0
+carry: 0
+carry: 0
+carry Contains 00000
+carry does not match place of 00000
+carry: a
+watch !Contain 0dieu
+watch: 0
+watch: 0
+watch: 0
+watch: 0
+watch: 0
+watch Contains 00000
+watch does not match place of 00000
+watch: a
+woman !Contain 0dieu
+woman: 0
+woman: 0
+woman: 0
+woman: 0
+woman: 0
+woman Contains 00000
+woman does not match place of 00000
+woman: a
+floor !Contain 0dieu
+floor: 0
+floor: 0
+floor: 0
+floor: 0
+floor: 0
+floor Contains 00000
+floor does not match place of 00000
+floor: a
+forms !Contain 0dieu
+forms: 0
+forms: 0
+forms: 0
+forms: 0
+forms: 0
+forms Contains 00000
+forms does not match place of 00000
+forms: a
+plant !Contain 0dieu
+plant: 0
+plant: 0
+plant: 0
+plant: 0
+plant: 0
+plant Contains 00000
+plant does not match place of 00000
+plant: a
+color !Contain 0dieu
+color: 0
+color: 0
+color: 0
+color: 0
+color: 0
+color Contains 00000
+color does not match place of 00000
+color: a
+start !Contain 0dieu
+start: 0
+start: 0
+start: 0
+start: 0
+start: 0
+start Contains 00000
+start does not match place of 00000
+start: a
+shows !Contain 0dieu
+shows: 0
+shows: 0
+shows: 0
+shows: 0
+shows: 0
+shows Contains 00000
+shows does not match place of 00000
+shows: a
+class !Contain 0dieu
+class: 0
+class: 0
+class: 0
+class: 0
+class: 0
+class Contains 00000
+class does not match place of 00000
+class: a
+front !Contain 0dieu
+front: 0
+front: 0
+front: 0
+front: 0
+front: 0
+front Contains 00000
+front does not match place of 00000
+front: a
+shown !Contain 0dieu
+shown: 0
+shown: 0
+shown: 0
+shown: 0
+shown: 0
+shown Contains 00000
+shown does not match place of 00000
+shown: a
+black !Contain 0dieu
+black: 0
+black: 0
+black: 0
+black: 0
+black: 0
+black Contains 00000
+black does not match place of 00000
+black: a
+short !Contain 0dieu
+short: 0
+short: 0
+short: 0
+short: 0
+short: 0
+short Contains 00000
+short does not match place of 00000
+short: a
+known !Contain 0dieu
+known: 0
+known: 0
+known: 0
+known: 0
+known: 0
+known Contains 00000
+known does not match place of 00000
+known: a
+among !Contain 0dieu
+among: 0
+among: 0
+among: 0
+among: 0
+among: 0
+among Contains 00000
+among does not match place of 00000
+among: a
+among: 0
+among: 0
+among: 0
+among: 0
+among Has Matched Char a0000
+among added to result!
+story !Contain 0dieu
+story: 0
+story: 0
+story: 0
+story: 0
+story: 0
+story Contains 00000
+story does not match place of 00000
+story: a
+parts !Contain 0dieu
+parts: 0
+parts: 0
+parts: 0
+parts: 0
+parts: 0
+parts Contains 00000
+parts does not match place of 00000
+parts: a
+shall !Contain 0dieu
+shall: 0
+shall: 0
+shall: 0
+shall: 0
+shall: 0
+shall Contains 00000
+shall does not match place of 00000
+shall: a
+along !Contain 0dieu
+along: 0
+along: 0
+along: 0
+along: 0
+along: 0
+along Contains 00000
+along does not match place of 00000
+along: a
+along: 0
+along: 0
+along: 0
+along: 0
+along Has Matched Char a0000
+along added to result!
+small !Contain 0dieu
+small: 0
+small: 0
+small: 0
+small: 0
+small: 0
+small Contains 00000
+small does not match place of 00000
+small: a
+apart !Contain 000ng
+apart: 0
+apart: 0
+apart: o
+apart: 0
+apart: 0
+atoms !Contain 000ng
+atoms: 0
+atoms: 0
+atoms: o
+atoms: 0
+atoms: 0
+atoms Contains 00o00
+allow !Contain 000ng
+allow: 0
+allow: 0
+allow: o
+allow: 0
+allow: 0
+allow Contains 00o00
+allow does not match place of 00o00
+allow: a
+allow: l
+allow: 0
+allow: 0
+allow: 0
+allow Has Matched Char al000
+allow added to result!
+apply !Contain 000ng
+apply: 0
+apply: 0
+apply: o
+apply: 0
+apply: 0
+arrow !Contain 000ng
+arrow: 0
+arrow: 0
+arrow: o
+arrow: 0
+arrow: 0
+arrow Contains 00o00
+arrow does not match place of 00o00
+arrow: a
+arrow: l
+altar !Contain 000ng
+altar: 0
+altar: 0
+altar: o
+altar: 0
+altar: 0
+alarm !Contain 000ng
+alarm: 0
+alarm: 0
+alarm: o
+alarm: 0
+alarm: 0
+array !Contain 000ng
+array: 0
+array: 0
+array: o
+array: 0
+array: 0
+armor !Contain 000ng
+armor: 0
+armor: 0
+armor: o
+armor: 0
+armor: 0
+armor Contains 00o00
+armor does not match place of 00o00
+armor: a
+armor: l
+actor !Contain 000ng
+actor: 0
+actor: 0
+actor: o
+actor: 0
+actor: 0
+actor Contains 00o00
+actor does not match place of 00o00
+actor: a
+actor: l
+alloy !Contain 000ng
+alloy: 0
+alloy: 0
+alloy: o
+alloy: 0
+alloy: 0
+alloy Contains 00o00
+alloy does not match place of 00o00
+alloy: a
+alloy: l
+alloy: 0
+alloy: 0
+alloy: 0
+alloy Has Matched Char al000
+alloy added to result!
+atlas !Contain 000ng
+atlas: 0
+atlas: 0
+atlas: o
+atlas: 0
+atlas: 0
+aloft !Contain 000ng
+aloft: 0
+aloft: 0
+aloft: o
+aloft: 0
+aloft: 0
+aloft Contains 00o00
+afoot !Contain 000ng
+afoot: 0
+afoot: 0
+afoot: o
+afoot: 0
+afoot: 0
+afoot Contains 00o00
+aloof !Contain 000ng
+aloof: 0
+aloof: 0
+aloof: o
+aloof: 0
+aloof: 0
+aloof Contains 00o00
+aroma !Contain 000ng
+aroma: 0
+aroma: 0
+aroma: o
+aroma: 0
+aroma: 0
+aroma Contains 00o00
+abyss !Contain 000ng
+abyss: 0
+abyss: 0
+abyss: o
+abyss: 0
+abyss: 0
+aptly !Contain 000ng
+aptly: 0
+aptly: 0
+aptly: o
+aptly: 0
+aptly: 0
+arbor !Contain 000ng
+arbor: 0
+arbor: 0
+arbor: o
+arbor: 0
+arbor: 0
+arbor Contains 00o00
+arbor does not match place of 00o00
+arbor: a
+arbor: l
+aorta !Contain 000ng
+aorta: 0
+aorta: 0
+aorta: o
+aorta: 0
+aorta: 0
+aorta Contains 00o00
+aorta does not match place of 00o00
+aorta: a
+aorta: l
+atoll !Contain 000ng
+atoll: 0
+atoll: 0
+atoll: o
+atoll: 0
+atoll: 0
+atoll Contains 00o00
+allot !Contain 000ng
+allot: 0
+allot: 0
+allot: o
+allot: 0
+allot: 0
+allot Contains 00o00
+allot does not match place of 00o00
+allot: a
+allot: l
+allot: 0
+allot: 0
+allot: 0
+allot Has Matched Char al000
+allot added to result!
+abhor !Contain 000ng
+abhor: 0
+abhor: 0
+abhor: o
+abhor: 0
+abhor: 0
+abhor Contains 00o00
+abhor does not match place of 00o00
+abhor: a
+abhor: l
+aback !Contain 000ng
+aback: 0
+aback: 0
+aback: o
+aback: 0
+aback: 0
+allay !Contain 000ng
+allay: 0
+allay: 0
+allay: o
+allay: 0
+allay: 0
+altos !Contain 000ng
+altos: 0
+altos: 0
+altos: o
+altos: 0
+altos: 0
+altos Contains 00o00
+altos does not match place of 00o00
+altos: a
+altos: l
+altos: 0
+altos: 0
+altos: 0
+altos Has Matched Char al000
+altos added to result!
+abbot !Contain 000ng
+abbot: 0
+abbot: 0
+abbot: o
+abbot: 0
+abbot: 0
+abbot Contains 00o00
+abbot does not match place of 00o00
+abbot: a
+abbot: l
+amass !Contain 000ng
+amass: 0
+amass: 0
+amass: o
+amass: 0
+amass: 0
+assay !Contain 000ng
+assay: 0
+assay: 0
+assay: o
+assay: 0
+assay: 0
+abort !Contain 000ng
+abort: 0
+abort: 0
+abort: o
+abort: 0
+abort: 0
+abort Contains 00o00
+alpha !Contain 000ng
+alpha: 0
+alpha: 0
+alpha: o
+alpha: 0
+alpha: 0
+aloha !Contain 000ng
+aloha: 0
+aloha: 0
+aloha: o
+aloha: 0
+aloha: 0
+aloha Contains 00o00
+amply !Contain 000ng
+amply: 0
+amply: 0
+amply: o
+amply: 0
+amply: 0
+alack !Contain 000ng
+alack: 0
+alack: 0
+alack: o
+alack: 0
+alack: 0
+awash !Contain 000ng
+awash: 0
+awash: 0
+awash: o
+awash: 0
+awash: 0
+aways !Contain 000ng
+aways: 0
+aways: 0
+aways: o
+aways: 0
+aways: 0
+achoo !Contain 000ng
+achoo: 0
+achoo: 0
+achoo: o
+achoo: 0
+achoo: 0
+achoo Contains 00o00
+achoo does not match place of 00o00
+achoo: a
+achoo: l
+avast !Contain 000ng
+avast: 0
+avast: 0
+avast: o
+avast: 0
+avast: 0
+ahhhh !Contain 000ng
+ahhhh: 0
+ahhhh: 0
+ahhhh: o
+ahhhh: 0
+ahhhh: 0
+altho !Contain 000ng
+altho: 0
+altho: 0
+altho: o
+altho: 0
+altho: 0
+altho Contains 00o00
+altho does not match place of 00o00
+altho: a
+altho: l
+altho: 0
+altho: 0
+altho: 0
+altho Has Matched Char al000
+altho added to result!
+abash !Contain 000ng
+abash: 0
+abash: 0
+abash: o
+abash: 0
+abash: 0
+ascot !Contain 000ng
+ascot: 0
+ascot: 0
+ascot: o
+ascot: 0
+ascot: 0
+ascot Contains 00o00
+ascot does not match place of 00o00
+ascot: a
+ascot: l
+avows !Contain 000ng
+avows: 0
+avows: 0
+avows: o
+avows: 0
+avows: 0
+avows Contains 00o00
+artsy !Contain 000ng
+artsy: 0
+artsy: 0
+artsy: o
+artsy: 0
+artsy: 0
+alway !Contain 000ng
+alway: 0
+alway: 0
+alway: o
+alway: 0
+alway: 0
+abaca !Contain 000ng
+abaca: 0
+abaca: 0
+abaca: o
+abaca: 0
+abaca: 0
+amahs !Contain 000ng
+amahs: 0
+amahs: 0
+amahs: o
+amahs: 0
+amahs: 0
+astro !Contain 000ng
+astro: 0
+astro: 0
+astro: o
+astro: 0
+astro: 0
+astro Contains 00o00
+astro does not match place of 00o00
+astro: a
+astro: l
+arras !Contain 000ng
+arras: 0
+arras: 0
+arras: o
+arras: 0
+arras: 0
+attar !Contain 000ng
+attar: 0
+attar: 0
+attar: o
+attar: 0
+attar: 0
+aport !Contain 000ng
+aport: 0
+aport: 0
+aport: o
+aport: 0
+aport: 0
+aport Contains 00o00
+ahoys !Contain 000ng
+ahoys: 0
+ahoys: 0
+ahoys: o
+ahoys: 0
+ahoys: 0
+ahoys Contains 00o00
+ammos !Contain 000ng
+ammos: 0
+ammos: 0
+ammos: o
+ammos: 0
+ammos: 0
+ammos Contains 00o00
+ammos does not match place of 00o00
+ammos: a
+ammos: l
+apsos !Contain 000ng
+apsos: 0
+apsos: 0
+apsos: o
+apsos: 0
+apsos: 0
+apsos Contains 00o00
+apsos does not match place of 00o00
+apsos: a
+apsos: l
+abaft !Contain 000ng
+abaft: 0
+abaft: 0
+abaft: o
+abaft: 0
+abaft: 0
+alkyl !Contain 000ng
+alkyl: 0
+alkyl: 0
+alkyl: o
+alkyl: 0
+alkyl: 0
+amyls !Contain 000ng
+amyls: 0
+amyls: 0
+amyls: o
+amyls: 0
+amyls: 0
+alloy !Contain 00th0
+alloy: 0
+alloy: 0
+alloy: 0
+alloy: 0
+alloy: o
+alloy Contains 0000o
+alloy does not match place of 0000o
+alloy: a
+alloy: l
+alloy: 0
+alloy: 0
+alloy: 0
+alloy Has Matched Char al000
+alloy added to result!
+allow !Contain 00th0
+allow: 0
+allow: 0
+allow: 0
+allow: 0
+allow: o
+allow Contains 0000o
+allow does not match place of 0000o
+allow: a
+allow: l
+allow: 0
+allow: 0
+allow: 0
+allow Has Matched Char al000
+allow added to result!

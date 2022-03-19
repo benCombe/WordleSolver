@@ -25,7 +25,7 @@ public class Solver {
 
         log = new ASCIIOutputFile("debugLog.txt");
 
-        file = new ASCIIDataFile("words.txt");
+        //file = new ASCIIDataFile("words.txt");
           
         elim = new char[LENGTH];
         mustCont = new char[LENGTH];
@@ -75,25 +75,26 @@ public class Solver {
                 break;
 
                 case 1: //Reset
-                    guessCount = 1;
-                    wordFound = false;
-                    form.clearAll();
-                    load();
+                    reset();
                     return;
                 
 
                 case 2: //Exit
                     reset = false;
-                    return;
-                
+                    return;               
 
-            }
-            
-            
-            
-        
+            }           
+  
         }
         
+    }
+    private void reset(){
+        guessCount = 1;
+        wordFound = false;
+        form.clearAll();
+        List = null;
+        load();
+        print(List);
     }
 
     private Node Filter(Node p){ //This needs to be fixed
@@ -193,17 +194,20 @@ public class Solver {
     }
 
     private void load(){
+        file = new ASCIIDataFile("words.txt");
         String word;
         while (true){
             word = file.readLine();
             if (file.isEOF()) break;
             List = new Node(word,List);
         }
+        file.close();
     }
 
     private void buildForm(){
-        form = new BasicForm("Enter", "Reset", "Exit");        
-        form.addTextArea("out");
+        form = new BasicForm("Enter", "Reset", "Exit");  
+        form.setTitle("WordleSolver");      
+        form.addTextArea("out", 10, 40);
         form.setEditable("out", false);
         form.addTextField("in", "Enter: ", 15);
         form.show();
