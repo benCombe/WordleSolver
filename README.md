@@ -8,6 +8,6 @@ The user is given a word by the program, the user then writes a string of 0's, 1
 '2' : The letter is in the word AND is in the correct place
 
 ISSUES:
-- will not work for words that contain the same letter more than once (ie, sleep, soups, etc.)
-- reset button does not work (at this time) 
-    -  Must Exit and restart
+- may not work for words that contain the same letter more than once (ie, sleep, soups, etc.)
+    - must input a '1' for all letters in the guess word that are in the actual word, even if letters do not repeat.
+

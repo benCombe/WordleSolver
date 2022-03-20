@@ -6,8 +6,7 @@ public class Solver {
 
     BasicForm form;
     ASCIIDataFile file;
-    ASCIIOutputFile log;
-
+    
     char[] elim, mustCont, fixed;
     Node List, alph;
 
@@ -21,12 +20,8 @@ public class Solver {
 
 
 
-    public Solver(){
-
-        log = new ASCIIOutputFile("debugLog.txt");
-
-        //file = new ASCIIDataFile("words.txt");
-          
+    public Solver(){        
+                  
         elim = new char[LENGTH];
         mustCont = new char[LENGTH];
         fixed = new char[LENGTH];
@@ -36,8 +31,7 @@ public class Solver {
         print(List);
         while (reset){
             Solve();
-        }
-        
+        }        
         form.close();
 
     }
@@ -102,15 +96,15 @@ public class Solver {
 
         while (p!=null){
             if (!containsAny(p.item, elim)){
-                addLog(p.item + " !Contain " + new String(elim));
+                
                 if (containsAll(p.item, mustCont)){
-                    addLog(p.item + " Contains " + new String(mustCont));
+                    
                     if (mismatch(p.item, mustCont)){
-                        addLog(p.item + " does not match place of " + new String(mustCont));
+                        
                         if(matchPlace(p.item, fixed)) {
-                            addLog(p.item + " Has Matched Char " + new String(fixed));
+                            
                             result = new Node(p.item, result); 
-                            addLog(p.item + " added to result!");                       
+                                                   
                         }
                     }
                 }
@@ -154,7 +148,7 @@ public class Solver {
     private boolean matchPlace(String wrd, char[] c){
         
         for (int i = 0; i < c.length; i++){
-            addLog(wrd + ": " + c[i]);
+            
             if (c[i] != '0'){
                 if (c[i] != wrd.charAt(i)) return false;
             }
@@ -166,7 +160,7 @@ public class Solver {
         int count = 0;
         int n = 0;
         for (int i = 0; i < c.length; i++){
-            addLog(wrd + ": " + c[i]);
+            
             if (c[i] != '0'){
                 n++;  
 
@@ -211,10 +205,6 @@ public class Solver {
         form.setEditable("out", false);
         form.addTextField("in", "Enter: ", 15);
         form.show();
-    }
-
-    private void addLog(String s){
-        log.writeLine(s);
     }
 
     public static void main(String[] args) {
