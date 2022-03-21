@@ -10,6 +10,9 @@ The user is given a word by the program, the user then writes a string of 0's, 1
 TEST Function
     - Solves a given number of randomly selected words and returns a report detailing the number of guesses per word and the total average.
 
+SET START
+    - allows user to input first word to analyze.
+
 ISSUES:
 - may not work for words that contain the same letter more than once (ie, sleep, soups, etc.)
     - must input a '1' for all letters in the guess word that are in the actual word, even if letters do not repeat.

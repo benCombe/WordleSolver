@@ -91,10 +91,17 @@ public class Solver {
                 
                 case 2: //set start
                     String input = prompt.readString();
-                    if (inList(input, List)){
-                        startWord = prompt.readString();
-                        reset();
-                    }               
+                    System.out.println(inList(input, List)); //BUG: to be inplemented later 'inList' always returns false..
+                    if (input.length() == 5){
+                        startWord = input;
+                        reset(); 
+                    }
+                    else{
+                        form.clear("out");
+                    }
+                    
+                            
+                                      
                 return;
 
 
@@ -345,8 +352,9 @@ public class Solver {
 
      //returns true if String 's' is in list 'p'
      private boolean inList(String s, Node p){
-        while (p != null){
-            if (p.item == s) return true;
+
+        while (p!=null){
+            if (p.item == s) {return true;}            
             p = p.next;
         }
         return false;
