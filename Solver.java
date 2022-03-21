@@ -1,16 +1,28 @@
 import BasicIO.*;
 
+/**
+ * @author      Ben Combe
+ * @version     a1.3.2
+ * @date        March 21st, 2022
+ */
+
 public class Solver {
 
-    private static final int LENGTH = 5;
+    private static final int LENGTH = 5; //word length
 
     BasicForm form;
+    ASCIIDisplayer reportDisplay;
+    ASCIIPrompter prompt;
     ASCIIDataFile file;
     
     char[] elim, mustCont, fixed;
     Node List, alph;
 
     int guessCount = 1;
+
+    //testing var
+    String[] testWords;
+    int[] numsOfGuess;
 
     String startWord = "adieu";
     String result, currWord;
@@ -21,7 +33,9 @@ public class Solver {
 
 
     public Solver(){        
-                  
+            
+        prompt = new ASCIIPrompter();
+
         elim = new char[LENGTH];
         mustCont = new char[LENGTH];
         fixed = new char[LENGTH];
@@ -33,9 +47,11 @@ public class Solver {
             Solve();
         }        
         form.close();
+        prompt.close();
 
     }
 
+    //program run method
     private void Solve(){
         currWord = startWord;       
 
@@ -69,11 +85,27 @@ public class Solver {
                 break;
 
                 case 1: //Reset
+                    form.writeString("status", "Solving");
                     reset();
                     return;
                 
+                case 2: //set start
+                    String input = prompt.readString();
+                    if (inList(input, List)){
+                        startWord = prompt.readString();
+                        reset();
+                    }               
+                return;
 
-                case 2: //Exit
+
+                case 3: //Test                
+                    
+                    Test(prompt.readInt());
+            
+                break;
+                
+
+                case 4: //Exit
                     reset = false;
                     return;               
 
@@ -82,15 +114,121 @@ public class Solver {
         }
         
     }
+
+    private void Test(int n){         
+        
+        String fC;
+        testWords = new String[n];
+        numsOfGuess = new int[n];
+
+        currWord = startWord;
+        form.clear("out");
+        
+        //new word, test
+        for (int i = 0; i < n; i++){ 
+            form.writeString("status", "Testing " + (i+1) + "/" + n);
+            testWords[i] = searchList(List,  randomInt(1, listLength(List))); //new word
+            form.writeLine("Testing... '" + testWords[i] + "'");
+            form.writeString("out", guessCount +": " + currWord); 
+            
+            test:
+            while(true){
+
+                fC = filterCode(testWords[i], currWord);
+                form.writeString("out",fC);
+
+                if (currWord == testWords[i]) {
+                    numsOfGuess[i] = guessCount;
+                    form.newLine("out");
+                    form.writeString("out","WORD FOUND! '" + currWord + "' in " + guessCount + " guesses!");
+                    break test;
+                }
+                else{
+                    setFilters(fC);
+                    System.out.println(fC);
+                    List = Filter(List);
+
+                    currWord = List.item;
+                    guessCount++; 
+
+                    form.newLine("out");
+                
+                    print(List);
+                    System.out.println("-------------------");
+                }
+
+            }              
+            reset();
+            currWord = startWord;
+        }
+
+        reportDisplay = new ASCIIDisplayer();
+        reportDisplay.setLabel("TEST REPORT");
+        reportDisplay.writeString("== WORD ==");
+        reportDisplay.writeString("# of Guesses");
+        reportDisplay.newLine();
+        
+        for (int i = 0; i < n; i++){
+            //spacing
+            if (i <= 8){
+                reportDisplay.writeString(" "+(i+1)+": " + testWords[i] + " - ");
+            }
+            else{
+                reportDisplay.writeString((i+1)+": " + testWords[i] + " - ");
+            }
+            
+            reportDisplay.writeInt(numsOfGuess[i]);
+            reportDisplay.newLine();
+        }
+        reportDisplay.writeString("Average: ");
+        reportDisplay.writeDouble((double)sumOfInt(numsOfGuess)/n);
+        reportDisplay.close();
+
+        form.writeString("status", "Solving");
+        reset();
+                
+    }
+
+    private String filterCode(String wrd, String guess){
+        char[] result = new char[guess.length()];
+
+        for (int i = 0; i < guess.length(); i++){
+            if (wrd.charAt(i) == guess.charAt(i)){
+                result[i] = '2';
+            }
+            else if (wrd.contains(""+guess.charAt(i))){
+                result[i] = '1';
+            }
+            else{
+                result[i] = '0';
+            }
+        }
+        
+        return new String(result);
+    }
+
+    private int sumOfInt(int[] n){
+        int result = 0;
+        for (int i: n){
+            result = result + i;
+        }
+        return result;
+    }
+
+    //resets list to default
+    //resets program start points
     private void reset(){
         guessCount = 1;
         wordFound = false;
-        form.clearAll();
+        form.clear("out");
+        form.clear("in");
         List = null;
         load();
         print(List);
     }
 
+    //goes through each word in passed list, adds words that pass through filters to 'result' list
+    //returns new list with words that went through filters 
     private Node Filter(Node p){ //This needs to be fixed
         Node result = null;      
 
@@ -115,6 +253,7 @@ public class Solver {
 
     }
 
+    //fills all char arrays with '0'
     private void resetFilters(){
         for (int i = 0; i < LENGTH; i++){
             elim[i] = '0';
@@ -123,19 +262,23 @@ public class Solver {
         }
     }
 
+    //sets the char arrays based on String input of 2's, 1's, & 0's
+    //if in[i] = '2', added to "fixed"
+    //else if = '1', added to "mustCont"
+    //else added to "elim"
     private void setFilters(String in){
         resetFilters();
-        char[] let = in.toCharArray();
-        char R;
+        char[] let = in.toCharArray();       
        
-        for (int i = 0; i < in.length(); i++){
-            R = let[i];
-            if (R == '2') fixed[i] = currWord.charAt(i);
-            else if (R == '1') mustCont[i] = currWord.charAt(i);
+        for (int i = 0; i < in.length(); i++){            
+            if (let[i] == '2') fixed[i] = currWord.charAt(i);
+            else if (let[i] == '1') mustCont[i] = currWord.charAt(i);
             else elim[i] = currWord.charAt(i);
         }
     }
 
+    //checks contents of String 'wrd'
+    //returns true if none of the chars in 'wrd' match the same index of same chars in 'c'
     private boolean mismatch(String wrd, char[] c){
         for (int i = 0; i < c.length; i++){
             if (c[i] != '0'){
@@ -145,8 +288,9 @@ public class Solver {
         return true;
     }
 
-    private boolean matchPlace(String wrd, char[] c){
-        
+    //checks contents of String 'wrd'
+    //returns true if all chars in 'wrd' match the same index of same chars in'c'
+    private boolean matchPlace(String wrd, char[] c){        
         for (int i = 0; i < c.length; i++){
             
             if (c[i] != '0'){
@@ -156,6 +300,8 @@ public class Solver {
         return true;
     }
 
+    //checks contents of String 'wrd'
+    //returns true if all chars in 'c' are in 'wrd' 
     private boolean containsAll(String wrd, char[] c){
         int count = 0;
         int n = 0;
@@ -171,6 +317,8 @@ public class Solver {
         return (count == n);
     }
 
+    //checks contents of String 'wrd'
+    //returns true if any chars in 'c' are in 'wrd'
     private boolean containsAny(String wrd, char[] c){
         for (int i = 0; i < c.length; i++){
             if (c[i] != '0'){
@@ -179,7 +327,39 @@ public class Solver {
         }
         return false;
     }
+    
 
+    //returns String of item in list by input key
+    private String searchList(Node p, int key){
+        while (p != null && key > 0){
+            p = p.next;
+            key--;
+        }
+        if ( key > 0){
+            return null;
+        }
+        else
+         return p.item;
+ 
+     }
+
+     //returns true if String 's' is in list 'p'
+     private boolean inList(String s, Node p){
+        while (p != null){
+            if (p.item == s) return true;
+            p = p.next;
+        }
+        return false;
+     }
+ 
+     public int listLength(Node p){
+         if (p!=null){
+             return 1 + listLength(p.next);
+         }
+         else return 0;
+     }  
+
+    //prints list from passed Node to console
     private void print(Node p){
         if (p!=null){
             System.out.println(p.item);
@@ -187,6 +367,7 @@ public class Solver {
         }
     }
 
+    //This method loads the words into a linked-list 'List' from words.txt
     private void load(){
         file = new ASCIIDataFile("words.txt");
         String word;
@@ -198,14 +379,23 @@ public class Solver {
         file.close();
     }
 
+    //sets up IO form
     private void buildForm(){
-        form = new BasicForm("Enter", "Reset", "Exit");  
+        form = new BasicForm("Enter", "Reset", "Set Start", "Test", "Exit");  
         form.setTitle("WordleSolver");      
+        form.addTextField("status");
+        form.writeString("status", "Solving");
+        form.setEditable("status", false);
         form.addTextArea("out", 10, 40);
         form.setEditable("out", false);
         form.addTextField("in", "Enter: ", 15);
         form.show();
     }
+
+    private int randomInt(int min, int max){
+        return (int)((max-min)*Math.random())+min;
+    }
+    
 
     public static void main(String[] args) {
         new Solver();
