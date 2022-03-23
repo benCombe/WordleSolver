@@ -23,6 +23,10 @@ public class Solver {
     //testing var
     String[] testWords;
     int[] numsOfGuess;
+    int successCount = 0;
+
+    String longestGuessWord;
+    int longestGuess;
 
     String startWord = "adieu";
     String result, currWord;
@@ -146,6 +150,15 @@ public class Solver {
 
                 if (currWord == testWords[i]) {
                     numsOfGuess[i] = guessCount;
+                    if (numsOfGuess[i] <= 6) successCount++;
+                    if (i == 0){
+                        longestGuessWord = testWords[i];
+                        longestGuess = numsOfGuess[i];
+                    }
+                    else if (i != 0 && numsOfGuess[i] > longestGuess){
+                        longestGuessWord = testWords[i];
+                        longestGuess = numsOfGuess[i];
+                    }
                     form.newLine("out");
                     form.writeString("out","WORD FOUND! '" + currWord + "' in " + guessCount + " guesses!");
                     break test;
@@ -187,11 +200,18 @@ public class Solver {
             reportDisplay.writeInt(numsOfGuess[i]);
             reportDisplay.newLine();
         }
+        reportDisplay.writeString("Longest Guess: " + longestGuessWord);
+        reportDisplay.writeString("("+longestGuess+")");
+        reportDisplay.newLine();
         reportDisplay.writeString("Average: ");
         reportDisplay.writeDouble((double)sumOfInt(numsOfGuess)/n);
+        reportDisplay.newLine();
+        reportDisplay.writeString("Success Rate: ");
+        reportDisplay.writeDouble((double)successCount/n);
         reportDisplay.close();
 
         form.writeString("status", "Solving");
+        successCount = 0;
         reset();
                 
     }
