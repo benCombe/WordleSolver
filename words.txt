@@ -5616,7 +5616,6 @@ coper
 ruche
 geeks
 swags
-etext
 algin
 offed
 ninja

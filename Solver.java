@@ -2,8 +2,8 @@ import BasicIO.*;
 
 /**
  * @author      Ben Combe
- * @version     a1.3.2
- * @date        March 21st, 2022
+ * @version     a1.3.3
+ * @date        March 24th, 2022
  */
 
 public class Solver {
@@ -18,7 +18,7 @@ public class Solver {
     char[] elim, mustCont, fixed;
     Node List, alph;
 
-    int guessCount = 1;
+    int guessCount = 0;
 
     //testing var
     String[] testWords;
@@ -60,8 +60,10 @@ public class Solver {
         currWord = startWord;       
 
         while (true){
-            if (!wordFound)                
-                form.writeString("out", guessCount +": " + currWord);               
+            if (!wordFound) {
+                guessCount++;               
+                form.writeString("out", guessCount +": " + currWord); 
+            }              
             
             form.clear("in");
             int button = form.accept();
@@ -83,7 +85,7 @@ public class Solver {
                         currWord = List.item;
                         print(List);
                         System.out.println("-------------------");
-                        guessCount++;  
+                          
                     }
 
                 break;
@@ -147,6 +149,7 @@ public class Solver {
 
                 fC = filterCode(testWords[i], currWord);
                 form.writeString("out",fC);
+                guessCount++; 
 
                 if (currWord == testWords[i]) {
                     numsOfGuess[i] = guessCount;
@@ -169,7 +172,7 @@ public class Solver {
                     List = Filter(List);
 
                     currWord = List.item;
-                    guessCount++; 
+                    
 
                     form.newLine("out");
                 
@@ -182,9 +185,20 @@ public class Solver {
             currWord = startWord;
         }
 
+        printReport(n);
+
+        form.writeString("status", "Solving");
+        successCount = 0;
+        reset();
+                
+    }
+
+    private void printReport(int n){
         reportDisplay = new ASCIIDisplayer();
         reportDisplay.setLabel("TEST REPORT");
-        reportDisplay.writeString("== WORD ==");
+        reportDisplay.writeString("START WORD: " + startWord);
+        reportDisplay.newLine();
+        reportDisplay.writeString("   WORD");
         reportDisplay.writeString("# of Guesses");
         reportDisplay.newLine();
         
@@ -198,6 +212,9 @@ public class Solver {
             }
             
             reportDisplay.writeInt(numsOfGuess[i]);
+            if (numsOfGuess[i] > 6){
+                reportDisplay.writeChar('X');
+            }
             reportDisplay.newLine();
         }
         reportDisplay.writeString("Longest Guess: " + longestGuessWord);
@@ -209,11 +226,6 @@ public class Solver {
         reportDisplay.writeString("Success Rate: ");
         reportDisplay.writeDouble((double)successCount/n);
         reportDisplay.close();
-
-        form.writeString("status", "Solving");
-        successCount = 0;
-        reset();
-                
     }
 
     private String filterCode(String wrd, String guess){
@@ -245,7 +257,7 @@ public class Solver {
     //resets list to default
     //resets program start points
     private void reset(){
-        guessCount = 1;
+        guessCount = 0;
         wordFound = false;
         form.clear("out");
         form.clear("in");
@@ -348,9 +360,17 @@ public class Solver {
     //returns true if any chars in 'c' are in 'wrd'
     private boolean containsAny(String wrd, char[] c){
         for (int i = 0; i < c.length; i++){
-            if (c[i] != '0'){
+            if (c[i] != '0' /*&& !inCharArray(c[i], mustCont)*/){ //TODO: test to make sure it doesn't break the program
                 if (wrd.contains(""+c[i])) return true;
             }
+        }
+        return false;
+    }
+
+    //returns true if array contains char c
+    private boolean inCharArray(char c, char[] array){
+        for (char ch : array) {
+            if (ch == c) return true;
         }
         return false;
     }
@@ -423,7 +443,6 @@ public class Solver {
     private int randomInt(int min, int max){
         return (int)((max-min)*Math.random())+min;
     }
-    
 
     public static void main(String[] args) {
         new Solver();
